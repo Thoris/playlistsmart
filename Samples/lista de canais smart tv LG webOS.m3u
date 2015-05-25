@@ -1,0 +1,1190 @@
+﻿#EXTM3U
+
+##########################################
+#EXTINF:-1 tvg-logo="" group-title="TODOS CANAIS TV",TODOS CANAIS TV
+http://0.0.0.0:TODOS CANAIS TV
+
+#EXTINF:-1, Basket USA - Arizona
+http://xrxs.net/video/live-p12ariz-1164.m3u8
+ 
+#EXTINF:-1, Basket USA - Los Angeles
+http://xrxs.net/video/live-p12losa-1164.m3u8
+ 
+#EXTINF:-1, Basket USA - Mountain
+http://xrxs.net/video/live-p12moun-1164.m3u8
+ 
+#EXTINF:-1, Basket USA - Oregon
+http://xrxs.net/video/live-p12oreg-1164.m3u8
+ 
+#EXTINF:-1, Berita Satu Sport
+http://beritasatulive-lh.akamaihd.net/i/b1sport_1@121529/index_720_av-p.m3u8
+
+#EXTINF:-1, CDN
+http://108.168.206.90:1935/cdn/cdn/playlist.m3u8
+
+#EXTINF:-1, Dubai Racing UAE
+http://cdnehlsdubairacing2.endavomedia.com/smil:dmilivedubairacing2.smil/playlist.m3u8
+
+#EXTINF:-1, Fight Box
+http://stream1.zoovision.com//livespi/fightbox/playlist.m3u8
+
+
+
+
+
+#EXTINF:-1, Fox Sports 2 Spain
+http://200.76.77.237/LIVE/H01/CANAL527/PROFILE05.m3u8?=1
+
+
+
+
+
+#EXTINF:-1, Fox Sports Spain
+http://200.76.77.237/LIVE/H01/CANAL520/PROFILE05.m3u8?=1
+
+
+#EXTINF:-1, ESPN Spain
+http://200.76.77.237/LIVE/H01/CANAL558/PROFILE05.m3u8?=1
+
+#EXTINF:-1, ESPN 2 Spain
+http://200.76.77.237/LIVE/H01/CANAL561/PROFILE05.m3u8?=1
+
+#EXTINF:-1, ESPN 3 Spain
+http://200.76.77.237/LIVE/H01/CANAL520/PROFILE05.m3u8?=1
+
+
+#############################################################
+
+
+
+
+
+#EXTINF:-1, TV Agro
+http://uneapple-i.akamaihd.net/hls/live/205015/grupoune_st6@205015/st6_index.m3u8
+
+#EXTINF:-1, TV Ciência
+mms://video-wm.tvciencia.pt/video/tvcnews_256.wmv
+
+
+#EXTINF:-1, Sic
+http://88.157.194.246/live/ramdisk/zsic/HLS/zsic.m3u8
+
+#EXTINF:-1, RT Documentary
+http://odna.octoshape.net/f3f5m2v4/cds/ch5_720p/chunklist.m3u8
+ 
+#EXTINF:-1, RTP Açores
+http://ec21.rtp.pt/liverepeater/rtpacores.smil/playlist.m3u8
+ 
+#EXTINF:-1, RTP África
+http://ec22.rtp.pt/liverepeater/_definst_/rtpafrica_5ch27h264.stream/chunklist.m3u8?wowzasessionid=881350302
+ 
+#EXTINF:-1, RTP Astúrias
+http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
+
+#EXTINF:-1, RTP Memória
+http://ec21.rtp.pt/liverepeater/_definst_/rtpmem_5ch80h264.stream/chunklist_w442557998.m3u8
+ 
+#EXTINF:-1, RTP Informação
+http://ec22.rtp.pt/liverepeater/_definst_/rtpn_5ch64h264.stream/chunklist.m3u8?wowzasessionid=1307348643
+ 
+#EXTINF:-1, RTP Internacional
+http://ec24.rtp.pt/liverepeater/rtpi.smil/playlist.m3u8
+
+#EXTINF:-1, Rai 4
+mmsh://212.162.68.162:80/Rai4/Rai4?MSWMExt=.asf
+
+#EXTINF:-1, Rai 5 
+mmsh://212.162.68.162:80/Rai5/Rai5
+
+#EXTINF:-1, Rai Scuola 
+mmsh://212.162.68.163:80/Rai_Scuola?MSWMExt.as
+
+#EXTINF:-1, Fashion TV
+http://hls.novotelecom.ru/streaming/fashion/tvrec/playlist.m3u8
+ 
+#EXTINF:-1, Fyi
+http://202.75.23.36:1400/live/ch46/03.m3u8
+
+#EXTINF:-1, Band Paraná
+http://mistreaming.com.br:8081/TarobaCascavel/TarobaCascavel/playlist.m3u8
+
+#EXTINF:-1,TV Mocinha mms
+mms://tvmocinha.radioamfm.com.br/tvmocinha
+
+
+#EXTINF:-1,UCG TV Canal 24 mms
+mms://wms.softhost.com.br/ucgtv
+
+#EXTINF:-1, Distrito Comédia
+http://200.76.77.237/LIVE/H01/CANAL272/PROFILE05.m3u8?=
+
+#EXTINF:-1,Igreja Cristo Vive mms
+mms://overserver1000.com/tvcristovive3
+
+#EXTINF:-1,REDE FAMILIA mms
+mms://srv3.ntelecom.com.br/redefamilia
+
+#EXTINF:-1  ,TV Diário
+http://livela.sambatech.com.br/hls-live/livepkgr/tvdiario_2ff357495c9f34b35fc02b51ee33d935/liveevent/livestream.m3u8
+
+
+
+#EXTINF:-1, RTP Memória
+http://ec21.rtp.pt/liverepeater/_definst_/rtpmem_5ch80h264.stream/chunklist_w442557998.m3u8
+ 
+http://video-live.iol.pt:1935/live_tvi/_definst_/mp4:TVI3/playlist.m3u8
+
+#EXTINF:-1, TVI+
+http://video-live.iol.pt:1935/live_tvi/_definst_/mp4:TVI3/playlist.m3u8
+ 
+#EXTINF:-1, TVI 24+
+http://video-live.iol.pt:1935/live_tvi24/_definst_/mp4:TVI24-1/playlist.m3u8
+ 
+
+ 
+#EXTINF:-1, Batman
+http://66.90.111.66:1935/ctv/batman/waldo_paes.m3u8
+###############################################################################
+
+
+
+
+#EXTINF:-1 "Seriados 24Hrs", Heroes
+http://66.90.111.66:1935/ctv/_definst_/heroes/waldo_paes.m3u8
+
+
+#EXTINF:-1, TV Rá Tim-Bum
+http://66.90.111.66:1935/ctv/castelo/url(iptv=Series).m3u8
+
+
+
+#EXTINF:-1 ,SBT Interior
+http://srv3.zoeweb.tv:1935/z133-live/stream/playlist.m3u8
+
+
+#EXTINF:-1 ,TV Diário
+http://livela.sambatech.com.br/hls-live/livepkgr/tvdiario_2ff357495c9f34b35fc02b51ee33d935/liveevent/livestream.m3u8
+
+#EXTINF:-1 , Doug
+http://66.90.111.66:1935/ctv/doug/waldo_paes.m3u8
+
+
+
+
+#EXTINF:-1 ,TV Escola HD
+http://livela.sambatech.com.br/hls-live/livepkgr/acerp_1f9a5d00db56b3c3020b6ac3dd693e12/liveevent/livestream.m3u8
+
+
+#EXTINF:-1, TV Com RS
+http://32747t.lp.azioncdn.net:1935/2747t/2747t/a/mp4:access_options/rtmp-live/tvcom.sdp/PAZ.m3u8
+
+#EXTINF:-1, TV Com SC
+http://322747t.lp.azioncdn.net:1935/2747t/a/mp4:access_options/rtmp-live/tvcom-sc.sdp/PAZ.m3u8
+ 
+#EXTINF:-1, TV Diário
+http://livela.sambatech.com.br/hls-live/livepkgr/tvdiario_2ff357495c9f34b35fc02b51ee33d935/liveevent/livestream.m3u8
+ 
+#EXTINF:-1, TV Escola
+http://livela.sambatech.com.br/hls-live/livepkgr/acerp_1f9a5d00db56b3c3020b6ac3dd693e12/liveevent/livestream.m3u8 
+
+#EXTINF:-1, TV Senado
+mms://drix.senado.gov.br/tv1
+
+
+#EXTINF:-1, Rede Minas
+mms://tv-coder.unifenas.br/aovivo
+
+
+#EXTINF:-1 , Tom e Jerry
+http://66.90.111.66:1935/ctv/tom/waldo_paes.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1, Dancetv
+http://87.239.31.232/hls/230.3.4.169.sd.stream.m3u8
+
+#EXTINF:-1, MIMUSICA Latino HD
+http://uneapple-i.akamaihd.net/hls/live/206731/grupoune_st20@206731/st20_index.m3u8
+
+#EXTINF:-1 ,Vevo 1 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+
+#EXTINF:-1, Vevo 2 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+
+#EXTINF:-1,Vevo 3 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+
+##################################################################################################
+#EXTINF:-1 ,Comedy Central
+http://live.livestreamcast.org:1935/live/comedy913/comedy913/playlist.m3u8
+
+
+#EXTINF:-1, Chuck
+http://66.90.111.66:1935/ctv/chuck/playlist.m3u8
+
+#EXTINF:-1 , Ben 10
+http://66.90.111.66:1935/ctv/ben10/waldo_paes.m3u8
+
+#EXTINF:-1 ,Bob Esponja
+http://66.90.111.66:1935/ctv/bob/waldo_paes.m3u8
+
+#EXTINF:-1, Caverna do Dragão
+http://66.90.111.66:1935/ctv/caverna/waldo_paes.m3u8
+
+#EXTINF:-1 , Familia da Pesada
+http://66.90.111.66:1935/ctv/_definst_/family/waldo_paes.m3u8
+
+
+#EXTINF:-1, Futurama
+http://66.90.111.66:1935/ctv/_definst_/futurama/waldo_paes.m3u8
+
+#EXTINF:-1 , Galinha Pintadinha
+http://66.90.111.66:1935/ctv/galinha/waldo_paes.m3u8
+
+
+#EXTINF:-1, Naruto
+http://66.90.111.66:1935/ctv/_definst_/naruto/waldo_paes.m3u8
+
+#EXTINF:-1 ,Pica Pau
+http://66.90.111.66:1935/ctv/_definst_/picapau/waldo_paes.m3u8
+
+##################################################################
+
+
+
+
+#EXTINF:-1, Fight Box
+http://stream1.zoovision.com//livespi/fightbox/playlist.m3u8
+
+
+#EXTINF:-1, TV5 Monde
+http://uneapple-i.akamaihd.net/hls/live/206412/grupoune_st11@206412/st11_index.m3u8
+ 
+#EXTINF:-1, TV Agro
+http://uneapple-i.akamaihd.net/hls/live/205015/grupoune_st6@205015/st6_index.m3u8
+
+
+#EXTINF:-1, TVI+
+http://video-live.iol.pt:1935/live_tvi/_definst_/mp4:TVI3/playlist.m3u8
+ 
+#EXTINF:-1, TVI 24+
+http://video-live.iol.pt:1935/live_tvi24/_definst_/mp4:TVI24-1/playlist.m3u8
+ 
+
+
+
+#EXTINF:-1, Abu Dhabi Sports 1
+http://odna.octoshape.net/h5f3k7p8/cds/smil:adsport1hd/chunklist_b880000.m3u8
+ 
+#EXTINF:-1, Abu Dhabi Sports 2
+http://odna.octoshape.net/h5f3k7p8/cds/smil:adsport2hd/chunklist_b880000.m3u8
+
+#EXTINF:-1, RT Documentary
+http://odna.octoshape.net/f3f5m2v4/cds/ch5_720p/chunklist.m3u8
+ 
+
+#EXTINF:-1, RTP África
+http://ec22.rtp.pt/liverepeater/_definst_/rtpafrica_5ch27h264.stream/chunklist.m3u8?wowzasessionid=881350302
+ 
+#EXTINF:-1, RTP Astúrias
+http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8
+
+#EXTINF:-1, RTP Informação
+http://ec22.rtp.pt/liverepeater/_definst_/rtpn_5ch64h264.stream/chunklist.m3u8?wowzasessionid=1307348643
+ 
+
+#EXTINF:-1, Sic
+http://88.157.194.246/live/ramdisk/zsic/HLS/zsic.m3u8
+ 
+
+
+ 
+
+
+
+ #EXTINF:-1, Life Design
+http://uneapple-i.akamaihd.net/hls/live/207384/grupoune_st22@207384/st22_index.m3u8
+ 
+#EXTINF:-1, London Live
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master_900.m3u8
+ 
+#EXTINF:-1, Nasa Channel
+http://public.infozen.cshls.lldns.net/infozen/public/public.m3u8?Vd?u#bt!25
+ 
+
+
+
+#EXTINF:-1,MEXICO -  TV AZTECA NOTICIAS
+http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
+
+#EXTINF:-1 ,CNN [HD]
+http://hls.novotelecom.ru/streaming/cnn/tvrec/playlist.m3u8
+
+#EXTINF:-1 , BBC News
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8
+
+#EXTINF:-1 ,ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+
+#EXTINF:-1 , CCTV news
+http://77.36.61.45:8010/CCTVNews.m3u8
+
+#EXTINF:-1 , i24 News English
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/i24/ls_satlink/b_828.m3u8
+
+#EXTINF:-1 , Pentagon Channel
+http://149.11.34.6:1935/live/pentagon.stream/playlist.m3u8?wowzasessionid=750145898
+
+######################################################################MUSIC################################################################################################
+
+
+############################################################################DOCUMENTARIES##################################################################################
+
+
+
+#EXTINF:-1 , Bio
+http://202.75.23.36:1400/live/ch46/03.m3u8
+
+#EXTINF:-1, National Geographic Channel
+http://202.75.23.35:1400/live/ch38/03.m3u8
+
+
+
+#EXTINF:-1 , NASA TV
+http://public.infozen.cshls.lldns.net/infozen/public/public.m3u8
+
+
+
+
+
+
+
+######################################################################################
+
+
+#EXTINF:-1 tvg-logo="" group-title="",Radios
+http://0.0.0.0:Radios
+
+
+#EXTINF:0 $ExtFilter="RÁDIO" group-title="RÁDIO" tvg-logo="radio cidade rj.jpg" tvg-name="RÁDIO CIDADE"radio=true,Cidade FM Rj
+http://2483.live.streamtheworld.com/RADIOCIDADEAAC
+
+#EXTINF:0 $ExtFilter="RÁDIO" group-title="RÁDIO" tvg-logo="HITSPOPROCK.jpg" tvg-name="Paiquerê fm"radio=true,Hits Pop Rock
+http://radio1.suaradionanet.net:10799/stream?type=.flv
+
+#EXTINF:0 $ExtFilter="RÁDIO" group-title="RÁDIO" tvg-logo="mpb.jpg" tvg-name="Paiquerê fm"radio=true,MPB Web
+http://suaradio1.dyndns.ws:10552/stream?type=.flv
+
+#EXTINF:0 $ExtFilter="RÁDIO" group-title="RÁDIO" tvg-logo="samba e pagode.jpg" tvg-name="Paiquerê fm"radio=true,Samba e Pagode
+http://suaradio1.dyndns.ws:10370/stream?type=.flv
+
+#EXTINF:0 $ExtFilter="RÁDIO" group-title="RÁDIO" tvg-logo="puro.jpg" tvg-name="Paiquerê fm"radio=true,Puro Flashback
+http://streaming04.brlogic.com:8172/live?type=.flv
+
+
+################################################
+
+#EXTINF:-1,MEXICO -  TV AZTECA NOTICIAS
+http://urtmpkal-f.akamaihd.net/i/077zoqxzy_1@130091/index_3_av-p.m3u8
+
+ 
+#EXTINF:-1,Deportv
+http://test_deportv-lh.akamaihd.net/i/Deportv_1@7279/master.m3u8
+ 
+ 
+#EXTINF:-1, MIMUSICA Latino HD
+http://uneapple-i.akamaihd.net/hls/live/206731/grupoune_st20@206731/st20_index.m3u8
+
+
+#EXTINF:-1 tvg-logo="" group-title="CANAIS ADULTOS",CANAIS ADULTOS
+http://0.0.0.0:CANAIS ADULTOS
+
+#EXTINF:-1, Babe Spotting TV
+http://46.249.213.93/iPhone/broadcast/babespotting-iphone.3gp/babespotting-iphone.3gp-mr414k.m3u8
+ 
+#EXTINF:-1, Hot 100 Live
+http://46.249.213.93/iPhone/broadcast/hot100-iphone.3gp/hot100-iphone.3gp-mr143k.m3u8
+
+#EXTINF:-1, YouDiva
+http://46.249.213.87/iPhone/broadcast/youdiva-tablet.3gp/youdiva-tablet.3gp-mr497k.m3u8
+
+
+
+#EXTINF:-1 tvg-id="IPTV Brasil" - "group-title="Mélo Filmes",O Protetor
+http://is.gd/qiuFFz
+
+#EXTINF:-1 tvg-id="IPTV Brasil" - "group-title="Mélo Filmes",Os Reis Do Verão
+http://is.gd/iVSV8i
+
+#EXTINF:-1 tvg-id="IPTV Brasil" -"group-title="Mélo Filmes", Amor Sem Pecado – Dublado 
+http://is.gd/WCG91N
+
+#EXTINF:-1 tvg-id="IPTV Brasil" - "group-title="Mélo Filmes",O apocalipse 
+http://is.gd/pNHBM2
+
+#EXTINF:-1 tvg-id="IPTV Brasil"- "group-title="Mélo Filmes",Os Mercenários 3 – Full HD 1080p – Dublado 
+http://is.gd/3JAABQ
+
+#EXTINF:-1 tvg-id="IPTV Brasil" -"group-title="Mélo Filmes", Need For Speed – O Filme Bluray Full HD 1080p Dublado
+http://is.gd/uRbjA2
+
+#EXTINF:-1 tvg-id="IPTV Brasil" - "group-title="Mélo Filmes",Fúria – Full HD 1080p – Dublado 
+http://is.gd/oQL5Do
+
+#EXTINF:-1 tvg-id="IPTV Brasil" -"group-title="Mélo Filmes",Complicaçoes Do Amor
+http://is.gd/1YsNiw
+
+#EXTINF:-1 tvg-id="IPTV Brasil" -"group-title="Mélo Filmes", Antes De Dormir  
+http://is.gd/Zk6zE5
+
+#EXTINF:-1 tvg-id="IPTV Brasil" - "group-title="Mélo Filmes",O Homem Mais Procurado
+http://is.gd/CK6N2g
+
+#EXTINF:-1 tvg-id="IPTV Brasil" - "group-title="Mélo Filmes",Lucy 1080p 
+http://is.gd/lHO3dp
+
+#EXTINF:-1 tvg-id="IPTV Brasil" - "group-title="Mélo Filmes",O impoossivel 
+http://is.gd/Pw2QIw
+
+#EXTINF:-1 tvg-id= "group-title="Mélo Filmes",Sete Dias Sem Fim
+http://is.gd/MEGmKZ
+
+#EXTINF:-1 tvg-id="IPTV Brasil" -"group-title="Mélo Filmes",De Volta ao Jogo Dublado 2014
+http://is.gd/9veKKN
+
+#EXTINF:-1 tvg-id="IPTV Brasil" -"group-title="Mélo Filmes",O Espelho
+http://is.gd/aShDpZ
+
+#EXTINF:-1 tvg-id="IPTV Brasil" -"group-title="Mélo Filmes",Uma Longa Viagem
+http://is.gd/Qq1Qns
+
+#EXTINF:-1 tvg-id="IPTV Brasil" -"group-title="Mélo Filmes",O Juiz
+http://is.gd/yz7qbI
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",A Beira do Abismo
+http://media-br-am.crackle.com/1/1/v6/r1zlf_480p.mp4
+
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",1984 - Dublado
+http://media-br-am.crackle.com/1/p/f6/75ylf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",12 Horas
+http://media-br-am.crackle.com/1/3/v6/11zlf_480p.mp4	
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",A Era da Escuridao
+http://media-br-am.crackle.com/1/e/f6/w4ylf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",A festa nunca termina - Dublado
+http://media-br-am.crackle.com/1/q/f6/85ylf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",A Grande Jogada - Dublado
+http://media-br-am.crackle.com/1/g/z6/otvlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",A Guerra De Hart - Dublado
+http://media-br-am.crackle.com/1/3/v6/01zlf_480p.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",A Herança de Mr. Deeds - Dublado
+http://media-br-am.crackle.com/1/g/n6/r7ulf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",A Hora do Rango - Dublado
+http://media-br-am.crackle.com/1/u/l6/7ewlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",A Informante - Dublado
+http://media-br-am.crackle.com/1/j/l6/ydwlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",A Jovem Rainha Victoria
+http://media-br-am.crackle.com/1/y/f6/66ylf_480p.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Agente Indomavel
+http://media-br-am.crackle.com/1/q/v6/hnvlf_480p.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",A Primeira Vista
+http://media-br-am.crackle.com/1/h/16/zaylf_480p.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Africa dos Meus Sonhos
+http://media-br-am.crackle.com/1/0/16/6o1lf_480p.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",A Ultima Missao
+ http://media-br-am.crackle.com/1/m/h6/16vlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Adeus Amor
+http://media-br-am.crackle.com/1/-/d6/g5vlf_480p.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Adoraveis Mulheres
+http://media-br-am.crackle.com/1/3/f6/s7ylf_480p.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Robocop 3 - Dublado
+http://media-br-am.crackle.com/1/2/f6/o7ylf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Uma Noiva e Tanto
+http://media-br-am.crackle.com/1/c/n6/96ulf_480p.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Africa dos Meus Sonhos - Dublado
+http://media-br-am.crackle.com/1/0/16/6o1lf_480p.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Agente Indomavel
+http://media-br-am.crackle.com/1/q/v6/hnvlf_480p.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",All That Jazz: O Show Deve Continuar - Dublado
+http://media-br-am.crackle.com/1/_/d6/i5vlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Almondegas 4 - Ferias de Verao - Dublado
+http://media-br-am.crackle.com/1/q/v6/jkvlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Amar  Trair e Roubar - Dublado
+http://media-br-am.crackle.com/1/q/v6/kkvlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Ameaça Virtual - Crime - Dublado
+http://media-br-am.crackle.com/1/z/16/2o1lf_480p.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Amigo de Caça - Dublado: 
+http://media-br-am.crackle.com/1/w/z6/ksvlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Anjos da Noite 3 A Rebeliao
+Dublado:http://media-br-am.crackle.com/1/2/16/dp1lf_480p.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Apenas Uma Vez - Dublado
+http://media-br-am.crackle.com/1/y/f6/86ylf_480p.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Aprendendo A Viver - Dublado
+http://media-br-am.crackle.com/1/8/d6/84vlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",As coisas impossiveis do amor - Dublado
+http://media-br-am.crackle.com/1/y/z6/rsvlf_480p.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",As Duas Faces Da Lei - Dublado
+http://media-br-am.crackle.com/1/r/v6/okvlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",As Faces de Helen - Dublado
+http://media-br-am.crackle.com/1/g/f6/44ylf_480p.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Assalto Sobre Trilhos - Dublado
+http://media-br-am.crackle.com/1/5/f6/07ylf_480p_1mbps.mp4 
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Atraidos Pelo Destino - Dublado
+http://media-br-am.crackle.com/1/e/l6/edwlf_480p.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Bastidores de um Casamento - Dublado
+http://media-br-am.crackle.com/1/w/v6/80zlf_480p.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Fim Da Linha - Dublado
+http://media-br-am.crackle.com/1/h/j6/i0ulf_480p.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Bolas em Panico - Dublado
+http://media-br-am.crackle.com/1/l/l6/7gwlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Brinquedo Assassino
+http://media-br-am.crackle.com/1/j/l6/0dwlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Cada um Vive Como Quer
+Dublado:http://media-br-am.crackle.com/1/-/j6/t3ulf_480p.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Caes de Guerra
+http://media-br-am.crackle.com/1/p/v6/fkvlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Caminhos Opostos
+Dublado: http://media-br-am.crackle.com/1/q/f6/a6ylf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Casamento às Avessas
+http://media-br-am.crackle.com/1/g/f6/34ylf_480p.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Cativeiro
+http://media-br-am.crackle.com/1/h/z6/stvlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Christine - O Carro Assassino
+http://media-br-am.crackle.com/1/2/n6/79ulf_480p.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Cinturao Vermelho
+http://media-br-am.crackle.com/1/g/v6/fjvlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Codigo de Honra
+http://media-br-am.crackle.com/1/3/16/kp1lf_480p.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Coisas Belas E Sujas
+http://media-br-am.crackle.com/1/4/d6/o4vlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Como Conquistar Uma Mulher
+http://media-br-am.crackle.com/1/i/z6/vtvlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Comportamento Suspeito
+http://media-br-am.crackle.com/1/6/f6/37ylf_480p.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Conquista Sangrenta 
+Dublado:http://media-br-am.crackle.com/1/1/v6/s1zlf_480p.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Corpo em Evidencia
+http://media-br-am.crackle.com/1/j/16/97wlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Crash: No Limite
+http://media-br-am.crackle.com/1/z/z6/usvlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Desafio Radical
+http://media-br-am.crackle.com/1/w/z6/jsvlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Desaparecidas
+http://media-br-am.crackle.com/1/9/l6/wjwlf_480p.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Divisao de Homicidios
+http://media-br-am.crackle.com/1/f/f6/z4ylf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Encontros ao Acaso
+http://media-br-am.crackle.com/1/y/f6/73ylf_480p.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Enquanto Ela Esta Fora
+http://media-br-am.crackle.com/1/r/d6/9zvlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Equilibrio
+http://media-br-am.crackle.com/1/v/d6/n3vlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Erin Brockovich- Uma Mulher de Talento
+http://media-br-am.crackle.com/1/j/f6/f5ylf_480p.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Estrada Maldita
+http://media-br-am.crackle.com/1/3/f6/r7ylf_480p.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Estranha Obsessao
+http://media-br-am.crackle.com/1/b/h6/r5vlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Eu Sei Quem Me Matou
+http://media-br-am.crackle.com/1/z/f6/96ylf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Excesso de Bagagem
+http://media-br-am.crackle.com/1/v/z6/esvlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Fantasmas de Marte
+http://media-br-am.crackle.com/1/0/16/5o1lf_480p.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Feitiço da Lua
+http://media-br-am.crackle.com/1/2/16/gp1lf_480p.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Femme Fatale
+http://media-br-am.crackle.com/1/c/16/e7wlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Fido - O Mascote 
+http://media-br-am.crackle.com/1/y/d6/40vlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Flores Partidas 
+http://media-br-am.crackle.com/1/j/z6/0tvlf_480p_1mbps.mp4
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Fuga de Absolom 
+http://media-br-am.crackle.com/1/w/n6/j9ulf_480p.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Funcionario do Mes
+http://media-br-am.crackle.com/1/g/z6/ptvlf_480p.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Garotas Selvagens 4
+http://media-br-am.crackle.com/1/1/16/9o1lf_480p.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Gattaca  a Experiencia Genetica
+http://media-br-am.crackle.com/1/r/z6/yuvlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Gleria
+http://media-br-am.crackle.com/1/w/n6/k6ulf_480p.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Godzilla
+http://media-br-am.crackle.com/1/4/f6/v7ylf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Grande Hotel
+http://media-br-am.crackle.com/1/5/d6/v4vlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Greta
+http://media-br-am.crackle.com/1/y/z6/ssvlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Guerra ao Terror
+http://media-br-am.crackle.com/1/q/f6/95ylf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Hackers - Piratas de Computador
+http://media-br-am.crackle.com/1/z/16/1o1lf_480p.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Caçada Sem Tregua
+http://media-br-am.crackle.com/1/l/v6/zjvlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Haven 
+http://media-br-am.crackle.com/1/h/16/yaylf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Herois Imaginarios
+http://media-br-am.crackle.com/1/f/z6/ltvlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Homens Perigosos
+http://media-br-am.crackle.com/1/b/h6/o8vlf_480p.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Honra & Coragem - As Quatro Plumas
+http://media-br-am.crackle.com/1/6/d6/04vlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Hooligans Furia nos campos 
+http://media-br-am.crackle.com/1/x/z6/lsvlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Horas de Desespero 
+http://media-br-am.crackle.com/1/n/v6/5jvlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Hotel Ruanda 
+http://media-br-am.crackle.com/1/0/d6/a4vlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Impacto Mortal
+http://media-br-am.crackle.com/1/n/v6/6jvlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Inocente ou Culpado 
+http://media-br-am.crackle.com/1/t/d6/h3vlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Ironias do Amor
+http://media-br-am.crackle.com/1/x/h6/97vlf_480p.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",JCVD
+http://media-br-am.crackle.com/1/5/f6/y7ylf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Jogando com Prazer
+ http://media-br-am.crackle.com/1/v/z6/fsvlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Jogos Trapaças E Dois Canos Fumegantes
+http://media-br-am.crackle.com/1/n/um/rbeyb_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Jogue a Mamae do Trem 
+Dublado:http://media-br-am.crackle.com/1/2/v6/y1zlf_480p.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Jovens Bruxas
+http://media-br-am.crackle.com/1/f/l6/hdwlf_480p.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Kalifornia - Uma Viagem ao Inferno
+http://media-br-am.crackle.com/1/r/v6/lkvlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Karate Kid 3 - O Desafio Final
+http://media-br-am.crackle.com/1/4/f6/u7ylf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Kung-Fu Futebol Clube
+http://media-br-am.crackle.com/1/0/d6/83vlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Kung-Fusao
+http://media-br-am.crackle.com/1/s/n6/65ulf_480p.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",A Rua das Tentacoes
+http://media-br-am.crackle.com/1/u/l6/8ewlf_480p.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Lawrence da Arabia
+http://media-br-am.crackle.com/1/i/z6/ytvlf_480p.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Lembranças de Hollywood
+http://media-br-am.crackle.com/1/9/l6/zjwlf_480p.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Lenda Urbana 3- A Vinganca de Mary 
+http://media-br-am.crackle.com/1/v/n6/f9ulf_480p.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Lendas da Paixao 
+http://media-br-am.crackle.com/1/8/l6/ujwlf_480p.mp4	
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Lua de Mel em Las Vegas 
+http://media-br-am.crackle.com/1/z/f6/a7ylf_480p.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",A Mina Abandonada
+http://is.gd/5vE4ya
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes", Invocação do Mal Online HD 720p Dublado 
+http://is.gd/sa9j6q
+
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Juntos E MIsturados
+http://is.gd/GbTSAH
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",O Anjo Malvado
+http://is.gd/o3LmCW
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",O Abrigo - HD 720p Dublado 
+http://is.gd/i3fjvG
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",O Pesadelo – HD 720p Dublado
+http://is.gd/HQ5vNv
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Irmãos Desastre – HD 720p Dublado
+http://is.gd/cDyv8G
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Colega de Quarto – HD 720p Dublado
+http://is.gd/mmq7io
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",A Menina que Roubava Livros – HD 720p
+http://is.gd/a4t1Ij
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Luta Pela Liberdade
+http://media-br-am.crackle.com/1/q/d6/62vlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Mais do que Voce Imagina
+http://media-br-am.crackle.com/1/3/f6/p7ylf_480p.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Malicia - Dublado
+http://media-br-am.crackle.com/1/g/16/taylf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Marcas do Passado
+http://media-br-am.crackle.com/1/g/z6/ntvlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Matador De Aluguel
+http://media-br-am.crackle.com/1/z/f6/d4ylf_480p.mp4
+
+#EXTINF:-1,Um Ato de Liberdade                
+http://media-br-am.crackle.com/1/z/f6/c7ylf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Mais do que Voce Imagina
+http://media-br-am.crackle.com/1/3/f6/p7ylf_480p.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Malicia
+http://media-br-am.crackle.com/1/g/16/taylf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Marcas do Passado
+http://media-br-am.crackle.com/1/g/z6/ntvlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Matador De Aluguel
+http://media-br-am.crackle.com/1/z/f6/d4ylf_480p.mp4
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Mergulho Radical 2: Os Recifes
+http://media-br-am.crackle.com/1/r/v6/mkvlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Meu Primeiro Amor- Parte 2
+http://media-br-am.crackle.com/1/z/16/4o1lf_480p.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Paixao Pela Vida
+http://media-br-am.crackle.com/1/w/z6/isvlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Nao Adianta Fugir
+http://media-br-am.crackle.com/1/r/v6/nkvlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Nao e Mais Um Besteirol Americano - Dublado
+http://media-br-am.crackle.com/1/n/d6/tzvlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Nao Sem a Minha Filha
+http://media-br-am.crackle.com/1/r/f6/c6ylf_480p.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Nas Profundezas Do Mar Sem Fim
+Dublado:http://media-br-am.crackle.com/1/1/16/cp1lf_480p.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Nem Por Cima do Meu Cadave
+http://media-br-am.crackle.com/1/x/h6/87vlf_480p.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Nem Tudo e o Que Parece
+http://media-br-am.crackle.com/1/j/z6/2qvlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Nicholas Nickleby
+http://media-br-am.crackle.com/1/a/h6/n8vlf_480p.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",O Balconista
+http://media-br-am.crackle.com/1/v/h6/17vlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",O Cantor 
+http://media-br-am.crackle.com/1/i/z6/wtvlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",O Casamento de Rachel
+http://media-br-am.crackle.com/1/1/16/ap1lf_480p.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",O Chamado de Xangai
+Dublado:http://media-br-am.crackle.com/1/3/16/jp1lf_480p.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",O Colecionador de Ossos
+http://media-br-am.crackle.com/1/f/f6/14ylf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",O Despertar de uma Paixao
+http://media-br-am.crackle.com/1/w/h6/77vlf_480p.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",O Grande Anjo Negro
+http://media-br-am.crackle.com/1/q/v6/invlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",O Grito 2
+http://media-br-am.crackle.com/1/6/16/tp1lf_480p.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",O Guardiao
+http://media-br-am.crackle.com/1/k/l6/3dwlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",O Guardiao 2
+http://media-br-am.crackle.com/1/g/16/vaylf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",O Guardiao 3
+http://media-br-am.crackle.com/1/i/16/4aylf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",O Ilusionista
+http://media-br-am.crackle.com/1/z/z6/vsvlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",O inquilino
+http://media-br-am.crackle.com/1/c/n6/b7ulf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",O julgamento de Paris 
+http://media-br-am.crackle.com/1/b/16/99wlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",O Legionário
+http://media-br-am.crackle.com/1/9/d6/a5vlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",O Oposto do Sexo
+http://media-br-am.crackle.com/1/e/l6/gdwlf_480p.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",O Otário - Comedia
+http://media-br-am.crackle.com/1/y/n6/r9ulf_480p.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",O Paizao 
+http://media-br-am.crackle.com/1/1/v6/q1zlf_480p.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",O Paraiso e Logo Aqui
+http://media-br-am.crackle.com/1/y/d6/20vlf_480p.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",O Povo Contra Larry Flint
+http://media-br-am.crackle.com/1/3/16/ip1lf_480p.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",O Principal Suspeito
+Dublado: http://media-br-am.crackle.com/1/u/h6/z7vlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",O Rancho do Amor
+http://media-br-am.crackle.com/1/q/v6/ikvlf_480p.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",O Retorno do Campeao
+http://media-br-am.crackle.com/1/y/z6/qsvlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",O Ritual - Suspense 
+http://media-br-am.crackle.com/1/3/v6/z1zlf_480p.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",O Sangue de Romeo
+http://media-br-am.crackle.com/1/q/v6/hkvlf_480p_1mbps.mp4	
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",O Segredo de Brokeback Mountain
+http://media-br-am.crackle.com/1/k/l6/2dwlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",O Senhor Das Armas
+http://media-br-am.crackle.com/1/j/z6/2tvlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",O Sequestro do Metrô 
+http://media-br-am.crackle.com/1/4/v6/3ovlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",O Tango e o Assassino
+http://media-br-am.crackle.com/1/h/d6/5yvlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Oliver! - Dublado
+http://media-br-am.crackle.com/1/6/f6/27ylf_480p.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Os Produtores
+http://media-br-am.crackle.com/1/d/l6/bdwlf_480p.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Os Reis de Dogtown 
+http://media-br-am.crackle.com/1/1/n6/39ulf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Os safados 
+http://media-br-am.crackle.com/1/a/16/96wlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Os Seus os Meus e os Nossos
+http://media-br-am.crackle.com/1/a/h6/m8vlf_480p.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Ouro Branco
+http://media-br-am.crackle.com/1/u/h6/y7vlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Persuasao - Drama
+http://media-br-am.crackle.com/1/0/v6/o1zlf_480p.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Pode e Corrupçao
+http://media-br-am.crackle.com/1/z/n6/y9ulf_480p_1mbps.mp4
+
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Por Amor
+http://media-br-am.crackle.com/1/j/z6/ztvlf_480p.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Primeira Descida
+http://media-br-am.crackle.com/1/y/d6/30vlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Procura-se um Bum Bum
+http://media-br-am.crackle.com/1/o/j6/byulf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Provas e Trapaças
+http://media-br-am.crackle.com/1/x/z6/msvlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Quando um Estranho Chama
+http://media-br-am.crackle.com/1/p/f6/45ylf_480p.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Quarentena
+http://media-br-am.crackle.com/1/p/v6/gkvlf_480p.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Quase Ilegal
+http://media-br-am.crackle.com/1/n/v6/7jvlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Rec - Terror
+http://media-br-am.crackle.com/1/w/v6/60zlf_480p.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Red: Aposentados e Perigosos
+http://media-br-am.crackle.com/1/q/f6/b6ylf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Rede de Intrigas
+http://media-br-am.crackle.com/1/t/d6/i3vlf_480p.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Replicante
+http://media-br-am.crackle.com/1/4/f6/w7ylf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Apocalipse
+http://media-br-am.crackle.com/1/v/n6/g6ulf_480p.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",O Hospede Maldito
+http://media-br-am.crackle.com/1/b/h6/q8vlf_480p.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Risco Absoluto
+http://media-br-am.crackle.com/1/b/16/aaylf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Robocop 3
+http://media-br-am.crackle.com/1/2/f6/o7ylf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes", Vingança Explosiva
+http://media-br-am.crackle.com/1/s/d6/d3vlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",S.W.A.T. - Comando Especial
+http://media-br-am.crackle.com/1/k/f6/m2ylf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Secretária
+http://media-br-am.crackle.com/1/-/x6/16wlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Seduçao Fatal
+http://media-br-am.crackle.com/1/w/z6/hsvlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Sedutora e diabolica
+http://media-br-am.crackle.com/1/h/z6/rtvlf_480p.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Segundas Intençoes 3
+http://media-br-am.crackle.com/1/5/16/qp1lf_480p.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Sem Saida
+http://media-br-am.crackle.com/1/m/l6/chwlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Sete Vidas
+http://media-br-am.crackle.com/1/z/16/3o1lf_480p.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Sitie
+http://media-br-am.crackle.com/1/g/f6/54ylf_480p.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Sob Suspeita
+http://media-br-am.crackle.com/1/_/x6/36wlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Sociedade Feroz 
+http://media-br-am.crackle.com/1/a/l6/ycwlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Soldado Universal
+http://media-br-am.crackle.com/1/i/z6/utvlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Solteira Procura 2
+http://media-br-am.crackle.com/1/r/n6/05ulf_480p.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Sou Espiao
+http://media-br-am.crackle.com/1/m/f6/t5ylf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Stigmata 
+http://media-br-am.crackle.com/1/z/v6/j1zlf_480p.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Studio 54
+http://media-br-am.crackle.com/1/3/d6/l4vlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",E Hoje
+http://media-br-am.crackle.com/1/q/d6/32vlf_480p.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Supernova
+http://media-br-am.crackle.com/1/2/16/fp1lf_480p.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Curtindo a Noite
+http://media-br-am.crackle.com/1/u/h6/v7vlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Tempos de Violencia 
+http://media-br-am.crackle.com/1/r/d6/b0vlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Tentáculos
+http://media-br-am.crackle.com/1/m/v6/1jvlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",The Spirit: O Filme 
+http://media-br-am.crackle.com/1/2/16/ep1lf_480p.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Torturado 
+http://media-br-am.crackle.com/1/s/d6/e3vlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Trabalho Sujo
+http://media-br-am.crackle.com/1/m/v6/4jvlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Tres Amigos
+http://media-br-am.crackle.com/1/y/f6/76ylf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Tres Formas de Amar
+http://media-br-am.crackle.com/1/p/h6/b7vlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Tres Mulheres  Tres Amores
+http://media-br-am.crackle.com/1/p/d6/12vlf_480p.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Tudo que voce precisa saber sobre sexo
+http://media-br-am.crackle.com/1/n/f6/w2ylf_480p.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Um Amor de Verao
+http://media-br-am.crackle.com/1/y/16/0o1lf_480p.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Um Beijo Roubado
+http://media-br-am.crackle.com/1/z/z6/tsvlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Um Homem Bom
+http://media-br-am.crackle.com/1/s/d6/c0vlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Um ninja em Beverly Hills
+http://media-br-am.crackle.com/1/d/p6/kkwlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Um Peixe Chamado Wanda
+http://media-br-am.crackle.com/1/i/f6/c2ylf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Um Segredo Entre Nos
+http://media-br-am.crackle.com/1/z/f6/b7ylf_480p.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Um Tira Muito Suspeito
+http://media-br-am.crackle.com/1/f/h6/75vlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Uma Beleza de Salao
+http://media-br-am.crackle.com/1/r/f6/d6ylf_480p.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Uma Noiva e Tanto 
+http://media-br-am.crackle.com/1/c/n6/96ulf_480p.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Vamos Nessa 
+http://media-br-am.crackle.com/1/1/n6/69ulf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Vestida Para Matar
+http://media-br-am.crackle.com/1/p/v6/ekvlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Viciado em Sexo
+http://media-br-am.crackle.com/1/w/v6/7kvlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Vidas Que Se Cruzam
+http://media-br-am.crackle.com/1/f/z6/ktvlf_480p.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Vingança 
+http://media-br-am.crackle.com/1/r/d6/a0vlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Violaçao de Privacidade
+http://media-br-am.crackle.com/1/1/d6/c4vlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Vou Te Pegar Otario
+http://media-br-am.crackle.com/1/m/v6/3jvlf_480p_1mbps.mp4
+
+#EXTINF:-1 tvg-id="Mélo" - "group-title="Mélo Filmes",Wasabi - Dublado
+http://media-br-am.crackle.com/1/q/d6/42vlf_480p_1mbps.mp4
+
+#EXTINF:-1,Violacao de Privacidade              
+http://media-br-am.crackle.com/1/1/d6/c4vlf_480p_1mbps.mp4
+
+#EXTINF:-1,Vinganca                
+http://media-br-am.crackle.com/1/r/d6/a0vlf_480p_1mbps.mp4
+
+#EXTINF:-1,Vidas que se Cruzam                
+http://media-br-am.crackle.com/1/f/z6/ktvlf_480p.mp4
+
+
+#EXTINF:-1,The Woman In The Fifth               
+http://media-br-am.crackle.com/1/j/il/49owb_480p_1mbps.mp4
+
+#EXTINF:-1,The Final Cut                
+http://media-br-am.crackle.com/1/j/4l/1wcyb_480p_1mbps.mp4
+
+#EXTINF:-1,Tentaculos               
+http://media-br-am.crackle.com/1/m/v6/1jvlf_480p_1mbps.mp4
+
+#EXTINF:-1,Superbad - Eh Hoje               
+http://media-br-am.crackle.com/1/q/d6/32vlf_480p.mp4
+
+#EXTINF:-1,Secretaria              
+http://media-br-am.crackle.com/1/-/x6/16wlf_480p_1mbps.mp4
+
+#EXTINF:-1,Ruslan - Vinganca Explosiva             
+http://media-br-am.crackle.com/1/s/d6/d3vlf_480p_1mbps.mp4

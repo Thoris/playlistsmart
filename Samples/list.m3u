@@ -1,0 +1,358 @@
+#EXTM3U
+
+##########################################
+#EXTINF:-1 tvg-logo="" group-title="CANAIS BRASILEIROS",CANAIS BRASILEIROS
+http://0.0.0.0:CANAIS BRASILEIROS
+
+#EXTINF:-1, COMBATE
+http://live-cdn.direct-stream.org:1935/live/_definst_/ctv0009/Anderson_Elias.m3u8
+
+#EXTINF:-1, PFC 1 (PFC EM DIAS DE JOGOS)
+http://62.210.89.38:1935/liverepeat/fut01/live.m3u8
+
+
+#EXTINF:-1, PFC 2 (PFC EM DIAS DE JOGOS)
+http://62.210.89.38:1935/liverepeat/fut02/live.m3u8
+
+
+#EXTINF:-1, PFC 3 (PFC EM DIAS DE JOGOS)
+http://62.210.89.38:1935/liverepeat/fut05/live.m3u8
+
+
+#EXTINF:-1, PFC 4 (PFC EM DIAS DE JOGOS)
+http://62.210.89.38:1935/liverepeat/fut06/live.m3u8
+
+
+#EXTINF:-1, PFC 5 (PFC EM DIAS DE JOGOS)
+http://62.210.89.38:1935/liverepeat/fut07/live.m3u8
+
+
+#EXTINF:-1, PFC 6 (PFC EM DIAS DE JOGOS)
+http://62.210.89.38:1935/liverepeat/fut09/live.m3u8
+
+
+#EXTINF:-1, PFC 7 (PFC EM DIAS DE JOGOS)
+http://62.210.89.38:1935/liverepeat/fut1022842/live.m3u8
+
+
+#EXTINF:-1, PFC 8 (PFC EM DIAS DE JOGOS)
+http://62.210.89.38:1935/liverepeat/fut1123402/live.m3u8
+
+
+#EXTINF:-1, PFC 9 (PFC EM DIAS DE JOGOS)
+http://62.210.89.38:1935/liverepeat/fut12/live.m3u8
+
+
+#EXTINF:-1, FUT - 01
+http://62.210.88.208:1935/liverepeat/fut01/playlist.m3u8
+
+#EXTINF:-1, FUT - 02
+http://62.210.88.208:1935/liverepeat/fut02/playlist.m3u8
+
+#EXTINF:-1, FUT - 03
+http://62.210.88.208:1935/liverepeat/fut12/playlist.m3u8
+
+#EXTINF:-1, FUT - 04
+http://62.210.88.208:1935/liverepeat/fut1022842/playlist.m3u8
+
+#EXTINF:-1, FUT - 05
+http://62.210.83.152:1935/liverepeat/201020/playlist.m3u8
+
+#EXTINF:-1, FUT - 06
+http://62.210.88.208:1935/liverepeat/fut06/playlist.m3u8
+
+#EXTINF:-1, FUT - 07
+http://62.210.88.208:1935/liverepeat/fut07/playlist.m3u8
+
+#EXTINF:-1, FUT - 08
+http://62.210.88.208:1935/liverepeat/fut09/playlist.m3u8
+
+#EXTINF:-1, FUT - 09
+http://live-cdn.direct-stream.org:1935/live/_definst_/ctv0009/Anderson_Elias.m3u8
+
+#EXTINF:-1, DISCOVERY CIVILIZATION
+http://62.210.89.38:1935/liverepeat/discivil377/discivil377/live.m3u8
+
+#EXTINF:-1, GLOBO SP
+http://62.210.83.152:1935/liverepeat/101010/playlist.m3u8
+
+#EXTINF:-1, GLOBO (SÃO PAULO)
+http://62.210.89.38:1935/liverepeat/101010/live.m3u8
+
+
+#EXTINF:-1, RECORD NEWS
+http://flash.midiaip.com.br:1935/recordnewses/recordnewses/live.m3u8
+
+#EXTINF:-1, RECORD (TV CANDELARIA)
+http://cast2.player.tv.br:1935/8126/8126/live.m3u8
+
+
+#EXTINF:-1, RECORD (TV CLUBE / PERNAMBUCO)
+http://rtmp.cdn.upx.net.br:1935/00161/myStream.sdp/live.m3u8
+
+
+#EXTINF:-1, REDE TV! HD
+http://evp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8
+
+
+#EXTINF:-1, REDE TV (TV PAMPA / RIO GRANDE DO SUL)
+http://flash1.crossdigital.com.br:1935/ponto4/tvpampa/live.m3u8
+
+
+#EXTINF:-1, REDETVhttp://evp.mm.uol.com.br:1935/redetv1/redetv1/live.m3u8
+
+
+#EXTINF:-1, SBT HD
+http://gbbrlive.sambatech.com.br:80/hls-live/livepkgr/sbt_6840d01dafa3b0af0ead2ed2c959aa05/liveevent/livestream.m3u8
+
+
+#EXTINF:-1, SPORTVhttp://62.210.83.152:1935/liverepeat/201020/playlist.m3u8
+
+#EXTINF:-1, SPORTV
+http://62.210.89.38:1935/liverepeat/201020/live.m3u8
+
+#EXTINF:-1, TERRA ESPORTES
+http://wowza1.videos.movile.com:8080/live/esportes_1.smil/livestream.m3u8
+
+
+#EXTINF:-1, TV NOVO TEMPO
+http://stream.novotempo.com:1935/tv/tvnovotempo.smil/live.m3u8
+
+
+#EXTINF:-1, TV NOVO TEMPO
+http://stream.novotempo.com:1935/tv/tvnovotempo.stream/live.m3u8
+
+
+
+##########################################
+#EXTINF:-1 tvg-logo="" group-title="CANAIS DE TV DO MÉXICO",CANAIS DE TV DO MÉXICO
+http://0.0.0.0:CANAIS DE TV DO MÉXICO
+
+#EXTINF:-1, CartoonNetwork.mx,Cartoon Network
+http://200.76.77.237/LIVE/H01/CANAL320/PROFILE03.m3u8?
+#EXTINF:-1, CartoonNetwork.mx,Cartoon Network
+http://200.76.77.237/LIVE/H01/CANAL320/PROFILE03.m3u8?
+#EXTINF:-1, CBeebies.mx,CBeebies
+http://200.76.77.237/LIVE/H01/CANAL305/PROFILE03.m3u8?=-1
+#EXTINF:-1, DiscoveryKids.mx,Discovery Kids
+http://200.76.77.237/LIVE/H01/CANAL303/PROFILE03.m3u8?
+#EXTINF:-1, DisneyJr.mx,DisneyJr
+http://200.76.77.237/LIVE/H01/CANAL308/PROFILE03.m3u8?
+#EXTINF:-1, DisneyChannel.mx,Disney Channel
+http://200.76.77.237/LIVE/H01/CANAL312/PROFILE03.m3u8?
+#EXTINF:-1, DisneyXD.mx,Disney XD
+http://200.76.77.237/LIVE/H01/CANAL322/PROFILE03.m3u8?
+#EXTINF:-1, NickJr.mx,Nick Jr
+http://200.76.77.237/LIVE/H01/CANAL310/PROFILE03.m3u8?
+#EXTINF:-1, NickHD.mx,Nick HD
+http://200.76.77.237/LIVE/H01/CANAL315/PROFILE03.m3u8?
+#EXTINF:-1, Nicktoons.us,Nicktoons
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=466&lan=2&rows=40&f=.m3u8
+#EXTINF:-1, AnimalPlanet.mx,Animal Planet
+http://200.76.77.237/LIVE/H01/CANAL373/PROFILE03.m3u8?
+#EXTINF:-1, CasaClub.mx,Casa Club
+http://200.76.77.237/LIVE/H01/CANAL274/PROFILE03.m3u8?
+#EXTINF:-1, HDTheater.mx,Discovery HD Theater
+http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?
+#EXTINF:-1, DiscoveryChannel.mx,Discovery Channel
+http://200.76.77.237/LIVE/H01/CANAL371/PROFILE03.m3u8?
+#EXTINF:-1, DiscoveryenEspanol.us,Discovery en Espanol
+http://iphone-streaming.ustream.tv/uhls/17248101/streams/live/iphone/playlist.m3u8
+#EXTINF:-1, DiscoverySci.mx,Discovery Science
+http://200.76.77.237/LIVE/H01/CANAL381/PROFILE03.m3u8?
+#EXTINF:-1, Turbo
+http://200.76.77.237/LIVE/H01/CANAL383/PROFILE03.m3u8?
+#EXTINF:-1, DiscoveryID.mx,Discovery ID
+http://200.76.77.237/LIVE/H01/CANAL263/PROFILE03.m3u8?=1
+#EXTINF:-1, Infinito.mx,Infinito
+http://200.76.77.237/LIVE/H01/CANAL266/PROFILE03.m3u8?=-1
+#EXTINF:-1, HomeHealth.mx,Discovery Home and Health
+http://200.76.77.237/LIVE/H01/CANAL374/PROFILE03.m3u8?=-1
+#EXTINF:-1, NatGeoWild.mx,NatGeo Wild
+http://200.76.77.237/LIVE/H01/CANAL355/PROFILE03.m3u8?
+#EXTINF:-1, History.mx,History Channel
+http://200.76.77.237/LIVE/H01/CANAL353/PROFILE03.m3u8?
+#EXTINF:-1, CBeebies.mx,CBeebies
+http://200.76.77.237/LIVE/H01/CANAL305/PROFILE03.m3u8?=-1
+#EXTINF:-1, DiscoveryKids.mx,Discovery Kids
+http://200.76.77.237/LIVE/H01/CANAL303/PROFILE03.m3u8?
+#EXTINF:-1, DisneyJr.mx,DisneyJr
+http://200.76.77.237/LIVE/H01/CANAL308/PROFILE03.m3u8?
+#EXTINF:-1, DisneyChannel.mx,Disney Channel
+http://200.76.77.237/LIVE/H01/CANAL312/PROFILE03.m3u8?
+#EXTINF:-1, DisneyXD.mx,Disney XD
+http://200.76.77.237/LIVE/H01/CANAL322/PROFILE03.m3u8?
+#EXTINF:-1, NickJr.mx,Nick Jr,
+http://200.76.77.237/LIVE/H01/CANAL310/PROFILE03.m3u8?
+#EXTINF:-1, NickHD.mx,Nick HD
+http://200.76.77.237/LIVE/H01/CANAL315/PROFILE03.m3u8?
+#EXTINF:-1, Nicktoons.us,Nicktoons
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=466&lan=2&rows=40&f=.m3u8
+#EXTINF:-1, FOX
+http://200.76.77.237/LIVE/H01/CANAL201/PROFILE03.m3u8?
+#EXTINF:-1, SONY
+http://200.76.77.237/LIVE/H01/CANAL203/PROFILE03.m3u8?
+#EXTINF:-1, WARNER HD
+http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?
+#EXTINF:-1, UNIVERSAL HD
+http://200.76.77.237/LIVE/H01/CANAL207/PROFILE03.m3u8?
+#EXTINF:-1, FX HD
+http://200.76.77.237/LIVE/H01/CANAL209/PROFILE03.m3u8?
+#EXTINF:-1, A AND E
+http://200.76.77.237/LIVE/H01/CANAL211/PROFILE03.m3u8?
+#EXTINF:-1, AXN HD
+http://200.76.77.237/LIVE/H01/CANAL213/PROFILE03.m3u8?
+#EXTINF:-1, COMEDY CENTRAL
+http://200.76.77.237/LIVE/H01/CANAL217/PROFILE03.m3u8?
+#EXTINF:-1, FOX
+http://200.76.77.237/LIVE/H01/CANAL251/PROFILE03.m3u8?
+#EXTINF:-1, BBC
+http://200.76.77.237/LIVE/H01/CANAL253/PROFILE03.m3u8?
+#EXTINF:-1, E
+http://200.76.77.237/LIVE/H01/CANAL255/PROFILE03.m3u8?
+#EXTINF:-1, UNIVERSAL
+http://200.76.77.237/LIVE/H01/CANAL256/PROFILE03.m3u8?
+#EXTINF:-1, SYFY
+http://200.76.77.237/LIVE/H01/CANAL257/PROFILE03.m3u8?
+#EXTINF:-1, GLITZ
+http://200.76.77.237/LIVE/H01/CANAL270/PROFILE03.m3u8?
+#EXTINF:-1, FOX LIFE
+#EXTINF:-1, DISCOVERY KIDS
+http://200.76.77.237/LIVE/H01/CANAL303/PROFILE03.m3u8?
+#EXTINF:-1, DISNEY JR
+http://200.76.77.237/LIVE/H01/CANAL308/PROFILE03.m3u8?
+#EXTINF:-1, NICK JR
+http://200.76.77.237/LIVE/H01/CANAL310/PROFILE03.m3u8?
+#EXTINF:-1, DISNEY CHANNEL
+http://200.76.77.237/LIVE/H01/CANAL312/PROFILE03.m3u8?
+#EXTINF:-1, NICK HD
+http://200.76.77.237/LIVE/H01/CANAL315/PROFILE03.m3u8?
+#EXTINF:-1, NICK
+http://200.76.77.237/LIVE/H01/CANAL317/PROFILE03.m3u8?
+#EXTINF:-1, CARTOON NETWORK
+http://200.76.77.237/LIVE/H01/CANAL320/PROFILE03.m3u8?
+#EXTINF:-1, DISNEY XD
+http://200.76.77.237/LIVE/H01/CANAL322/PROFILE03.m3u8?
+#EXTINF:-1, TOONCAST
+http://200.76.77.237/LIVE/H01/CANAL328/PROFILE03.m3u8?
+#EXTINF:-1, TIIN
+http://200.76.77.237/LIVE/H01/CANAL325/PROFILE03.m3u8?
+#EXTINF:-1, DISCOVERY HD
+http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?
+#EXTINF:-1, HISTORY
+http://200.76.77.237/LIVE/H01/CANAL353/PROFILE03.m3u8?
+#EXTINF:-1, NAT GEO WILD
+http://200.76.77.237/LIVE/H01/CANAL355/PROFILE03.m3u8?
+#EXTINF:-1, TLC HD
+http://200.76.77.237/LIVE/H01/CANAL356/PROFILE03.m3u8?
+#EXTINF:-1, DISCOVERY
+http://200.76.77.237/LIVE/H01/CANAL371/PROFILE03.m3u8?
+#EXTINF:-1, ANIMAL PLANET
+http://200.76.77.237/LIVE/H01/CANAL373/PROFILE03.m3u8?
+#EXTINF:-1, NAT GEO
+http://200.76.77.237/LIVE/H01/CANAL377/PROFILE03.m3u8?
+#EXTINF:-1, TURBO
+http://200.76.77.237/LIVE/H01/CANAL379/PROFILE03.m3u8?
+#EXTINF:-1, D SCI
+http://200.76.77.237/LIVE/H01/CANAL381/PROFILE03.m3u8?
+#EXTINF:-1, D. CIVILIZATION
+http://200.76.77.237/LIVE/H01/CANAL382/PROFILE03.m3u8?
+#EXTINF:-1, TLC
+http://200.76.77.237/LIVE/H01/CANAL386/PROFILE03.m3u8?
+#EXTINF:-1, WOBI
+http://200.76.77.237/LIVE/H01/CANAL387/PROFILE03.m3u8?
+#EXTINF:-1, PROYECTO 40
+http://200.76.77.237/LIVE/H01/CANAL40/PROFILE03.m3u8?
+#EXTINF:-1, FOX 1 HD
+http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?
+#EXTINF:-1, FOX ACTION HD
+http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?
+#EXTINF:-1, FOX MOVIES HD
+http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?
+#EXTINF:-1, CINECANAL +
+http://200.76.77.237/LIVE/H01/CANAL430/PROFILE03.m3u8?
+#EXTINF:-1, TNT HD
+http://200.76.77.237/LIVE/H01/CANAL435/PROFILE03.m3u8?
+#EXTINF:-1, GOLDEN HD
+http://200.76.77.237/LIVE/H01/CANAL436/PROFILE03.m3u8?
+#EXTINF:-1, FILM ZONE HD
+http://200.76.77.237/LIVE/H01/CANAL440/PROFILE03.m3u8?
+#EXTINF:-1, DE PELICULA HD
+http://200.76.77.237/LIVE/H01/CANAL442/PROFILE03.m3u8?
+#EXTINF:-1, AMC
+http://200.76.77.237/LIVE/H01/CANAL444/PROFILE03.m3u8?
+#EXTINF:-1, SPACE HD
+http://200.76.77.237/LIVE/H01/CANAL445/PROFILE03.m3u8?
+#EXTINF:-1, FOX CINEMA
+http://200.76.77.237/LIVE/H01/CANAL472/PROFILE03.m3u8?
+#EXTINF:-1, ESPN HD
+http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?
+#EXTINF:-1, FOX SPORTS
+http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?
+#EXTINF:-1, FOX SPORTS 2
+http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?
+#EXTINF:-1, ESPN
+http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8?
+#EXTINF:-1, ESPN2
+
+##########################################
+#EXTINF:-1 tvg-logo="" group-title="CANAIS INTERNACIONAIS",CANAIS INTERNACIONAIS
+http://0.0.0.0:CANAIS INTERNACIONAIS
+
+#EXTINF:-1, AMC
+http://200.76.77.237/LIVE/H01/CANAL490/PROFILE03.m3u8
+
+#EXTINF:-1, ABC NEWS
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8
+
+#EXTINF:-1, BBC
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8
+
+#EXTINF:-1, CANAL+ SPORT
+http://stream4.latvdefrance.com/demo/canalsport.m3u8 
+
+#EXTINF:-1,CNN
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8
+
+#EXTINF:-1, FOX LIFE
+http://200.76.77.237/LIVE/H01/CANAL271/PROFILE03.m3u8?
+
+##########################################
+#EXTINF:-1 tvg-logo="" group-title="DESENHOS ANIMES E INFANTIL",DESENHOS ANIMES E INFANTIL
+http://0.0.0.0:DESENHOS ANIMES E INFANTIL
+
+#EXTINF:-1, Cavaleiros dos Zodiacos
+http://66.90.111.2:1935/ctv/cdz/playlist.m3u8
+
+#EXTINF:-1, Yugioh 
+http://66.90.111.2:1935/ctv/yugioh/playlist.m3u8
+
+#EXTINF:-1, Sportv2.br,Sportv 2
+http://62.210.83.180:1935/liverepeat/201020/live.m3u8
+
+#EXTINF:-1, Vevo 1 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+
+#EXTINF:-1, Vevo 2 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+
+#EXTINF:-1, Vevo 3 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+
+#EXTINF:-1, FoxSports.mx,Fox Sports
+http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8?
+
+#EXTINF:-1, FoxSports2.mx,FoxSports 2
+http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8?
+
+#EXTINF:-1, Foxsports.br,Foxsports
+http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8
+
+#EXTINF:-1, FoxSports2.mx,FoxSports 2
+http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8
+
+#EXTINF:-1, 18+
+http://wowza1.videos.movile.com:8080/live/adulto_1.smil/livestream.m3u8
+
+#EXTINF:-1, 18+
+Premium,http://wowza1.videos.movile.com:8080/live/adultopremium_1.smil/livestream.m3u8

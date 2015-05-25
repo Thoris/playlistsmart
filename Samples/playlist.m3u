@@ -1,0 +1,35 @@
+#EXTM3U 
+#EXTINF:-1,hk:ANIMAL PLANET 
+rtmp://31.204.128.75/live/30 
+#EXTINF:-1,hk:BASTA CRER 
+rtmp://streamspub.manasat.com/live/bastacrer 
+#EXTINF:-1,hk:NICKELODEON 
+rtmp://31.204.128.140/live/brlive_0030 
+#EXTINF:-1,hk:CARTOON NETWORK 
+rtmp://31.204.128.140/live/brlive_0028 
+#EXTINF:-1,hk:ISCOVERY KIDS 
+rtmp://31.204.128.74/live/master24 
+#EXTINF:-1,hk:CINEMAX 
+rtmp://31.204.128.140/live/53 
+#EXTINF:-1,hk:Conexaobr Tv 
+rtmp://srvvenus.canaldoboi.com/livecx/livestream 
+#EXTINF:-1,hk:ESPN+ 
+rtmp://31.204.128.74/live/master27 
+#EXTINF:-1,hk:FOX 
+rtmp://31.204.128.140/live/fox 
+#EXTINF:-1,hk:FOX SPORTS 
+rtmp://31.204.153.72/live/fsb 
+#EXTINF:-1,hk:FX 
+rtmp://31.204.128.75/live/master25
+#EXTINF:-1,hk:MEGAPIX 
+rtmp://31.204.128.73/live/master11 
+#EXTINF:-1,hk:TC ACTION 
+rtmp://31.204.128.75/live/master17 
+#EXTINF:-1,hk:TC PIPOCA 
+rtmp://31.204.128.74/live/master18 
+#EXTINF:-1,hk:TC PREMIUM 
+rtmp://31.204.128.140/live/master19 
+#EXTINF:-1,hk:TNT 
+rtmp://31.204.128.74/live/master77
+#EXTINF:-1,hk:TV TCM 10 
+rtmp://177.154.192.30/live/canal10

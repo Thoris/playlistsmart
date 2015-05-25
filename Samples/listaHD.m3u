@@ -1,0 +1,300 @@
+#EXTM3U
+#EXTINF:-1,[COLOR blue][I][B]»»---------------------- 12-04-2015 ----------------------««[/B][/I][/COLOR]
+#EXTINF:-1, [COLOR green] --12-04-2015--[/COLOR]  
+
+#EXTINF:-1,[COLOR yellow]»»------------------------- HD CHANNELS -------------------------««[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF: -1, ANTENA 3 HD (FULL HD)
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
+
+#EXTINF: -1, LaSexta HD
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel02/la_sexta_hd_1548K_1280x720_main.m3u8
+
+#EXTINF:-1, EL TRECE HD
+http://200.76.77.237/LIVE/H01/CANAL23/PROFILE03.m3u8?
+ 
+#EXTINF:-1,Berita Satu Sport HD 720P (Indonesia)
+http://beritasatulive-lh.akamaihd.net/i/b1sport_1@121529/index_720_av-p.m3u8
+
+#EXTINF:-1, WARNER HD
+http://200.76.77.237/LIVE/H01/CANAL205/PROFILE03.m3u8?
+
+#EXTINF:-1, AXN HD
+http://200.76.77.237/LIVE/H01/CANAL213/PROFILE03.m3u8?
+
+#EXTINF:0,RT Documentary HD
+http://odna.octoshape.net/f3f5m2v4/cds/ch5_720p/chunklist.m3u8
+
+#EXTINF:-1, TLC HD
+http://200.76.77.237/LIVE/H01/CANAL356/PROFILE03.m3u8?
+
+#EXTINF:-1, UNIVERSAL HD
+http://200.76.77.237/LIVE/H01/CANAL207/PROFILE03.m3u8?
+
+#EXTINF:-1, FX HD
+http://200.76.77.237/LIVE/H01/CANAL209/PROFILE03.m3u8?
+
+#EXTINF:-1, FOX 1 HD
+http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8?
+ 
+#EXTINF:-1, FOX ACTION HD
+http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8?
+ 
+#EXTINF:-1, FOX MOVIES HD
+http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8?
+
+#EXTINF:-1, FILM ZONE HD
+http://200.76.77.237/LIVE/H01/CANAL440/PROFILE03.m3u8?
+ 
+#EXTINF:-1, SPACE HD
+http://200.76.77.237/LIVE/H01/CANAL445/PROFILE03.m3u8?
+
+#EXTINF:-1, TNT HD
+http://200.76.77.237/LIVE/H01/CANAL435/PROFILE03.m3u8?
+ 
+#EXTINF:-1, GOLDEN HD
+http://200.76.77.237/LIVE/H01/CANAL436/PROFILE03.m3u8?
+ 
+#EXTINF:-1, DE PELICULA HD
+http://200.76.77.237/LIVE/H01/CANAL442/PROFILE03.m3u8?
+
+#EXTINF:-1, NICK HD
+http://200.76.77.237/LIVE/H01/CANAL315/PROFILE03.m3u8?
+
+#‎EXTINF‬:-1, DISCOVERY HD
+http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8?
+
+#EXTINF:-1,Discovery Science HD
+http://185.27.237.105:8082/TV0090
+
+#EXTINF:-1, OsN COMEDY +2
+http://185.27.237.105:8082/TV0021
+
+#EXTINF:-1, OMN movie drama
+http://185.27.237.105:8082/TV0022
+
+#EXTINF:-1, OSN movie hd
+http://185.27.237.105:8082/TV0023
+
+#EXTINF:-1, OSN movie hd
+http://185.27.237.105:8082/TV0024
+
+#EXTINF:-1, OSN movie hd  
+http://185.27.237.105:8082/TV0025
+
+#EXTINF:-1, mgm
+http://185.27.237.105:8082/TV0050
+
+#EXTINF:-1, star movie hd
+http://185.27.237.105:8082/TV0051
+
+#EXTINF:-1, oSn yahalla hd
+http://185.27.237.105:8082/TV0052
+
+#EXTINF:-1, oSn movie
+http://185.27.237.105:8082/TV0053
+
+#EXTINF:-1, oSn movie 
+http://185.27.237.105:8082/TV0054
+
+#EXTINF:-1, OSN HD
+http://185.27.237.105:8082/TV0055
+
+#EXTINF:-1, OSN Movie HD 1
+http://185.27.237.105:8082/TV0056
+
+#EXTINF:-1, OSN 2
+http://185.27.237.105:8082/TV0060
+
+#EXTINF:-1, OSN +2HD
+http://185.27.237.105:8082/TV0062
+
+#EXTINF:-1, OSN FIRST HD
+http://185.27.237.105:8082/TV0063
+
+#EXTINF:-1, oSn ya halla hd
+http://185.27.237.105:8082/TV0064
+
+#EXTINF:-1, OSN
+http://185.27.237.105:8082/TV0065
+
+#EXTINF:-1, OSN movie drama +2
+http://185.27.237.105:8082/TV0075
+
+#EXTINF:-1, OSN
+http://185.27.237.105:8082/TV0077
+
+#EXTINF:-1, OSN First HD
+http://185.27.237.105:8082/TV0083
+
+#EXTINF:-1, OSN
+http://185.27.237.105:8082/TV0084
+
+#EXTINF:-1, OSN
+http://185.27.237.105:8082/TV0086
+
+#EXTINF:-1, OSN
+http://185.27.237.105:8082/TV0089
+
+#EXTINF:-1, OMN
+http://185.27.237.105:8082/TV0104
+
+#EXTINF:-1, ESPN HD
+http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8?
+
+#EXTINF:-1,Big Ten Network
+http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
+ 
+#EXTINF:-1,SportTime TV 1
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel1_1200
+ 
+#EXTINF:-1,SportTime TV 3
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel3_1200
+ 
+#EXTINF:-1,SportTime TV 4
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel4_1200
+ 
+#EXTINF:-1,SportTime TV 5
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel5_1200
+ 
+#EXTINF:-1,SportTime TV 6
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel6_1200
+ 
+#EXTINF:-1,SportTime TV 7
+rtmp://streamer.a1.net:1935/rtmplive/redundant/channels/Sporttime/SporttimeTV/mp4:channel7_1200
+
+#EXTINF:-1,1HD
+http://109.239.142.62:1935/live/livestream3/playlist.m3u8
+ 
+#EXTINF:-1,Best Music HD 720P
+rtmp://stream.smcloud.net/live2/best/best_720p
+ 
+#EXTINF:-1,China: Auto HD 576P ((China)
+rtmp://$OPT:rtmp-raw=rtmp://182.92.189.193/live/ playpath=h_auto_1 swfUrl=http://www.hupo.tv/jwplayer.flash.swf live=1 pageUrl=http://www.hupo.tv/hupos
+ 
+#EXTINF:-1,China: Fashion HD 576P ((China)
+rtmp://$OPT:rtmp-raw=rtmp://182.92.189.193/live/ playpath=h_fashion_1 swfUrl=http://www.hupo.tv/jwplayer.flash.swf live=1 pageUrl=http://www.hupo.tv/hupos
+ 
+#‎EXTINF‬:-1,China: Food HD 720P ((China)
+rtmp://$OPT:rtmp-raw=rtmp://182.92.189.193/live/ playpath=h_food_1 swfUrl=http://www.hupo.tv/jwplayer.flash.swf live=1 pageUrl=http://www.hupo.tv/hupos
+ 
+#EXTINF:-1,China: Kids HD 576P ((China)
+rtmp://$OPT:rtmp-raw=rtmp://182.92.189.193/live/ playpath=h_kids_1 swfUrl=http://www.hupo.tv/jwplayer.flash.swf live=1 pageUrl=http://www.hupo.tv/hupos
+ 
+#EXTINF:-1,China: Lifestyle HD 576P ((China)
+rtmp://$OPT:rtmp-raw=rtmp://182.92.189.193/live/ playpath=h_lifestyle_1 swfUrl=http://www.hupo.tv/jwplayer.flash.swf live=1 pageUrl=http://www.hupo.tv/hupos
+ 
+#EXTINF:-1,China: Music HD 576P ((China)
+rtmp://$OPT:rtmp-raw=rtmp://182.92.189.193/live/ playpath=h_music_1 swfUrl=http://www.hupo.tv/jwplayer.flash.swf live=1 pageUrl=http://www.hupo.tv/hupos
+
+#EXTINF:-1,Club HD 720P
+http://195.189.238.18/streaming/firstmuz/16/hd/playlist.m3u8
+ 
+#EXTINF:-1,Dance TV HD 720P
+http://91.82.85.16:1935/relay15/nettv_channel_1/HasBahCa.m3u8
+ 
+‪#‎EXTINF‬:-1,Eska Best Music 720P
+rtmp://stream.smcloud.net/live2/best/best_720p
+ 
+#EXTINF:O,Eska Party 720P
+rtmp://stream.smcloud.net/live2/eska_party/eska_party_720p
+ 
+#EXTINF:O,Eska Rock 720P
+rtmp://stream.smcloud.net/live2/eska_rock/eska_rock_720p
+ 
+#EXTINF:-1,fix tv HD (Hungria)
+rtmp://video.fixhd.tv/fix/hd.stream
+ 
+#EXTINF:-1,KANAL 6 HD 1080P
+http://84.22.33.3:9024
+ 
+#EXTINF:O,MTV Live HD 720P
+http://89.212.240.49:11980/live/smil:324_0.smil/playlist.m3u8?authorization_key=hNj0mnLtB9O5rfIKuCVsX7oWASQayqZg&stream_id=0
+ 
+#EXTINF:-1,Novorossiya TV HD 720P
+http://193.23.58.156:8888/udp/234.1.10.21:1234
+ 
+#‎EXTINF‬:-1,OTE Sport 1 HD 540P (Grécia)
+acestream://6b0b64b7d28806f8807d26b6c01a4529ee770d7d
+ 
+#EXTINF:-1,OTE Sport 2 HD 720P (Grécia)
+acestream://653bc491aa1db13d0a11b2abb4e914ccf3c2d10e
+ 
+#EXTINF:-1,OTE Sport 3 HD 720P (Grécia)
+acestream://77dbb19c6734046bcd870490003e00c57f7ae9c9
+ 
+#EXTINF:-1,OTE Sport 4 HD 720P (Grécia)
+acestream://9c19b0ef4dd5f4af5e4be2c54f02a84b8878331c
+ 
+#EXTINF:-1,OTE Sport 5 HD 720P (Grécia)
+acestream://53db4eabf9b77f3cd0e0ab5d9cb1d6c9419e0d10
+ 
+#EXTINF:-1,OTE Sport 6 HD 720P (Grécia)
+acestream://9e7ff255784280cf59b1bec7c5166f3ac1ad0321
+ 
+#EXTINF:-1,Pac Mountain 1080P
+http://xrxs.net/video/live-p12moun-4728.m3u8
+ 
+#EXTINF:-1,PAC National 720P
+http://xrxs.net/video/live-p12netw-2328.m3u8
+ 
+#EXTINF:-1,PAC-12 Net. (Arizona) 720P
+http://xrxs.net/video/live-p12ariz-2328.m3u8
+ 
+#EXTINF:-1,PAC-12 Net. (Arizona) 1080P
+http://xrxs.net/video/live-p12ariz-4728.m3u8
+ 
+#EXTINF:-1,PAC-12 Net. (Bay Area) 720P
+http://xrxs.net/video/live-p12baya-2328.m3u8
+ 
+#EXTINF:-1,PAC-12 Net. (Bay Area) 1080P
+http://xrxs.net/video/live-p12baya-4728.m3u8
+ 
+#EXTINF:-1,PAC-12 Net. (Los Angeles) 720P
+http://xrxs.net/video/live-p12losa-2328.m3u8
+ 
+#EXTINF:-1,PAC-12 Net. (Oregon) 720P
+http://xrxs.net/video/live-p12oreg-2328.m3u8
+ 
+#EXTINF:-1,PAC-12 Net. (Oregon) 1080P
+http://xrxs.net/video/live-p12oreg-4728.m3u8
+ 
+#EXTINF:-1,PAC-12 Net. (Washington) 720P
+http://xrxs.net/video/live-p12wash-2328.m3u8
+ 
+#EXTINF:-1,PAC-12 Net. (Washington) 1080P
+http://xrxs.net/video/live-p12wash-4728.m3u8
+ 
+#EXTINF:-1,Party Tv HD 720P
+rtmp://stream.smcloud.net/live2/eska_party/eska_party_720p
+ 
+#EXTINF:O,Polo Party TV 720P
+rtmp://stream.smcloud.net/live2/polo_party/polo_party_720p
+ 
+#EXTINF:-1,Px Hits 1080P
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2&profile=475&lan=2&rows=40&f=.m3u8
+ 
+#EXTINF:-1,RT HD 720P (Rússia)
+http://odna.octoshape.net/f3f5m2v4/cds/ch6_720p/playlist.m3u8
+ 
+#EXTINF:-1 tvg-logo="DMAX.png",RT Documentary HD 720P (Rússia)
+http://odna.octoshape.net/f3f5m2v4/cds/ch5_720p/chunklist.m3u8?b?b*t$
+ 
+#EXTINF:-1,Sports Night HD 720P (German)
+rtmp://freeview.fms.visionip.tv/live/sports_tonight-sports_tonight-live-25f-16x9-HD
+ 
+#EXTINF:-1 tvg-logo="Bio.png" group-title="Music TV",Vevo HD 1 720P
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+ 
+#EXTINF:-1 tvg-logo="Bio.png" group-title="Music TV",Vevo HD 2 720P
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+ 
+#EXTINF:-1 tvg-logo="Bio.png" group-title="Music TV",Vevo HD 3 720P
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+
+#EXTINF: -1, HOGAR UTIL
+http://brightcove03-f.akamaihd.net/HOGARUTIL_1_1100@117573?videoId=2518851062001 
+
+#EXTINF:-1,VOX Music HD 720P
+rtmp://stream.smcloud.net/live2/vox/vox_720p

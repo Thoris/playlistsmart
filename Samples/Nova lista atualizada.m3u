@@ -1,0 +1,377 @@
+#EXTM3U
+
+##########################################
+#EXTINF:-1 tvg-logo="" group-title="RECEM ADICIONADOS",RECEM ADICIONADOS
+http://0.0.0.0:RECEM ADICIONADOS
+
+#EXTINF:-1, NTV PLUS
+http://46.61.226.18/hls/CH_NTVPLUSBASKETBOL/bw1500000/variant.m3u8?iptvjonas
+
+#EXTINF:-1, TVREC
+http://178.49.132.73/streaming/extreme_sports/tvrec/playlist.m3u8?iptvjonas
+
+#EXTINF:-1, SN360 HD
+http://nlds187.cdnak.neulion.com/nlds/sportsnetnow/sn_360/as/live/sn_360_hd_ipad.m3u8?iptvjonas
+
+#EXTINF:-1, LYOTO
+http://jonasiptv.gq/filmes/lyoto.mp4
+
+#EXTINF:-1, JACARE
+http://jonasiptv.gq/filmes/jacare.mp4
+
+#EXTINF:-1, CDN
+http://cdn.ebound.tv:1935/tv/playtv/playlist.m3u8?iptvjonas
+
+#EXTINF:-1, TV4
+http://91.109.20.227:8080/TV4251
+
+#EXTINF:-1, BMVSD 
+http://jonasiptv.gq/filmes/BMVSD.mp4
+
+#EXTINF:-1, tvg
+http://jonasiptv.gq/filmes/Santosfla.mp4
+
+#EXTINF:-1, OS CARAS DE PAU
+https://r2---sn-uxaxh5g-4vgl.googlevideo.com/videoplayback?requiressl=yes&shardbypass=yes&cmbypass=yes&id=9d89dcb5b6c47727&itag=18&source=picasa&ip=177.179.81.187&ipbits=0&expire=1431349288&sparams=cmbypass,expire,id,ip,ipbits,itag,mm,ms,mv,pl,requiressl,shardbypass,source&signature=17FF80422CB210103A985FCF6F684AB419BADDC6.6B6F4907BABFA0DA4ED4C5394A1B23ABDCF48AE0&key=cms1&begin=0&cms_redirect=yes&mm=31&ms=au&mt=1428757245&mv=m&pl=20
+
+##########################################
+#EXTINF:-1 tvg-logo="" group-title="TV ABERTA",TV ABERTA
+http://0.0.0.0: TV ABERTA
+
+#EXTINF:-1, BAND
+rtmpe://r.livecast.cc/rl/ playpath=bob19sd swfUrl=http://livecast.cc/player/player.swf live=1 pageUrl=http://livecast.cc/live/stream14.php
+
+#EXTINF:-1, BAND CE
+rtmp://187.18.187.5/livepkgr/tvjangadeiro3.flv live=1
+
+#EXTINF:-1, TV Diário
+http://livela.sambatech.com.br/hls-live/livepkgr/diariotv_2ff357495c9f34b35fc02b51ee33d935/liveevent/livestream.m3u8
+
+#EXTINF:-1, TV SomZoom CE
+rtmp://srv6.zoeweb.tv/z417-live/ playpath=stream  swfUrl=http://zplayer.info/gerador3w/jwplayer/jwplayer.flash.swf pageUrl=http://zplayer.info/gerador3w/player.php?width=800&height=450&autoplay=1&controles=1&skin=bekle&share=1&url=rtmp://srv6.zoeweb.tv/z417-live/stream&tipo=1&thumb=
+
+##########################################
+#EXTINF:-1 tvg-logo="" group-title="FILMES",FILMES
+http://0.0.0.0: FILMES
+
+#EXTINF:-1, Band Sports 
+http://evp.mm.uol.com.br:1935/geob_terraviva/operadoras/live.m3u8
+
+#EXTINF:-1, Esporte%20Interativo
+http://ei.live-ss2.stormsec.com.br/live/smil:Evento1.smil/chunklist_w1978293516_b1500000.m3u8
+
+#EXTINF:-1, Esp.interativo 2
+http://eiplus-lh.akamaihd.net/i/eitv6_1@147097/master.m3u8
+
+#EXTINF:-1, ESPN
+rtmp://31.204.153.71/live/ playpath=master06 swfUrl=http://www.tv-msn.com/player/player.swf?iptvglobal live=1 pageUrl=http://www.cdnbr.biz/mastertv/ESPN.html
+
+
+
+#EXTINF:-1, fOX ESPORTES
+rtmp://31.204.153.72/live/ playpath=fsb swfUrl=http://www.tv-msn.com/player/player.swf&jonasiptv live=1 pageUrl=http://www.cdnbr.biz/mastertv/FSB.html
+
+#EXTINF:-1, TVU Ei
+http://srv6.zoeweb.tv:1935/z433-live/stream/livestream.m3u8
+
+##########################################
+#EXTINF:-1 tvg-logo="" group-title="RELIGIOSOS",RELIGIOSOS 
+http://0.0.0.0: RELIGIOSOS
+
+#EXTINF:-1, ADinet TV
+http://72.55.156.19:1935/adinetgospel/adinetgospel/playlist.m3u8
+
+#EXTINF:-1, Canção Nova
+http://cnhls-lh.akamaihd.net/i/cnhls_1@147036/master.m3u8?
+
+#EXTINF:-1, CRISTO VIVE
+mms://overserver1000.com/tvcristovive3
+
+#EXTINF:-1, REDE FAMILIA
+mms://srv3.ntelecom.com.br/redefamilia
+
+#EXTINF:-1, Rede TV GIDEÕES
+http://tv3.zasmediastreaming.com.br:1935/gmuh/gmuh.sdp/playlist.m3u8
+
+#EXTINF:-1, VEM E VÊ TV
+rtmp://srv-vvtv.sisdera.com/live/vvtv2.flv
+
+#EXTINF:-1, TV NOVO TEMPO 
+http://stream.novotempo.com:1935/tv/smil:tvnovotempo.smil/manifest.m3u8
+
+##########################################
+#EXTINF:-1 tvg-logo="" group-title="VARIEDADES",VARIEDADES 
+http://0.0.0.0: VARIEDADES
+
+#EXTINF:-1, TRU TV
+http://200.76.77.237/LIVE/H01/CANAL215/PROFILE03.m3u8?
+
+#EXTINF:-1, Viva
+rtmp://31.204.128.73/live playpath=master21 swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://www.cdnbr.biz/mastertv/Viva.html
+
+##########################################
+#EXTINF:-1 tvg-logo="" group-title="DOCUMENTARIOS",DOCUMENTARIOS 
+http://0.0.0.0: DOCUMENTARIOS
+
+
+#EXTINF:-1,Animal Planet
+rtmp://31.204.128.75/live/ playpath=30 swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://www.cdnbr.biz/mastertv/Animal Planet.html
+
+#EXTINF:-1, Discovery Channel
+rtmp://94.242.228.41:1935/live/ playpath=disco swfUrl=http://www.tvonline.org/p.swf pageUrl=http://www.tvonline.org/out/discovery.html
+
+#EXTINF:-1, Discovery Civilization 
+http://200.76.77.237/LIVE/H01/CANAL382/PROFILE03.m3u8?
+
+#EXTINF:-1, DiscoveryCivilization
+rtmp://cdn-edge.livestreamcast.org/liverepeat/discivil377/ playpath=discivil377 swfUrl=http://direct-stream.biz/jwplayer/jwplayer.flash.swf&jonasiptv pageUrl=http://direct-stream.biz/embedFrame.php?c=discivil377&vw=468&vh=360
+
+
+#EXTINF:-1, History Channel
+rtmp://109.200.202.124/live playpath=history swfUrl=http://www.tv-msn.com/player/player.swf&jonasiptv pageUrl=http://tv-msn.com/history.html live=1
+
+#EXTINF:-1, Discovery Turbo 
+rtmp://109.200.202.124/live playpath=turbo swfUrl=http://www.tv-msn.com/player/player.swf&jonasiptv pageUrl=http://tv-msn.com/turbo.html live=1 
+
+#EXTINF:-1, Discovery Science
+rtmp://199.59.88.39/cam4-cr107/130?
+
+#EXTINF:-1, National Geographic
+rtmp://109.200.202.124/live playpath=natgeo swfUrl=http://www.tv-msn.com/player/player.swf&jonasiptv pageUrl=http://tv-msn.com/natgeo.html live=1
+
+#EXTINF:-1, Nat Geo Wild
+rtmp://109.200.202.124/live playpath=animal swfUrl=http://www.tv-msn.com/player/player.swf&jonasiptv live=1 pageUrl=http://tv-msn.com/natgeowild.html
+
+##########################################
+#EXTINF:-1 tvg-logo="" group-title="FILMES E SERIES",FILMES E SERIES 
+http://0.0.0.0: FILMES E SERIES
+
+#EXTINF:-1, AE
+rtmp://109.200.202.124/live playpath=ae_1 swfUrl=http://www.tv-msn.com/player5.swf&jonasiptv pageUrl=http://tv-msn.com/ae.html live=1
+
+#EXTINF:-1, AXN
+rtmp://31.204.128.76/live/ playpath=master52 swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://www.cdnbr.biz/mastertv/AXN.html
+
+#EXTINF:-1, AXN
+rtmp://31.204.128.76/live/ playpath=master52 swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://www.cdnbr.biz/canais/AXN.html
+
+
+#EXTINF:-1, Cinemax
+rtmp://31.204.128.140/live/ playpath=53  swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://www.cdnbr.biz/mastertv/Cinemax.html
+
+#EXTINF:-1, Filmes 24 horas
+rtmp://208.53.164.226/ctv playpath=filmes swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/filmes.html
+
+#EXTINF:-1, Fox
+rtmp://31.204.128.140/live/ playpath=fox swfUrl=http://www.tv-msn.com/player/player.swf&jonasiptv pageUrl=http://www.cdnbr.biz/mastertv/FOX.html
+
+#EXTINF:-1, FX
+rtmp://31.204.128.75/live/ playpath=master25 swfUrl=http://www.tv-msn.com/player/player.swf&jonasiptv pageUrl=http://www.cdnbr.biz/mastertv/FX.html live
+
+#EXTINF:-1, HBO
+rtmp://75.126.73.27:1935/transmissao/ playpath=20hd swfUrl=http://www.mastertv.biz/sistema/new-player/Player.swf?v=2 pageUrl=http://www.mastertv.biz/sistema/logado/index.php?stream=transmissao&app=20hd
+
+#EXTINF:-1, HBO 2
+rtmp://109.200.202.124/live playpath=hbo2 swfUrl=http://www.tv-msn.com/player/player.swf&jonasiptv pageUrl=http://tv-msn.com/hbofamily.html live=1
+
+#EXTINF:-1, HBO Family
+rtmp://109.200.202.124/live playpath=hbofamily swfUrl=http://www.tv-msn.com/player/player.swf&jonasiptv pageUrl=http://tv-msn.com/hbofamily.html live=1
+
+#EXTINF:-1, HBO Plus
+rtmp://109.200.202.124/live playpath=hboplus swfUrl=http://www.tv-msn.com/player/player.swf&jonasiptv pageUrl=http://tv-msn.com/hboplus.html live=1
+
+#EXTINF:-1, MAX UP HD
+rtmp://109.200.202.124/live playpath=maxhd swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://tv-msn.com/maxhd.html
+
+#EXTINF:-1, MAX PRIME
+rtsp://94.242.228.19:443/loadbalance/tvmsnmaxxprime?live.m3u8
+
+#EXTINF:-1, MEGAPIX
+rtmp://31.204.128.73/live/master11
+
+#EXTINF:-1, Omelete Cinema
+http://wowza1.videos.movile.com:8080/live/smil:cinema_1.smil/playlist.m3u8?iptvjonas
+
+#EXTINF:-1, Sony
+rtmp://109.200.202.124/live playpath=sony swfUrl=http://www.tv-msn.com/player5.swf&jonasiptv live=1 pageUrl=http://tv-msn.com/sony.html
+
+#EXTINF:-1, SPACE
+rtmp://109.200.202.124/live playpath=space swfUrl=http://www.tv-msn.com/player5.swf&jonasiptv live=1 pageUrl=http://tv-msn.com/space.html
+
+#EXTINF:-1, studiouniversal
+rtmp://109.200.202.124/live playpath=studio swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://tv-msn.com/studio.html
+
+#EXTINF:-1, TCM
+rtmp://109.200.202.124/live playpath=tcm swfUrl=http://www.tv-msn.com/player5.swf&jonasiptv live=1 pageUrl=http://tv-msn.com/tcm.html
+
+#EXTINF:-1, Telecine Action
+rtmp://31.204.128.75/live/master17 pageUrl=http://www.cdnbr.biz/mastertv/TelecineAction.m3u8?iptvglobal
+
+
+#EXTINF:-1, Telecine Fun
+rtmp://109.200.202.124/live playpath=44_1 swfUrl=http://www.tv-msn.com/player/player.swf&jonasiptv pageUrl=http://tv-msn.com/fun.html
+
+#EXTINF:-1, Telecine Pipoca
+rtmp://31.204.128.74/live/master18?
+
+#EXTINF:-1, Telecine Premium
+rtmp://31.204.128.140/live playpath=master19 swfUrl=http://www.brshare.info/goto/player5.swf pageUrl=http://www.brshare.info/goto/a-140.php?itc=master19
+
+#EXTINF:-1, TelecineTouch
+rtmp://109.200.202.124/live playpath=36_1 swfUrl=http://www.tv-msn.com/player/player.swf&jonasiptv pageUrl=http://tv-msn.com/touch.html
+
+#EXTINF:-1, TNT
+rtmp://31.204.128.74/live/ playpath=master77_1 swfUrl=http://www.tv-msn.com/player/player.swf&jonasiptv pageUrl=http://www.cdnbr.biz/mastertv/TNT.html
+
+#EXTINF:-1, Universal Channel 
+rtmp://31.204.128.75/live/ playpath=master20 swfUrl=http://www.tv-msn.com/player5.swf&jonasiptv pageUrl=http://www.cdnbr.biz/mastertv/Universal Channel.html
+
+
+
+##########################################
+#EXTINF:-1 tvg-logo="" group-title="CANAIS INFANTIS",CANAIS INFANTIS 
+http://0.0.0.0: CANAIS INFANTIS
+
+
+#EXTINF:-1, Nick
+rtmp://31.204.153.72/live playpath=hd2 swfUrl=http://brshare.info/goto/player5.swf&jonasiptv live=1 pageUrl=http://brshare.info/mega/n1ck.html
+
+#EXTINF:-1,Nickelodeonn
+rtmp://31.204.128.140/live/ playpath=brlive_0030 swfUrl=http://www.tv-msn.com/player/player.swf&jonasiptv pageUrl=http://www.cdnbr.biz/mastertv/Nickelodeon.html
+
+#EXTINF:-1, Tooncast
+rtmp://109.200.202.124/live playpath=tooncast swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://tv-msn.com/tooncast.html
+
+#EXTINF:-1, asaventuratimtim
+rtmp://extondemand.livestream.com/ondemand/trans/dv15/mogulus-user-files/chasaventurasdetintin/2011/12/07/cc428167-795f-451e-b4d6-e79fc457750e
+
+#EXTINF:-1, Batman
+rtmp://208.53.164.226/ctv playpath=batman swfUrl=http://www.canaistv.net/swf/player.swf&iptvglobal pageUrl=http://www.canaistv.net/tvamigos/batman.html
+
+#EXTINF:-1, Bob Esponja
+rtmp://208.53.164.226/ctv playpath=bob swfUrl=http://www.canaistv.net/swf/player.swf&iptvglobal pageUrl=http://www.canaistv.net/tvamigos/bobesponja.html
+
+#EXTINF:-1, Cavaleiros do Zodiaco
+rtmp://208.53.180.130/ctv playpath=cdz swfUrl=http://www.canaistv.net/swf/player.swf&iptvglobal pageUrl=http://www.canaistv.net/tvamigos/cdz.html
+
+#EXTINF:-1, Caverna do Dragão
+rtmp://208.53.180.242/ctv playpath=caverna swfUrl=http://www.canaistv.net/swf/player.swf&iptvglobal pageUrl=http://www.canaistv.net/tvamigos/caverna.html
+
+#EXTINF:-1, Doug
+rtmp://208.53.180.130/ctv playpath=doug swfUrl=http://www.canaistv.net/swf/player.swf&iptvglobal pageUrl=http://www.canaistv.net/tvamigos/doug.html
+
+#EXTINF:-1, Dragon Ball Z
+rtmp://208.53.164.226/ctv playpath=dbz swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?iptvjonas live=1 pageUrl=http://carolineoliveira.com.br/tvamigos/dbz.html
+
+#EXTINF:-1, Familia Dinossauros
+rtmp://extondemand.livestream.com/ondemand playpath=trans/dv15/mogulus-user-files/chtvtfamiliadinosauros/2012/05/12/052e4e4b-977f-4382-9ac8-31613b0074c4 swfUrl=http://player.longtailvideo.com/[[IMPORT]]/cdn.livestream.com/chromelessPlayer/v20/playerapi.swf?jsEnabled=true pageUrl=http://tvonlinegratis.tv/canais/familia-dinossauros.php
+
+#EXTINF:-1 Fantástico mundo de Bobby
+rtmp://208.53.180.242/ctv playpath=bobby swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?iptvjonas live=1 pageUrl=http://aovivobrasil.com/tvamigos/bobby.html
+
+#EXTINF:-1, FUTURAMA
+rtmp://208.53.164.226/ctv playpath=futurama swfUrl=http://www.carolineoliveira.com.br/swf/player.swf&iptvglobal pageUrl=http://carolineoliveira.com.br/tvamigos/futurama.html
+
+#EXTINF:-1, Scobby doo
+rtmp://208.53.180.178/ctv playpath=scooby swfUrl=http://www.carolineoliveira.com.br/swf/player.swf&iptvglobal pageUrl=http://carolineoliveira.com.br/tvamigos/scooby.html
+
+#EXTINF:-1, Simpsons
+rtmp://208.53.180.178/ctv playpath=simpsons swfUrl=http://www.carolineoliveira.com.br/swf/player.swf&iptvglobal pageUrl=http://carolineoliveira.com.br/tvamigos/simpsons.html
+
+#EXTINF:-1, Uma familia da pesada
+rtmp://208.53.164.226/ctv playpath=family swfUrl=http://www.carolineoliveira.com.br/swf/player.swf&iptvglobal pageUrl=http://carolineoliveira.com.br/tvamigos/family.html
+
+#EXTINF:-1, Chapolin
+rtmp://212.129.30.215/chapolin/chapolin playpath=chapolin swfUrl=http://www.tvonlinegratis.tv/player.swf&iptvglobal pageUrl=http://www.tvonlinegratis.tv/parcerias/chapolim.php
+
+#EXTINF:-1, 
+rtmp://208.53.180.130/ctv playpath=chaves swfUrl=http://www.carolineoliveira.com.br/swf/player.swf&iptvglobal pageUrl=http://carolineoliveira.com.br/tvamigos/chaves.html
+
+#EXTINF:-1, KenaneKel
+rtmp://208.53.164.226/ctv playpath=kenan swfUrl=http://www.carolineoliveira.com.br/swf/player.swf&iptvglobal pageUrl=http://carolineoliveira.com.br/tvamigos/kenanekel.html
+
+#EXTINF:-1, MR BEAN
+rtmp://extondemand.livestream.com:80/ondemand playpath=trans/dv01/mogulus-user-files/chmrbean/2008/07/13/0656019f-e01e-465d-84bb-9b2373e4987b swfUrl=http://cdn.livestream.com/chromelessPlayer/v20/playerapi.swf?jsEnabled=false pageUrl=http://www.tvonlinegratis.tv/canais/mr-bean.php
+
+
+#EXTINF:-1, ABC News 
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?jonasiptv
+
+#EXTINF:-1, CNN
+http://hls.novotelecom.ru/streaming/cnn/tvrec/playlist.m3u8?jonasiptv
+
+##########################################
+#EXTINF:-1 tvg-logo="" group-title="MAIORES",MAIORES 
+http://0.0.0.0: MAIORES
+
+#EXTINF:-1, PLAYBOY
+http://myplace.dnsalias.com:6262/live/pt/gratis/200.ts
+
+#EXTINF:-1, HOT +18
+http://myplace.dnsalias.com:6262/live/pt/gratis/201.ts
+
+#EXTINF:-1, XFREAX
+http://188.165.220.116:8081/live/x/playlist.m3u8
+
+#EXTINF:-1, Adulto Claro
+http://wowza1.videos.movile.com:8080/live/smil:adulto_1.smil/playlist.m3u8
+
+#EXTINF:-1, Adulto Premium Claro
+http://wowza1.videos.movile.com:8080/live/smil:adultopremium_1.smil/playlist.m3u8
+
+#EXTINF:-1, Bollywood Bikini TV
+http://46.249.213.93/iPhone/broadcast/bollywoodbikini-tablet.3gp/bollywoodbikini-tablet.3gp-mr647k.m3u8
+
+#EXTINF:-1, Brasileirinhas
+http://212.129.30.215/brasileirinhas/brasileirinhas/chunklist_w219953667.m3u8
+
+#EXTINF:-1, DLDVS 1
+http://208.122.3.2:9000
+
+#EXTINF:-1, DLDVS 2
+http://208.122.3.2:8700
+
+#EXTINF:-1, G-Boys TV
+http://g-boys.tk/live.m3u8
+
+#EXTINF:-1, Hot Clips
+rtmp://extondemand.livestream.com:80/ondemand playpath=trans/dv15/mogulus-user-files/chhotceleb/2013/11/23/59825737-e5aa-43f7-a007-c109e430f496 swfUrl=http://cdn.livestream.com/chromelessPlayer/v21/playerapi.swf?color=0x000000&autoPlay=true&iconColor=0xcccccc&mute=false&jsEnabled=false&iconColorOver=0xe7e7e7 pageUrl=http://tvtoss.com/channel-frames/Hot Clips 18  TV/hotclips_server-1.php
+
+#EXTINF:-1, Power Girls TV 
+http://46.249.213.93/iPhone/broadcast/powergirls-tablet.3gp/powergirls-tablet.3gp-mr648k.m3u8
+
+#EXTINF:-1, Sexy Sat
+rtmp://81.89.48.215/xyz999wkz/sexysat.stream_360p
+
+#EXTINF:-1, Visit-X TV
+rtmp://194.116.150.47/live//visitx.stream1
+
+#EXTINF:-1, Clipe 1
+http://cdn3.serviporno.com/videos/4/e/0/9/8/4e0989d53fef4989fd15ef649469ceb6ccefede8.flv
+
+#EXTINF:-1, Clipe 2
+http://cdn2.serviporno.com/videos/a/6/8/4/f/a684f00d93a913e2226722c74448132cd0f22733.flv
+
+#EXTINF:-1, Clipe 4
+http://cdn3.serviporno.com/videos/b/f/c/3/8/bfc3838a99ae6131f29961a66924f3e8b0565549.flv
+
+#EXTINF:-1, Clipe 5
+http://a2-104.1-308.cdn13.com/videos/5/1/8/7/7/51877fa5b57fa02l.flv
+
+#EXTINF:-1, Clipe 6
+http://a2-104.1-309.cdn13.com/videos/5/1/8/b/3/518b3fb0446e430x_paige_turnah_pov_sex.flv
+
+#EXTINF:-1, Clipe 7
+http://a2-104.1-308.cdn13.com/videos/5/1/b/5/0/51b509feeadcc16alexistexas.flv
+
+#EXTINF:-1, Clipe 8
+http://cdn2.serviporno.com/videos/4/b/0/1/f/4b01f9d92324d1884533f7c1b72eb16662e0e67b.flv
+
+#EXTINF:-1, Clipe 9
+http://a2-104.1-309.cdn13.com/videos/5/0/f/6/9/50f69a1c0d80cJanBlondbootyqueennailed.flv
+
+#EXTINF:-1, Clipe 10
+http://cdn3.serviporno.com/videos/4/7/b/9/3/47b93431b6ad0ff67f34d5215eb03a81ae8fb3df.flv
+
+#EXTINF:-1, VOD 50
+http://videos-porno1.petardashd.com/archivos3/hd/hd-167337-ca5a5f9.mp4

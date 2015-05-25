@@ -1,0 +1,184 @@
+#EXTM3U
+
+#EXTINF:-1, BATMAN
+http://66.90.111.66:1935/ctv/batman/playlist.m3u8
+
+#EXTINF:-1, BEN 10
+http://66.90.111.66:1935/ctv/ben10/playlist.m3u8
+
+#EXTINF:-1, BOB ESPONJA 
+http://66.90.111.66:1935/ctv/bob/playlist.m3u8
+
+#EXTINF:-1, SIMPSONS
+http://66.90.111.66:1935/ctv/simpsons/playlist.m3u8
+
+#EXTINF:-1, TOM E JERRY
+http://66.90.111.66:1935/ctv/tom/playlist.m3u8
+
+#EXTINF:-1, CAVALEIROS DO ZODIACO
+http://66.90.111.66:1935/ctv/cdz/playlist.m3u8
+
+#EXTINF:-1, PICA PAU
+http://66.90.111.66:1935/ctv/picapau/playlist.m3u8
+
+#EXTINF:-1, GALINHA PINTADINHA
+http://66.90.111.66:1935/ctv/_definst_/galinha/playlist.m3u8
+
+#EXTINF:-1, NARUTO
+http://66.90.111.66:1935/ctv/naruto/playlist.m3u8
+
+#EXTINF:-1, CAVERNA DO DRAGÃO
+http://66.90.111.66:1935/ctv/caverna/playlist.m3u8
+
+#EXTINF:-1, DRAGON BALL
+http://66.90.111.66:1935/ctv/dbz/playlist.m3u8
+
+#EXTINF:-1, NICK
+rtmp://31.204.128.75/live/brlive_0030.flv
+
+#EXTINF:-1, CARTOON NETWORK
+rtmp://31.204.128.75/live/brlive_0028.flv
+
+#EXTINF:-1, CARTOON NETWORK
+rtsp://85.12.5.8:1935/aovivo/cn
+
+#EXTINF:-1, DRAKE AND JOSH
+http://66.90.111.66:1935/ctv/drake/playlist.m3u8
+
+#EXTINF:-1, FUTURAMA
+http://66.90.111.66:1935/ctv/futurama/playlist.m3u8
+
+#EXTINF:-1, EU, A PATROA E AS CRIANÇAS
+http://66.90.111.66:1935/ctv/patroa/playlist.m3u8
+
+#EXTINF:-1, CAVERNA DO DRAGÃO
+http://66.90.111.66:1935/ctv/caverna/playlist.m3u8
+
+#EXTINF:-1, CHAVES
+http://66.90.111.66:1935/ctv/chaves/playlist.m3u8
+
+#EXTINF:-1, CAVALEIROS DO ZODIACO
+http://66.90.111.66:1935/ctv/chaves/playlist.m3u8
+
+#EXTINF:-1, TODO MUNDO ODEIA O CHRIS
+http://66.90.111.66:1935/ctv/cris/playlist.m3u8
+
+#EXTINF:-1, CTV
+http://66.90.111.66:1935/ctv/prison/playlist.m3u8
+
+#EXTINF:-1, DRAGON BALL Z
+http://66.90.111.66:1935/ctv/dbz/playlist.m3u8
+
+#EXTINF:-1, GLOBAL HD
+http://66.90.111.66:1935/ctv/glee/playlist.m3u8
+
+#EXTINF:-1, GOSSIP
+http://66.90.111.66:1935/ctv/gossip/playlist.m3u8
+
+#EXTINF:-1, ICARLY
+http://66.90.111.66:1935/ctv/icarly/playlist.m3u8
+
+#EXTINF:-1, KENAN E KEL
+http://66.90.111.66:1935/ctv/kenan/playlist.m3u8
+
+#EXTINF:-1, LOST
+http://66.90.111.66:1935/ctv/lost/playlist.m3u8
+
+#EXTINF:-1, CSI
+http://66.90.111.66:1935/ctv/futurama/playlist.m3u8
+
+#EXTINF:-1, MALUCO NO PEDAÇO
+http://66.90.111.66:1935/ctv/maluconopedaco/playlist.m3u8
+
+#EXTINF:-1, SMALLVILLE
+http://66.90.111.66:1935/ctv/small/playlist.m3u8
+
+#EXTINF:-1, SUPERNATURAL
+http://66.90.111.66:1935/ctv/supernatural/playlist.m3u8
+
+#EXTINF:-1, THE BIG BANG TEORY
+http://66.90.111.66:1935/ctv/big/playlist.m3u8
+
+#EXTINF:-1, TWO AND A HALF MEN 24 HORAS
+http://66.90.111.66:1935/ctv/two/playlist.m3u8
+
+#EXTINF:-1, CRIMINAL MINDS
+http://66.90.111.66:1935/ctv/criminal/playlist.m3u8
+
+#EXTINF:-1, CHUCK
+http://66.90.111.66:1935/ctv/chuck/playlist.m3u8
+
+#EXTINF:-1, DOUG FUNNIE
+http://66.90.111.66:1935/ctv/doug/playlist.m3u8
+
+#EXTINF:-1, FAMILIA DA PESADA
+http://66.90.111.66:1935/ctv/family/playlist.m3u8
+
+#EXTINF:-1, FRIENDS
+http://66.90.111.66:1935/ctv/friends/playlist.m3u8
+
+#EXTINF:-1, HEROES
+http://66.90.111.66:1935/ctv/heroes/playlist.m3u8
+
+#EXTINF:-1, NARUTO
+http://66.90.111.66:1935/ctv/naruto/playlist.m3u8
+
+#EXTINF:-1, FILMES 24 HORAS
+http://66.90.111.66:1935/ctv/filmes/playlist.m3u8
+
+#EXTINF:-1, CINE ANIMAÇÃO
+rtsp://85.12.5.8:1935/aovivo/cineanimado
+
+#EXTINF:-1, CARTOON NETWORK
+rtsp://85.12.5.8:1935/aovivo/cn
+
+#EXTINF:-1, NICK JUNIOR
+rtmp://109.200.202.124:1935/live/nickjr
+
+#EXTINF:-1, DISNEY
+rtmp://109.200.202.124:1935/live/disney
+
+#EXTINF:-1, DISNEY
+rtsp://85.12.5.8:1935/aovivo/disney
+
+#EXTINF:-1, DISNEY JUNIOR
+rtmp://109.200.202.124:1935/live/animax
+
+#EXTINF:-1, DISNEY XD
+rtmp://109.200.202.124:1935/live/disneyxd
+
+#EXTINF:-1,DISCOVERY KIDS
+rtmp://31.204.128.74/live/master24.flv
+
+#EXTINF:-1, TOON Disney Channel (USA)
+mmsh://72.13.93.186:80/campcartoon?MSWMExt=.asf
+
+#EXTINF:-1, GLOOB
+rtmp://31.204.128.140:1935/live/master35
+
+#EXTINF:-1,GLOOB
+rtmp://173.193.20.136:1935/mtv/110hd
+
+#EXTINF:-1, ITSAT
+rtmp://173.193.20.136:1935/mtv/131
+
+#EXTINF:-1, ANIMATED FILMS 
+mms://72.13.93.186/animatedfilms
+
+#EXTINF:-1,  CARTOON CLASSICS
+mms://72.13.93.186/cartoonclassics?.wma
+
+#EXTINF:-1,  CAMP CARTOON
+mms://72.13.93.186/campcartoon
+
+#EXTINF:-1,  BEST OLDIES FILMS
+mms://72.13.93.186/bestoldies
+
+#EXTINF:-1, TV CLAN
+http://media0.rtve.es/resources/TE_GLESP/mp4/5/1/1303316681415.mp4?aksessionid=1303766307140_392613
+
+#EXTINF:-1,  MINIMINI 
+http://217.113.227.239/minimini/minimini.m3u8
+
+#EXTINF:-1, ZOOMOO
+rtmp://$OPT:rtmp-raw=rtmp://75.126.217.3/mtv/?_fcs_vhost=_defaultVHost_?jacob#MDdlYmYxMDEwNWU2LnBuZzwvdXJsTG9nbz48U0FMQUNPTkZJR19ET1dOTE9BRFM%2BMTwvU0#james/zoomi playpath=zoomi swfUrl=http://75.126.217.6/site/flash/player_aovivo.swf?v=1.3 live=1 pageUrl=http://75.126.217.6/videoteca/play  

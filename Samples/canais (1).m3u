@@ -1,0 +1,64 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-logo="site.png" tvg-id="" tvg-logo="" group-title="",[COLOR red]BY IPTV-BRASIL[/COLOR]
+pnm
+
+#EXTINF:-1 tvg-logo="site.png" tvg-id="" tvg-logo="" group-title="",[COLOR yellow]ATUALIZADO EM 11/03/2015[/COLOR]
+pnm
+
+#EXTINF:-1 tvg-id="IPTV Brasil - Bandeirantes" tvg-logo="Band.png" group-title="TV Aberta",Band
+http://mistreaming.com.br:1935/TarobaCascavel/TarobaCascavel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IPTV BRASIL - Comedy Central" tvg-logo="" group-title="Filmes e Séries",Comedy Central
+http://live.livestreamcast.org:1935/live/comedy913/comedy913/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IPTV Brasil - Esporte Iterativo Nordeste" tvg-logo="EsporteInterativo.png" group-title="Esportes",Esporte Interativo Nor
+http://www.eiplus.com.br/player_eiplus/m3u8.m3u8?mediaAoVivo=2
+
+#EXTINF:-1 tvg-id="IPTV BRASIL - Glitz" tvg-logo="manut.png" group-title="Variedades",Glitz
+http://iptvbrasil.esy.es/arquivos/Canal%20fora%20do%20ar.wmv
+
+#EXTINF:-1 tvg-id="IPTV Brasil - Globo São Paulo" tvg-logo="Globo.png" group-title="TV Aberta",Globo São Paulo
+http://live-cdn.direct-stream.org:1935/live/_definst_/101010/Globo_SP_Anderson_Elias.m3u8?IPTV_BRASIL
+
+#EXTINF:-1 tvg-id="IPTV Brasil - Globo São Paulo" tvg-logo="Globo.png" group-title="TV Aberta",Globo São Paulo
+http://83.170.111.194:1935/live/_definst_/101010/playlist.m3u8?IPTV_BRASIL
+
+#EXTINF:-1 tvg-id="IPTV Brasil - Max Prime" tvg-logo="MAXPrime.png" group-title="Filmes e Séries",Max Prime
+http://orc.anrojo.com:1944/loadbalance/tvmsnmaxxprime/live.m3u8
+
+#EXTINF:-1 tvg-id="IPTV Brasil - Mega TV" tvg-logo="manut.png" group-title="Variedades",Mega TV
+http://megahdlive1-f.akamaihd.net/i/live_1@105260/master.m3u8
+
+#EXTINF:-1 tvg-id="IPTV Brasil - Record" tvg-logo="record.png" group-title="TV Aberta",Record ES
+http://flash.midiaip.com.br:1935/tvvitoria/Sample1/playlist.m3u8?IPTV_Brasil
+
+#EXTINF:-1 tvg-id="IPTV Brasil - Record" tvg-logo="record.png" group-title="TV Aberta",Record PB - TV Correio
+http://174.37.99.198:1935/dvrid1816/1816/DVR_b125000_w850070613_qRFZS.m3u8?IPTV_Brasil
+
+#EXTINF:-1 tvg-id="IPTV Brasil - SBT" tvg-logo="SBT.png" group-title="TV Aberta",SBT SP - Araçuba
+http://srv3.zoeweb.tv:1935/z133-live/stream/SBT_ARACATUBA_IPTV_Brasil.m3u8?IPTV_Brasil
+
+#EXTINF:-1 tvg-id="IPTV Brasil - TNT" tvg-logo="TNT.png" group-title="Filmes e Séries",TNT
+http://200.76.77.237/LIVE/H01/CANAL435/PROFILE03.m3u8?
+
+#EXTINF:-1 tvg-id="IPTV Brasil - TV Câmara" tvg-logo="TV-Camara.png" group-title="TV Aberta",TV Câmara
+http://stream.camara.gov.br:80/tvcamara1t200
+
+#EXTINF:-1 tvg-id="IPTV Brasil - Tv Diario" tvg-logo="TV-Diario.png" group-title="TV Aberta",TV Diário
+http://livela.sambatech.com.br/hls-live/livepkgr/tvdiario_2ff357495c9f34b35fc02b51ee33d935/liveevent/livestream.m3u8
+
+#EXTINF:-1 tvg-id="IPTV Brasil - TV Escola" tvg-logo="TV-Escola.png" group-title="TV Aberta",TV Escola HD
+http://livela.sambatech.com.br/hls-live/livepkgr/acerp_1f9a5d00db56b3c3020b6ac3dd693e12/liveevent/livestream.m3u8
+
+#EXTINF:-1 tvg-id="IPTV Brasil - TV Senado" tvg-logo="TV-Senado.png" group-title="TV Aberta",TV Senado
+rtsp://drix.senado.gov.br/tv1
+
+#EXTINF:-1 tvg-id="IPTV Brasil - vevo" tvg-logo="vevo.png" group-title="Musica",Vevo 1 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+
+#EXTINF:-1 tvg-id="IPTV Brasil - vevo" tvg-logo="vevo.png" group-title="Musica",Vevo 2 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+
+#EXTINF:-1 tvg-id="IPTV Brasil - vevo" tvg-logo="vevo.png" group-title="Musica",Vevo 3 HD
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8

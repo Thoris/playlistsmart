@@ -1,0 +1,78 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GrabFormat", "GrabFormat\GrabFormat.csproj", "{BE466E8C-D485-4037-9A41-BB8A3E871832}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Samples", "Samples", "{36BEA2B4-7F0D-4ECF-921C-AF8AAFFD70F8}"
+	ProjectSection(SolutionItems) = preProject
+		Samples\689 canais nova playlist - SimpleTV.m3u = Samples\689 canais nova playlist - SimpleTV.m3u
+		Samples\allsports.m3u = Samples\allsports.m3u
+		Samples\BrasilIPTV.m3u = Samples\BrasilIPTV.m3u
+		Samples\canais (1).m3u = Samples\canais (1).m3u
+		Samples\Canais de Desenhos e Séries.m3u = Samples\Canais de Desenhos e Séries.m3u
+		Samples\Canais tv.m3u = Samples\Canais tv.m3u
+		Samples\CanaisdeTV (1).m3u = Samples\CanaisdeTV (1).m3u
+		Samples\CanaisdeTV (2).m3u = Samples\CanaisdeTV (2).m3u
+		Samples\CanaisdeTV.m3u = Samples\CanaisdeTV.m3u
+		Samples\DesenhoseSeries24hrs (1).m3u = Samples\DesenhoseSeries24hrs (1).m3u
+		Samples\DesenhoseSeries24hrs.m3u = Samples\DesenhoseSeries24hrs.m3u
+		Samples\EPG IPTVBrasil.xml = Samples\EPG IPTVBrasil.xml
+		Samples\list.m3u = Samples\list.m3u
+		Samples\lista completa canais do mundo.m3u8 = Samples\lista completa canais do mundo.m3u8
+		Samples\Lista de canais - 01.01.2015.m3u = Samples\Lista de canais - 01.01.2015.m3u
+		Samples\lista de canais iptv 01.12.14.M3U = Samples\lista de canais iptv 01.12.14.M3U
+		Samples\Lista de Canais IPTVBrasil.m3u = Samples\Lista de Canais IPTVBrasil.m3u
+		Samples\lista de canais smart tv LG webOS.m3u = Samples\lista de canais smart tv LG webOS.m3u
+		Samples\lista prota filmes SMART TV.m3u = Samples\lista prota filmes SMART TV.m3u
+		Samples\LISTA_IPTV_SMART_TV.M3U = Samples\LISTA_IPTV_SMART_TV.M3U
+		Samples\listaHD.m3u = Samples\listaHD.m3u
+		Samples\listaiptvjonas (1).m3u = Samples\listaiptvjonas (1).m3u
+		Samples\listaiptvjonas.m3u = Samples\listaiptvjonas.m3u
+		Samples\MEGALISTAMIX_ 12_12.m3u = Samples\MEGALISTAMIX_ 12_12.m3u
+		Samples\Minha Lista.m3u = Samples\Minha Lista.m3u
+		Samples\Nova lista atualizada.m3u = Samples\Nova lista atualizada.m3u
+		Samples\Nova Lista.m3u = Samples\Nova Lista.m3u
+		Samples\playlist.m3u = Samples\playlist.m3u
+		Samples\raw.php.m3u = Samples\raw.php.m3u
+		Samples\raw.php2.m3u = Samples\raw.php2.m3u
+		Samples\ss_playlist_20150502.m3u = Samples\ss_playlist_20150502.m3u
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Temp", "Temp", "{C7642FF3-ED62-44FE-BFDA-CC3A0974D8B3}"
+	ProjectSection(SolutionItems) = preProject
+		Samples\Temp\file_0_temp.m3u = Samples\Temp\file_0_temp.m3u
+		Samples\Temp\file_10_temp.m3u = Samples\Temp\file_10_temp.m3u
+		Samples\Temp\file_11_temp.m3u = Samples\Temp\file_11_temp.m3u
+		Samples\Temp\file_12_temp.m3u = Samples\Temp\file_12_temp.m3u
+		Samples\Temp\file_13_temp.m3u = Samples\Temp\file_13_temp.m3u
+		Samples\Temp\file_1_temp.m3u = Samples\Temp\file_1_temp.m3u
+		Samples\Temp\file_2_temp.m3u = Samples\Temp\file_2_temp.m3u
+		Samples\Temp\file_3_temp.m3u = Samples\Temp\file_3_temp.m3u
+		Samples\Temp\file_4_temp.m3u = Samples\Temp\file_4_temp.m3u
+		Samples\Temp\file_5_temp.m3u = Samples\Temp\file_5_temp.m3u
+		Samples\Temp\file_6_temp.m3u = Samples\Temp\file_6_temp.m3u
+		Samples\Temp\file_7_temp.m3u = Samples\Temp\file_7_temp.m3u
+		Samples\Temp\file_8_temp.m3u = Samples\Temp\file_8_temp.m3u
+		Samples\Temp\file_9_temp.m3u = Samples\Temp\file_9_temp.m3u
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BE466E8C-D485-4037-9A41-BB8A3E871832}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE466E8C-D485-4037-9A41-BB8A3E871832}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE466E8C-D485-4037-9A41-BB8A3E871832}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE466E8C-D485-4037-9A41-BB8A3E871832}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{C7642FF3-ED62-44FE-BFDA-CC3A0974D8B3} = {36BEA2B4-7F0D-4ECF-921C-AF8AAFFD70F8}
+	EndGlobalSection
+EndGlobal

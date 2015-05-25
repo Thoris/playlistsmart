@@ -1,0 +1,1599 @@
+
+
+#EXTM3U
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - [COLOR blue]Atualizado em 13/04/2015[/COLOR]" tvg-logo="updated.png" group-title="Atualiza��o",[COLOR blue]Atualizado em 05/05/2015[/COLOR] 
+undefined 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - [COLOR cyan]Acesse nosso F�rum[/COLOR]" tvg-logo="iptvbrasil.png" group-title="Atualiza��o",[COLOR cyan]Acesse nosso F�rum[/COLOR] 
+nule 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - [COLOR yellow]18:30 Palmeiras x Atl�tico/MG[/COLOR] op1" tvg-logo="eventos.png" group-title="Eventos Ao Vivo",[COLOR yellow]02:00 Lewis U. x Loyola Chicago[/COLOR] 
+rtmp://31.204.128.74/live/ playpath=master27 swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://www.cdnbr.biz/mastertv/ESPN HD.html 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - [COLOR yellow]13:00 Barcelona x Real Sociedad[/COLOR] op2" tvg-logo="" group-title="",[COLOR yellow]13:00 Barcelona x Real Sociedad[/COLOR] op2 
+rtmp://ariana.anrojo.com:1944/bode playpath=gpr1 swfUrl=http://gringocast.org/marks/FLVplayer.swf pageUrl=http://gringocast.org/ploc.php?ch=SportsPlus&h=354&w=486&file=gpr1 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - [COLOR yellow]13:30 Stuttgart x Mainz 05[/COLOR]" tvg-logo="eventos.png" group-title="Eventos Ao Vivo",[COLOR yellow]15:00 Golf: rodada final[/COLOR] 
+rtmp://ariana.anrojo.com:1944/codorna playpath=gpr4 swfUrl=http://gringocast.org/marks/FLVplayer.swf pageUrl=http://gringocast.org/load.php?ch=Espn&h=354&w=486&file=gpr4 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - [COLOR yellow]15:45 Milan x Roma[/COLOR]" tvg-logo="eventos.png" group-title="Eventos Ao Vivo",[COLOR yellow]16:00 Atl�tico/PR x Internacional[/COLOR] op1 
+rtmp://89.248.172.98:443/liveedge/ playpath=discoveryemhdQhS swfUrl=http://turbocast.tv/images/player.swf pageUrl=http://micast.tv/chn2.php?ch=discoveryemhdQhS 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - [COLOR yellow]15:00 Masters T�nis de Madrid[/COLOR]" tvg-logo="eventos.png" group-title="Eventos Ao Vivo",[COLOR yellow]16:00 Cruzeiro x Corinthians HD[/COLOR] op1 
+rtmp://109.200.202.124/live playpath=2hd swfurl=http://www.tv-msn.com/player/player.swf pageUrl=http://tv-msn.com/12hd.html live=1 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - [COLOR yellow]15:00 Real Madrid x Val�ncia HD[/COLOR] op2" tvg-logo="eventos.png" group-title="Eventos Ao Vivo",[COLOR yellow]16:00 Cruzeiro x Corinthians[/COLOR] op2 
+rtmp://ariana.anrojo.com:1944/codorna playpath=gpr2 swfUrl=http://gringocast.org/marks/FLVplayer.swf pageUrl=http://gringocast.org/load.php?ch=SporTV2&h=354&w=486&file=gpr2 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - [COLOR yellow]16:30 Am�rica/MG x Bahia[/COLOR] op1" tvg-logo="eventos.png" group-title="Eventos Ao Vivo",[COLOR yellow]16:00 Olympique de Marselha x Monaco[/COLOR] op2 
+rtmp://62.210.88.208:1935/liverepeat playpath=201020  swfUrl=http://www.ppcast.net/embedP/jwplayer/jwplayer.flash.swf?IPTV_BRASIL_GROUPlive=1 pageUrl=http://www.ppcast.net/embedP/8.php?file=zuca8&width=468&height=359 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - [COLOR yellow]16:00 Limeira x Flamengo[/COLOR] op2" tvg-logo="eventos.png" group-title="Eventos Ao Vivo",[COLOR yellow]16:00 Olympique de Marselha x Monaco[/COLOR] op1 
+rtmp://93.174.93.50:443/liveedge/ playpath=adorareiWKd swfUrl=http://turbocast.tv/images/player.swf live=1 pageUrl=http://micast.tv/chn2.php?ch=adorareiWKd 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - [COLOR yellow]15:00 Real Madrid x Val�ncia[/COLOR] op1" tvg-logo="eventos.png" group-title="Eventos Ao Vivo",[COLOR yellow]16:00 S�o Paulo x Flamengo[/COLOR] op1 
+rtmp://89.248.172.98:443/liveedge/ playpath=nickemhdrz7 swfUrl=http://turbocast.tv/images/player.swf pageUrl=http://micast.tv/chn2.php?ch=nickemhdrz7 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - [COLOR yellow]15:30 The Players Championship of Golf[/COLOR]" tvg-logo="eventos.png" group-title="Eventos Ao Vivo",[COLOR yellow]16:00 S�o Paulo x Flamengo[/COLOR] op2 
+rtmp://93.174.93.50:443/liveedge/ playpath=esportestv3FSr swfUrl=http://turbocast.tv/images/player.swf live=1 pageUrl=http://micast.tv/br.php?ch=esportestv3FSr 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - [COLOR yellow]16:00 Limeira x Flamengo[/COLOR] op1" tvg-logo="eventos.png" group-title="Eventos Ao Vivo",[COLOR yellow]16:00 Sport x Figueirense[/COLOR] 
+rrtmp://109.200.202.124/live playpath=animal swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://tv-msn.com/natgeowild.html live=1 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - [COLOR yellow]16:30 Am�rica/MG x Bahia[/COLOR] op2" tvg-logo="eventos.png" group-title="Eventos Ao Vivo",[COLOR yellow]16:30 Cleveland Cavaliers x Chicago Bulls[/COLOR] 
+rtmp://ariana.anrojo.com:1944/codorna playpath=gpr2 swfUrl=http://gringocast.org/marks/FLVplayer.swf pageUrl=http://gringocast.org/load.php?ch=SporTV2&h=354&w=486&file=gpr2 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - [COLOR yellow]16:30 Confian�a x Estanciano HD[/COLOR]" tvg-logo="eventos.png" group-title="Eventos Ao Vivo",[COLOR yellow]17:30 Real Madrid x Andorra[/COLOR] 
+rtmp://evp.mm.uol.com.br:1935/geob_terraviva/_definst_ playpath=operadoras swfUrl= live=1 pageUrl= 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - [COLOR yellow]16:30 F�rmula Indy: GP de Indian�polis[/COLOR] op1" tvg-logo="eventos.png" group-title="Eventos Ao Vivo",[COLOR yellow]18:00 Toronto FC x Houston Dynamo[/COLOR] 
+rtmp://31.204.128.74/live/ playpath=master27 swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://www.cdnbr.biz/mastertv/ESPN HD.html 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - [COLOR yellow]16:30 F�rmula Indy: GP de Indian�polis[/COLOR] op2" tvg-logo="eventos.png" group-title="Eventos Ao Vivo",[COLOR yellow]18:10 Independiente x Boca Juniors[/COLOR] 
+rtmp://ariana.anrojo.com:1944/codorna playpath=gpr3 swfUrl=http://gringocast.org/marks/FLVplayer.swf pageUrl=http://gringocast.org/load.php?ch=Foxsports2&h=354&w=486&file=gpr3 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - [COLOR yellow]16:30 N�utico x Luverdense[/COLOR]" tvg-logo="eventos.png" group-title="Eventos Ao Vivo",[COLOR yellow]18:30 Ava� x Santos[/COLOR] op2 
+rtmp://89.248.172.98:443/liveedge/ playpath=nickemhdrz7 swfUrl=http://turbocast.tv/images/player.swf pageUrl=http://micast.tv/chn2.php?ch=nickemhdrz7 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - [COLOR yellow]16:30 Maca� x Santa Cruz[/COLOR]" tvg-logo="eventos.png" group-title="Eventos Ao Vivo",[COLOR yellow]18:30 Ava� x Santos[/COLOR] op1 
+rtmp://93.174.93.50:443/liveedge/ playpath=adorareiWKd swfUrl=http://turbocast.tv/images/player.swf live=1 pageUrl=http://micast.tv/chn2.php?ch=adorareiWKd 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - [COLOR yellow]16:30 Vit�ria x Sampaio Corr�a[/COLOR]" tvg-logo="eventos.png" group-title="Eventos Ao Vivo",[COLOR yellow]18:30 Vasco x Goi�s[/COLOR] op1 
+rtmp://89.248.172.98:443/liveedge/ playpath=discoveryemhdQhS swfUrl=http://turbocast.tv/images/player.swf pageUrl=http://micast.tv/chn2.php?ch=discoveryemhdQhS 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - [COLOR yellow]17:00 Athletic Bilbao x Deportivo La Coru�a[/COLOR]" tvg-logo="eventos.png" group-title="Eventos Ao Vivo",[COLOR yellow]18:30 Vasco x Goi�s HD[/COLOR] op2 
+rtmp://109.200.202.124/live playpath=2hd swfurl=http://www.tv-msn.com/player/player.swf pageUrl=http://tv-msn.com/12hd.html live=1 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - [COLOR yellow]17:00 Washington Nationals x Atlanta Braves[/COLOR]" tvg-logo="eventos.png" group-title="Eventos Ao Vivo",[COLOR yellow]19:00 Bauru x Mogi das Cruzes[/COLOR] 
+rtmp://ariana.anrojo.com:1944/codorna playpath=gpr2 swfUrl=http://gringocast.org/marks/FLVplayer.swf pageUrl=http://gringocast.org/load.php?ch=SporTV2&h=354&w=486&file=gpr2 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - [COLOR yellow]18:00  Harlequins x Bath[/COLOR]" tvg-logo="eventos.png" group-title="Eventos Ao Vivo",[COLOR yellow]19:30 Motocross: etapa da Espanha[/COLOR] 
+rtmp://evp.mm.uol.com.br:1935/geob_terraviva/_definst_ playpath=operadoras swfUrl= live=1 pageUrl= 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - [COLOR yellow]18:00 Atlanta Hawks x Washington Wizards[/COLOR]" tvg-logo="eventos.png" group-title="Eventos Ao Vivo",[COLOR yellow]20:15 New York RB x New York City[/COLOR] 
+rtmp://93.174.93.50:443/liveedge/ playpath=esportestv3FSr swfUrl=http://turbocast.tv/images/player.swf live=1 pageUrl=http://micast.tv/br.php?ch=esportestv3FSr 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - [COLOR yellow]18:30 Chapecoense x Coritiba HD[/COLOR] op1" tvg-logo="eventos.png" group-title="Eventos Ao Vivo",[COLOR yellow]21:00 Detroit Tigers x Kansas City Royals[/COLOR] 
+rtmp://ariana.anrojo.com:1944/codorna playpath=gpr4 swfUrl=http://gringocast.org/marks/FLVplayer.swf pageUrl=http://gringocast.org/load.php?ch=Espn&h=354&w=486&file=gpr4 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - AeE" tvg-logo="aande.png" group-title="Variedades",A&E 
+rtmp://109.200.202.124/live playpath=ae_1 swfUrl=http://www.tv-msn.com/player5.swf pageUrl=http://tv-msn.com/ae.html live=1 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - AMC" tvg-logo="amc.png" group-title="Filmes e S�ries",AMC 
+rtmp://109.200.202.124/live playpath=mgm swfUrl=http://www.tv-msn.com/player5.swf live=1 pageUrl=http://tv-msn.com/mgm.html 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Animal Planet" tvg-logo="animalplanet.png" group-title="Document�rios",Animal Planet 
+rtmp://31.204.128.75/live/ playpath=30 swfUrl=http://www.tv-msn.com/player5.swf pageUrl=http://www.cdnbr.biz/mastertv/Animal Planet.html 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - AXN" tvg-logo="axn.png" group-title="Filmes e S�ries",AXN 
+rtmp://31.204.128.76/live/ playpath=master52 swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://www.cdnbr.biz/mastertv/AXN.html 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Baby TV" tvg-logo="baby.png" group-title="Infantil",Baby TV 
+rtmp://199.59.88.39/cam4-cr107 playpath=131 swfUrl=http://www.tv-msn.com/player/player.swf 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Band" tvg-logo="band.png" group-title="Tv Aberta",Band 
+rtmp://199.217.118.218:1935/TarobaCascavel/ playpath=TarobaCascavel swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf&jonasiptv pageUrl=http://livestreamcast.org/embed.php?c=band1111taroba3335a&vw=100%&vh=100% 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Band News" tvg-logo="bandnews.png" group-title="Jornalismo",Band News 
+rtmp://93.174.93.50:443/liveedge/ playpath=noticias swfUrl=http://turbocast.tv/images/player.swf live=1 pageUrl=http://micast.tv/br.php?ch=noticias 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Band Sports" tvg-logo="bandsports.png" group-title="Esportes",Band Sports 
+rtmp://evp.mm.uol.com.br:1935/geob_terraviva/_definst_ playpath=operadoras swfUrl= live=1 pageUrl=
+#rtsp://94.176.148.114:443/loadbalance/ch002 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Boomerang" tvg-logo="boomerang.png" group-title="Infantil",Boomerang 
+rtmp://199.59.88.39/cam4-cr107/79? 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Canal Brasil" tvg-logo="canalbrasil.png" group-title="Filmes e S�ries",Canal Brasil 
+rtmp://srvlon1.hostseven.org/liverepeat/canalbrasil/ playpath=canalbrasil swfUrl=http://direct-stream.biz/jwplayer/jwplayer.flash.swf pageUrl=http://direct-stream.biz/embedFrame.php?c=canalbrasil&vw=468&vh=380 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Can�ao Nova" tvg-logo="Canao.png" group-title="Tv Aberta",Can�ao Nova 
+http://cnhls-lh.akamaihd.net/i/cnhls_1@147036/master.m3u8 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Cartoon Network" tvg-logo="cartoonnetworkhd.png" group-title="Infantil",Cartoon Network 
+rtmp://31.204.128.140/live/ playpath=brlive_0028 swfUrl=http://www.tv-msn.com/player5.swf live=1 pageUrl=http://www.cdnbr.biz/mastertv/CartoonNetwork.html 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Chef TV" tvg-logo="cheftv.png" group-title="Variedades",Chef TV 
+rtmp://flashd.localmidia.com.br/cheftv playpath=aovivo swfUrl=http://www.assistirtvgratisonline.org/canais/player/universal.swf 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Cinemax" tvg-logo="cinemax.png" group-title="Filmes e S�ries",Cinemax 
+rtmp://31.204.128.140/live/ playpath=53 swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://www.cdnbr.biz/mastertv/Cinemax.html 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Premiere Combate" tvg-logo="combate.png" group-title="Pay Per View",Combate 
+rtmp://76.73.108.33/edge/ playpath=combate swfUrl=http://www.livestreamtv.biz/swfs/player.swf pageUrl=http://www.livestreamtv.biz/power.php?file=combate&width=480&height=380 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Premiere Combate" tvg-logo="combate.png" group-title="Pay Per View",Combate [COLOR red]Op��o 2[/COLOR] 
+rtmp://76.73.108.33/edge playpath=combate swfUrl=http://www.livestreamtv.biz/swfs/player.swf live=1 pageUrl=http://www.livestreamtv.biz/power.php?file=combate 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Premiere Combate" tvg-logo="combate.png" group-title="Pay Per View",Combate [COLOR red]Op��o 3[/COLOR] 
+rtmp://76.73.108.33/edge playpath=combate swfUrl=http://www.livestreamtv.biz/swfs/player.swf live=1 pageUrl=http://www.livestreamtv.biz/power.php?file=combate&width=480&height=380 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Premiere Combate" tvg-logo="combate.png" group-title="Pay Per View",Combate [COLOR red]Op��o 4[/COLOR] 
+rtmp://94.242.228.14/edge playpath=combate swfUrl=http://www.livestreamtv.biz/swfs/player.swf live=1 pageUrl=http://www.livestreamtv.biz/power.php 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Combate 5" tvg-logo="combate.png" group-title="Pay Per View",Combate [COLOR red]Op��o 5 [/COLOR] 
+http://188.241.113.252:8000/live/iptvbrasil/group/22.ts 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Comedy Central" tvg-logo="comedycentral.png" group-title="Filmes e S�ries",Comedy Central 
+rtmp://live.livestreamcast.org/live/comedy913/comedy913 playpath=comedy913 swfUrl=http://www.livestreamcast.org/StrobeMediaPlayback.swf&Grupo_UP_e_DOWN live=1 pageUrl=http://www.livestreamcast.org/player/embed_t2.php?&c=comedy913&vw=468&vh=380 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Discovery Channel" tvg-logo="discoverychannel.png" group-title="Document�rios",Discovery Channel 
+rtmp://31.204.128.75/live/ playpath=master04 swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://www.cdnbr.biz/mastertv/DiscoveryChannel.html 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Discovery Civilization" tvg-logo="discoverycivilization.png" group-title="Document�rios",Discovery Civilization 
+rtmp://live.livestreamcast.org/live/discivil377/ playpath=discivil377 swfUrl=http://direct-stream.biz/jwplayer/jwplayer.flash.swf pageURL=http://direct-stream.biz/embedFrame.php?c=discivil377 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Discovery Home e Health" tvg-logo="discoveryhomeandhealth.png" group-title="Document�rios",Discovery Home e Health 
+rtmp://109.200.202.124:1935/live playpath=home swfUrl=http://www.tv-msn.com/StroveMediaPlaybackSecureToken-fp10.swf pageUrl=http://tv-msn.com/home.html token=ef8e8620da151301dfa07b3886ab30ad live=1 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Discovery Kids" tvg-logo="discoverykids.png" group-title="Infantil",Discovery Kids 
+rtmp://31.204.128.74/live/ playpath=master24 swfUrl=http://www.tv-msn.com/player/player.swf 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Discovery Theater" tvg-logo="discoveryhdtheater.png" group-title="Document�rios",Discovery Theater 
+rtmp://89.248.172.98:443/liveedge/ playpath=discoveryemhdQhS swfUrl=http://turbocast.tv/images/player.swf pageUrl=http://micast.tv/chn2.php?ch=discoveryemhdQhS 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Discovery Turbo" tvg-logo="discoveryturbo.png" group-title="Document�rios",Discovery Turbo 
+rtmp://109.200.202.124:1935/live playpath=turbo swfUrl=http://www.tv-msn.com/StroveMediaPlaybackSecureToken-fp10.swf pageUrl=http://tv-msn.com/turbo.html token=ef8e8620da151301dfa07b3886ab30ad live=1 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Disney Channel" tvg-logo="disneyhd.png" group-title="Infantil",Disney Channel 
+rtmp://109.200.202.124/live playpath=disney swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://tv-msn.com/disney.html live=1 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Disney Jr." tvg-logo="disneyjunior.png" group-title="Infantil",Disney Jr 
+rtmp://109.200.202.124/live/animax pageurl=http://tv-msn.com/disneyjr.html 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Disney XD" tvg-logo="disneyxd.png" group-title="Infantil",Disney XD 
+rtmp://109.200.202.124/live playpath=disneyxd swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://www.tv-msn.com/disneyxd.html 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - E TV" tvg-logo="tv.png" group-title="M�sica",E TV 
+rtmp://142.4.219.208:1935/emaistv/ playpath=emaistv swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://www.emaistv.com/ 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - E! Entertainment" tvg-logo="eentertainment.png" group-title="Variedades",E! Entertainment 
+rtmp://93.174.93.50:443/liveedge/ playpath=canaleTLI swfUrl=http://turbocast.tv/images/player.swf live=1 pageUrl=http://micast.tv/chn2.php?ch=canaleTLI 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - ESPN" tvg-logo="espn.png" group-title="Esportes",ESPN 
+rtmp://ariana.anrojo.com:1944/codorna playpath=gpr4 swfUrl=http://gringocast.org/marks/FLVplayer.swf pageUrl=http://gringocast.org/load.php?ch=Espn&h=354&w=486&file=gpr4 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - ESPN Brasil" tvg-logo="espnbrasil.png" group-title="Esportes",ESPN Brasil 
+rtmp://109.200.202.124/live playpath=2hd swfurl=http://www.tv-msn.com/player/player.swf pageUrl=http://tv-msn.com/12hd.html live=1 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - ESPN Brasil" tvg-logo="espnbrasil.png" group-title="Esportes",ESPN Brasil [COLOR red]HD[/COLOR] 
+rtmp://109.200.202.124/live playpath=2hd swfurl=http://www.tv-msn.com/player/player.swf pageUrl=http://tv-msn.com/12hd.html live=1 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - ESPN Brasil" tvg-logo="espnbrasil.png" group-title="Esportes",ESPN Brasil [COLOR red]Op��o 2[/COLOR] 
+rtmp://85.12.5.8/aovivo playpath=espnbr2015  swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf?IPTV_BRASIL_GROUP pageUrl=http://www.tvonlinegratis.tv/mais-canais/espn-brasil.html 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - ESPN Plus" tvg-logo="espnmais.png" group-title="Esportes",ESPN Plus 
+rtmp://31.204.128.74/live/ playpath=master27 swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://www.cdnbr.biz/mastertv/ESPN HD.html 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Esporte Interativo" tvg-logo="esporteinterativo.png" group-title="Esportes",Esporte Interativo 
+rtmp://31.204.153.70/live/ playpath=brlive_0029 swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://www.cdnbr.biz/mastertv/Esporte Interativo.html 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Esporte Interativo" tvg-logo="esporteinterativo.png" group-title="Esportes",Esporte Interativo [COLOR red]HD[/COLOR] 
+http://eiplus-lh.akamaihd.net/i/eiplus_50@147097/master.m3u8 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Esporte Interativo Nordeste" tvg-logo="esporte-interativo-nordeste.png" group-title="Esportes",Esporte Interativo Nordeste 
+http://ei.live-ss.stormsec.com.br/liveedge/smil:Evento2.smil/playlist.m3u8 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Esporte Interativo Nordeste" tvg-logo="esporte-interativo-nordeste.png" group-title="Esportes",Esporte Interativo Nordeste [COLOR red]HD[/COLOR] 
+http://eiplus-lh.akamaihd.net:80/i/einehd_1@147097/index_high1_av-b.m3u8 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Filmes 24h" tvg-logo="filmes.png" group-title="Filmes e S�ries",Filmes 24h 
+rtmp://208.53.133.178/ctv playpath=filmes swfUrl=http://www.canaistv.net/swf/player.swf?IPTV_BRASIL pageUrl=http://www.canaistv.net/tvamigos/filmes.html 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Filmes 24h [COLOR red]Op��o 2[/COLOR]" tvg-logo="filmes.png" group-title="Filmes e S�ries",Filmes 24h [COLOR red]Op��o 2[/COLOR] 
+rtmp://66.90.111.50/ctv playpath=filmes swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTV_BRASIL pageUrl=http://carolineoliveira.com.br/tvamigos/filmes.html 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Filmes 24h [COLOR red]Op��o 3[/COLOR]" tvg-logo="filmes.png" group-title="Filmes e S�ries",Filmes 24h [COLOR red]Op��o 3[/COLOR] 
+http://66.90.111.66:1935/ctv/filmes/playlist.m3u8 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Filmes 24h [COLOR red]Op��o 4[/COLOR]" tvg-logo="filmes.png" group-title="Filmes e S�ries",Filmes 24h [COLOR red]Op��o 4[/COLOR] 
+http://66.90.111.66:1935/ctv/filmes/PAZ_Chega_de_Guerras.m3u8 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - FishTV" tvg-logo="fishtv.png" group-title="Variedades",Fish TV 
+rtmp://199.59.88.39/cam4-cr107 playpath=89 swfUrl=http://www.cdnbr.biz/swf/player.swf?autostart=true 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Fox" tvg-logo="fox.png" group-title="Filmes e S�ries",Fox 
+rtmp://31.204.128.140/live/ playpath=fox  swfUrl=http://www.tv-msn.com/player/player.swf 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Fox 2" tvg-logo="fox.png" group-title="Filmes e S�ries",Fox [COLOR red] Op��o 2 [/COLOR] 
+http://188.241.113.252:8000/live/iptvbrasil/group/17.ts 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Fox Life" tvg-logo="foxlife.png" group-title="Variedades",Fox Life 
+rtmp://178.33.231.166/live playpath=foxlife 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Fox Sports" tvg-logo="foxsports.png" group-title="Esportes",Fox Sports 
+rtmp://ariana.anrojo.com:1944/cabra  playpath=gpr7 swfUrl=http://gringocast.org/marks/FLVplayer.swf pageUrl=http://gringocast.org/load.php?ch=FoxSports&h=354&w=486&file=gpr7 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Fox Sports [COLOR red] Op��o 2 [/COLOR]" tvg-logo="foxsports.png" group-title="Esportes",Fox Sports [COLOR red] Op��o 2 [/COLOR] 
+http://62.210.89.38:8081/livehd/foxsportshd/playlist.m3u8 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Fox Sports 3" tvg-logo="foxsports.png" group-title="Esportes",Fox Sports [COLOR red]Op��o 3[/COLOR] 
+http://188.241.113.252:8000/live/iptvbrasil/group/15.ts 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Fox Sports 2" tvg-logo="foxsports2.png" group-title="Esportes",Fox Sports 2 
+rtmp://ariana.anrojo.com:1944/codorna playpath=gpr3 swfUrl=http://gringocast.org/marks/FLVplayer.swf pageUrl=http://gringocast.org/load.php?ch=Foxsports2&h=354&w=486&file=gpr3 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - FX" tvg-logo="fx.png" group-title="Filmes e S�ries",FX 
+rtmp://31.204.128.75/live/ playpath=master25 swfUrl=http://www.tv-msn.com/player/player.swf 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Glitz" tvg-logo="glitz.png" group-title="Variedades",Glitz 
+http://iptvbrasil.esy.es/arquivos/Canal fora do ar.wmv 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Globo SP" tvg-logo="globobh.png" group-title="Tv Aberta",Globo BH 
+rtmp://76.73.108.33/edge playpath=globo swfUrl=http://www.livestreamtv.biz/swfs/player.swf live=1 pageUrl=http://www.livestreamtv.biz/power.php?file=globo 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Globo Internacional [COLOR red]HD[/COLOR]" tvg-logo="globo.png" group-title="Tv Aberta",Globo Internacional [COLOR red]HD[/COLOR] 
+http://noscdn1.connectedviews.com:1935/live/sporttvlivehd.stream/livestream.m3u8 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Globo News" tvg-logo="globonews.png" group-title="Jornalismo",Globo News 
+rtmp://149.255.37.162/stream playpath=channel8uzuca?id=10995 swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf live=1 pageUrl=http://www.liveflashplayer.net/embedplayer/channel8uzuca/1/650/450 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Globo SP" tvg-logo="globo.png" group-title="Tv Aberta",Globo RS 
+rtmp://77.81.98.178:443/loadbalance?wmsAuthSign=/ playpath=gpr8 swfUrl=http://pxstream.tv/jwplayer.flash.swf?BRASILIPTV live=1 pageUrl=http://pxstream.tv/embed.php?file=boborbs1&width=468&height=360 token=#ed%h0#w@1 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Globo SP" tvg-logo="globosp.png" group-title="Tv Aberta",Globo SP 
+http://62.210.83.180:1935/liverepeat/101010/live.m3u8 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Globosat" tvg-logo="globosat.png" group-title="Variedades",Globosat 
+http://iptvbrasil.esy.es/arquivos/Canal fora do ar.wmv 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Gloob" tvg-logo="gloob.png" group-title="Infantil",Gloob 
+rtmp://31.204.128.73/live playpath=110hd swfUrl=http://www.tv-msn.com/player/player.swf pageUrl>http://www.cdnbr.biz/mastertv/Gloob.html 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - GNT" tvg-logo="gnt.png" group-title="Variedades",GNT 
+rtmp://31.204.128.76/live/ playpath=132 swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://www.cdnbr.biz/mastertv/GNT.html 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - H2" tvg-logo="h2.png" group-title="Document�rios",H2 
+http://173.193.20.150:1935/mtv/hishd/BioHD.m3u8 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - HBO" tvg-logo="hbo.png" group-title="Filmes e S�ries",HBO 
+rtmp://live.abcast.net/live/verc9439634dc8610f517991f 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - HBO 2" tvg-logo="hbo2.png" group-title="Filmes e S�ries",HBO 2 
+rtmp://109.200.202.124/live playpath=hbo2 swfUrl=http://www.tv-msn.com/player5.swf pageUrl=http://tv-msn.com/hbo2.html 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - HBO Family" tvg-logo="hbofamily.png" group-title="Filmes e S�ries",HBO Family 
+rtmp://109.200.202.124/live playpath=hbofamily swfUrl=http://www.tv-msn.com/player5.swf live=1 pageUrl=http://tv-msn.com/hbofamily.html 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - HBO Plus" tvg-logo="hboplus.png" group-title="Filmes e S�ries",HBO Plus 
+rtmp://109.200.202.124/live playpath=hboplus swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://tv-msn.com/ 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - History" tvg-logo="history.png" group-title="Document�rios",History 
+rtmp://109.200.202.124/live playpath=history swfUrl=http://www.tv-msn.com/player5.swf pageURL=http://tv-msn.com/history.html app=live live=1 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - i-SAT" tvg-logo="isat.png" group-title="Variedades",i-SAT 
+rtmp://199.59.88.39:1935/cam4-cr107 playpath=isat swfUrl=http://www.tv-msn.com/player/player.swf 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Investigação Discovery " tvg-logo="investigation.png" group-title="Document�rios",Investiga��o Discovery 
+rtmp://109.200.202.124/live playpath=liv swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://tv-msn.com/investigacao.html 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Max" tvg-logo="max.png" group-title="Filmes e S�ries",Max 
+rtmp://109.200.202.124/live playpath=maxhd swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://tv-msn.com/maxhd.html 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Max Prime" tvg-logo="maxprime.png" group-title="Filmes e S�ries",Max Prime 
+rtmp://94.176.148.114:443/loadbalance?wmsAuthSign=/ playpath=tvmsnmaxxprime swfUrl=http://pxstream.tv/jwplayer.flash.swf live=1 pageUrl=http://pxstream.tv/embedrouter.php?file=tvmsnmaxxprime&width=468&height=380 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Mega TV" tvg-logo="megatv.png" group-title="Variedades",Mega TV 
+http://megahdlive1-f.akamaihd.net/i/live_1@105260/master.m3u8 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Megapix" tvg-logo="megapix.png" group-title="Filmes e S�ries",Megapix 
+rtmp://31.204.128.73/live/ playpath=master11 swfUrl=http://www.tv-msn.com/player/player.swf 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - MIX TV" tvg-logo="mix.png" group-title="M�sica",Mix TV 
+rtmp://109.200.202.124/live playpath=mixtv swfUrl=http://www.tv-msn.com/player/player.swf?ch=ttwrs pageUrl=http://tv-msn.com/mixtv.html 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - MTV" tvg-logo="mtv.png" group-title="M�sica",MTV 
+rtmp://109.200.202.124/live playpath=hbohd swfUrl=http://www.tv-msn.com/player/player.swf? live=1 pageUrl=http://www.tv-msn.com/mtv.html 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Multishow" tvg-logo="multishow.png" group-title="Variedades",Multishow 
+rtmp://31.204.128.74/live/ playpath=brlive_0031 swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://www.cdnbr.biz/mastertv/Multishow.html live=1 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Nat Geo Wild HD" tvg-logo="natgeowild.png" group-title="Document�rios",Nat Geo Wild 
+rtmp://109.200.202.124/live playpath=animal swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://tv-msn.com/natgeowild.html live=1 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - National Geographic" tvg-logo="natgeo.png" group-title="Document�rios",National Geographic 
+rtmp://109.200.202.124/live playpath=natgeo swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://tv-msn.com/natgeo.html live=1 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Nickelodeon HD" tvg-logo="nickelodeonhd.png" group-title="Infantil",Nick HD 
+rtmp://89.248.172.98:443/liveedge/ playpath=nickemhdrz7 swfUrl=http://turbocast.tv/images/player.swf pageUrl=http://micast.tv/chn2.php?ch=nickemhdrz7 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Nick Jr." tvg-logo="nickjr.png" group-title="Infantil",Nick Jr. 
+rtmp://109.200.202.124/live playpath=nickjr swfUrl=http://www.tv-msn.com/player/player.swf?IPTV_BRASIL live=1 pageUrl=http://tv-msn.com/nickjr.htm 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Nickelodeon" tvg-logo="nickelodeon.png" group-title="Infantil",Nickelodeon 
+rtmp://31.204.128.140/live/ playpath=brlive_0030 swfUrl=http://www.tv-msn.com/player/player.swf 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Off" tvg-logo="off.png" group-title="Esportes",OFF [COLOR red]OFF[/COLOR] 
+rtmpe://r.livecast.cc/rl/ playpath=ch09-NcdJdNpCI swfUrl=http://livecast.cc/live/player.swf 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - PFC 01 [COLOR yellow] Em dias de Jogos [/COLOR]" tvg-logo="pfc.png" group-title="Pay Per View",PFC 01 [COLOR yellow] Em dias de Jogos [/COLOR] 
+http://62.210.89.38:1935/liverepeat/fut01/live.m3u8 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - PFC 02 [COLOR yellow] Em dias de Jogos [/COLOR]" tvg-logo="pfc.png" group-title="Pay Per View",PFC 02 [COLOR yellow] Em dias de Jogos [/COLOR] 
+http://62.210.89.38:1935/liverepeat/fut02/live.m3u8 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - PFC 03 [COLOR yellow] Em dias de Jogos [/COLOR]" tvg-logo="pfc.png" group-title="Pay Per View",PFC 03 [COLOR yellow] Em dias de Jogos [/COLOR] 
+http://62.210.83.152:1935/liverepeat/101010/playlist.m3u8 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - PFC 04 [COLOR yellow] Em dias de Jogos [/COLOR]" tvg-logo="pfc.png" group-title="Pay Per View",PFC 04 [COLOR yellow] Em dias de Jogos [/COLOR] 
+http://62.210.89.38:1935/liverepeat/fut05/live.m3u8 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - PFC 05 [COLOR yellow] Em dias de Jogos [/COLOR]" tvg-logo="pfc.png" group-title="Pay Per View",PFC 05 [COLOR yellow] Em dias de Jogos [/COLOR] 
+http://62.210.89.38:1935/liverepeat/fut06/live.m3u8 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - PFC 06 [COLOR yellow] Em dias de Jogos [/COLOR]" tvg-logo="pfc.png" group-title="Pay Per View",PFC 06 [COLOR yellow] Em dias de Jogos [/COLOR] 
+http://62.210.89.38:1935/liverepeat/fut07/live.m3u8 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - PFC 07 [COLOR yellow] Em dias de Jogos [/COLOR]" tvg-logo="pfc.png" group-title="Pay Per View",PFC 07 [COLOR yellow] Em dias de Jogos [/COLOR] 
+http://62.210.89.38:1935/liverepeat/201020/live.m3u8 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - PFC 08 [COLOR yellow] Em dias de Jogos [/COLOR]" tvg-logo="pfc.png" group-title="Pay Per View",PFC 08 [COLOR yellow] Em dias de Jogos [/COLOR] 
+http://62.210.89.38:1935/liverepeat/fut09/live.m3u8 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - PFC 09 [COLOR yellow] Em dias de Jogos [/COLOR]" tvg-logo="pfc.png" group-title="Pay Per View",PFC 09 [COLOR yellow] Em dias de Jogos [/COLOR] 
+http://62.210.89.38:1935/liverepeat/fut1022842/live.m3u8 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - PFC 10 [COLOR yellow] Em dias de Jogos [/COLOR]" tvg-logo="pfc.png" group-title="Pay Per View",PFC 10 [COLOR yellow] Em dias de Jogos [/COLOR] 
+http://62.210.89.38:1935/liverepeat/fut1123402/live.m3u8 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - PFC 11 [COLOR yellow] Em dias de Jogos [/COLOR]" tvg-logo="pfc.png" group-title="Pay Per View",PFC 11 [COLOR yellow] Em dias de Jogos [/COLOR] 
+http://62.210.89.38:1935/liverepeat/fut12/live.m3u8 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Pfc 24h" tvg-logo="pfc.png" group-title="Esportes",Pfc 24h 
+http://188.241.113.252:8000/live/iptvbrasil/group/21.ts 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Premiere Futebol Clube" tvg-logo="premiere.png" group-title="Esportes",Premiere Futebol Clube 
+rtmp://76.73.108.33/edge playpath=pfc2  swfUrl=http://www.livestreamtv.biz/swfs/player.swf?IPTV_BRASIL  pageUrl=http://livestreamtv.biz/ live=true timeout=15 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Record SP" tvg-logo="record.png" group-title="Tv Aberta",Record ES 
+http://flash.midiaip.com.br:1935/tvvitoria/Sample1/playlist.m3u8?IPTV_Brasil 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Record News" tvg-logo="recordnews.png" group-title="Jornalismo",Record News 
+rtmp://a1.fabricahost.com.br:1935/redemercosul playpath=redemercosul swfUrl=http://www.tvonlinegratis.tv/canais/player/universal.swf 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Record SP" tvg-logo="record.png" group-title="Tv Aberta",Record PB 
+http://174.37.99.198:1935/dvrid1816/1816/DVR_b125000_w850070613_qRFZS.m3u8?IPTV_Brasil 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Record SP" tvg-logo="record.png" group-title="Tv Aberta",Record PR 
+rtmp://64.150.176.235:1935/ricpr/ric.sdp?IPTV_Brasil 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Record SP" tvg-logo="record.png" group-title="Tv Aberta",Record RJ 
+rtmp://94.242.228.41/live//ch18?IPTV_Brasil 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Record SP" tvg-logo="record.png" group-title="Tv Aberta",Record SC 
+rtmp://64.150.176.235:1935/ricsc/ricsc.stream?IPTV_Brasil 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Record SP" tvg-logo="record.png" group-title="Tv Aberta",Record SE 
+rtmp://srv6.zoeweb.tv/z821-live/stream2?IPTV_Brasil 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Record SP" tvg-logo="recordsp.png" group-title="Tv Aberta",Record SP 
+rtmp://31.204.128.73/live/master14 swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://www.cdnbr.biz/mastertv/Record.html 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Record SP" tvg-logo="recordsp.png" group-title="Tv Aberta",Record SP 
+rtmp://31.204.128.73/live/master14 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Rede TV" tvg-logo="redetv.png" group-title="Tv Aberta",Rede TV 
+rtmp://evp.mm.uol.com.br/redetv1/_definst_/redetv1?IPTV_Brasil 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Rede TV" tvg-logo="redetv.png" group-title="Tv Aberta",Rede TV RS 
+rtmp://flash1.crossdigital.com.br/ponto4 playpath=tvpampa swfUrl=http://www.crosshost.com.br/playerflash/player.swf 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Retro Channel" tvg-logo="retrochannel.jpg" group-title="Filmes e S�ries",Retro Channel 
+rtmp://streaming.servidor-rapido.net/live/ playpath=myStream.sdp swfUrl=http://players.meusiterapido.net/retrochannel/js/Jplayer.swf 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - SBT SP" tvg-logo="sbt.png" group-title="Tv Aberta",SBT [COLOR red]HD[/COLOR] 
+http://livebr.sambatech.com.br/hls-live/livepkgr/sbt_6840d01dafa3b0af0ead2ed2c959aa05/liveevent/livestream.m3u8 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - SBT SP" tvg-logo="sbt.png" group-title="Tv Aberta",SBT Caruaru 
+rtmp://evp.mm.uol.com.br/ne10/_definst_/ne10_tcaruaru.sdp playpath=ne10_tcaruaru.sdp swfUrl=http://int.imguol.com/entretenimento/player-aovivo/player-final.swf pageUrl=http://aovivo.ne10.uol.com.br/interior/tv/web.php 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - SBT SP" tvg-logo="sbt.png" group-title="Tv Aberta",SBT MA 
+rtmp://srv3.zoeweb.tv/z138-live/stream 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - SBT SP" tvg-logo="sbt.png" group-title="Tv Aberta",SBT PI 
+rtmp://192.99.46.182/pioneira-tv//pioneira-tv 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - SBT SP" tvg-logo="sbt.png" group-title="Tv Aberta",SBT Recife 
+rtmp://evp.mm.uol.com.br/ne10/_definst_/ne10_tvjornal.sdp?IPTV_Brasil 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - SBT SP" tvg-logo="sbt.png" group-title="Tv Aberta",SBT RJ 
+rtmp://31.204.128.76/live/ playpath=master94 swfUrl=http://www.tv-msn.com/player/player.swf 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - SBT SP" tvg-logo="sbt.png" group-title="Tv Aberta",SBT RJ 
+rtmp://94.242.228.41/live/sbt2?IPTV_Brasil 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - SBT SP" tvg-logo="sbtsp.png" group-title="Tv Aberta",SBT SP 
+rtsp://94.242.228.19:443/loadbalance/sbt978?live.m3u8 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Sony HD" tvg-logo="sony.png" group-title="Filmes e S�ries",Sony 
+rtmp://109.200.202.124/live playpath=sony swfUrl=http://www.tv-msn.com/player5.swf live=1 pageUrl=http://tv-msn.com/sony.html 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Sony Spin" tvg-logo="sonyspin.png" group-title="Filmes e S�ries",Sony Spin 
+rtmp://109.200.202.124/live playpath=sonyspin swfUrl=http://www.tv-msn.com/player5.swf pageUrl=http://tv-msn.com/sonyspin.html 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Space" tvg-logo="space.png" group-title="Filmes e S�ries",Space 
+rtmp://109.200.202.124/live playpath=space swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://tv-msn.com/ 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Sport  2" tvg-logo="sportsmais.png" group-title="Esportes",Sports plus [COLOR red] Op��o 2 [/COLOR] 
+rtmp://ariana.anrojo.com:1944/bode playpath=gpr1 swfUrl=http://gringocast.org/marks/FLVplayer.swf pageUrl=http://gringocast.org/ploc.php?ch=SportsPlus&h=354&w=486&file=gpr1 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Sports" tvg-logo="sportsmais.png" group-title="Esportes",Sports+ 
+rtmp://31.204.153.70/live/ playpath=sportsmais swfUrl=http://www.cdnbr.biz/swf/player.swf?autostart=true 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - SporTV" tvg-logo="sportv.png" group-title="Esportes",SporTV 
+rtmp://62.210.88.208:1935/liverepeat playpath=201020  swfUrl=http://www.ppcast.net/embedP/jwplayer/jwplayer.flash.swf?IPTV_BRASIL_GROUPlive=1 pageUrl=http://www.ppcast.net/embedP/8.php?file=zuca8&width=468&height=359 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - SporTV" tvg-logo="sportv.png" group-title="Esportes",SporTV [COLOR red]Op��o 2[/COLOR] 
+rtmp://93.174.93.50:443/liveedge/ playpath=adorareiWKd swfUrl=http://turbocast.tv/images/player.swf live=1 pageUrl=http://micast.tv/chn2.php?ch=adorareiWKd 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - SporTV" tvg-logo="sportv.png" group-title="Esportes",SporTV [COLOR red]Op��o 3[/COLOR] 
+rtmp://94.102.51.75:443/liveedge/ playpath=adorareiWKd  swfUrl=http://micast.tv/jwplayer/jwplayer.flash.swf?IPTV_BRASIL_GROUP pageUrl=http://micast.tv/gen5.php?ch=adorareiWKd 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - SporTV" tvg-logo="sportv.png" group-title="Esportes",SporTV [COLOR red]Op��o 4[/COLOR] 
+rtmp://76.73.108.33/online playpath=sportv  swfUrl=http://www.livestreamtv.biz/swfs/player.swf?IPTV_BRASIL_GROUP pageUrl=http://livestreamtv.biz/ live=true timeout=15 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - SporTV 2" tvg-logo="sportv2.png" group-title="Esportes",SporTV 2 
+rtmp://ariana.anrojo.com:1944/codorna playpath=gpr2 swfUrl=http://gringocast.org/marks/FLVplayer.swf pageUrl=http://gringocast.org/load.php?ch=SporTV2&h=354&w=486&file=gpr2 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - SporTV 3" tvg-logo="sportv3.png" group-title="Esportes",SporTV 3 
+rtmp://93.174.93.50:443/liveedge/ playpath=esportestv3FSr swfUrl=http://turbocast.tv/images/player.swf live=1 pageUrl=http://micast.tv/br.php?ch=esportestv3FSr 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Studio Universal" tvg-logo="studiouniversal.png" group-title="Filmes e S�ries",Studio Universal 
+rtmp://109.200.202.124/live playpath=studio swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://tv-msn.com/studio.html 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - SyFy" tvg-logo="syfy.png" group-title="Filmes e S�ries",SyFy 
+rtmp://109.200.202.124/live playpath=syfy swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://tv-msn.com/syfy.html 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - TBS muitodivertido" tvg-logo="tbs.png" group-title="Filmes e S�ries",TBS [COLOR red]OFF[/COLOR] 
+http://mojtube.com@200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8? 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - TCM" tvg-logo="tcm.png" group-title="Filmes e S�ries",TCM 
+rtmp://109.200.202.124/live playpath=tcm swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://tv-msn.com/tcm.html 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Telecine Action" tvg-logo="tcaction.png" group-title="Filmes e S�ries",Telecine Action 
+rtmp://31.204.128.75/live/ playpath=master17 swfUrl=http://www.tv-msn.com/player5.swf pageUrl=http://www.cdnbr.biz/mastertv/Telecine Action.html 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Telecine Action 2" tvg-logo="tcaction.png" group-title="Filmes e S�ries",Telecine Action [COLOR red]Op��o 2[COLOR] 
+http://188.241.113.252:8000/live/iptvbrasil/group/2.ts 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Telecine Cult" tvg-logo="tccult.png" group-title="Filmes e S�ries",Telecine Cult 
+rtmp://109.200.202.124/live playpath=tccult swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://tv-msn.com/tccult.html 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Telecine Fun" tvg-logo="tcfun.png" group-title="Filmes e S�ries",Telecine Fun 
+rtmp://109.200.202.124/live playpath=44_1 swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://tv-msn.com/fun.html 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Telecine Pipoca" tvg-logo="tcpipoca.png" group-title="Filmes e S�ries",Telecine Pipoca 
+rtmp://31.204.128.74/live/ playpath=master18 swfUrl=http://www.cdnbr.biz/swf/player.swf 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Telecine Pipoca 2" tvg-logo="tcpipoca.png" group-title="Filmes e S�ries",Telecine Pipoca [COLOR red]Op��o 2[COLOR] 
+http://188.241.113.252:8000/live/iptvbrasil/group/5.ts 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Telecine Premium" tvg-logo="tcpremium.png" group-title="Filmes e S�ries",Telecine Premium 
+rtmp://31.204.128.140/live/ playpath=master19 swfUrl=http://www.tv-msn.com/player/player.swf 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Telecine Premium 2" tvg-logo="tcpremium.png" group-title="Filmes e S�ries",Telecine Premium [COLOR red]Op��o 2[COLOR] 
+http://188.241.113.252:8000/live/iptvbrasil/group/1.ts 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Telecine Touch" tvg-logo="tctouch.png" group-title="Filmes e S�ries",Telecine Touch 
+rtmp://109.200.202.124/live playpath=36_1 swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://tv-msn.com/touch.html 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - TLC" tvg-logo="tlc.png" group-title="Document�rios",TLC 
+rtmp://93.174.93.50:443/liveedge/ playpath=tlcZis swfUrl=http://turbocast.tv/images/player.swf live=1 pageUrl=http://micast.tv/chn2.php?ch=tlcZis 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - TNT" tvg-logo="tnt.png" group-title="Filmes e S�ries",TNT 
+rtmp://31.204.128.74/live/ playpath=master77_1 swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://www.cdnbr.biz/mastertv/TNT.html 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Tooncast" tvg-logo="tooncast.png" group-title="Infantil",Tooncast 
+rtmp://109.200.202.124/live playpath=tooncast  swfUrl=http://www.tv-msn.com/player5.swf live=1  pageUrl=http://tv-msn.com/tooncast.htm 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - TruTV" tvg-logo="trutv.png" group-title="Document�rios",TruTV 
+rtmp://199.59.88.39/cam4-cr107 playpath=112_2 swfUrl=http://www.tv-msn.com/player5.swf live=1 pageUrl=http://www.cdnbr.biz/mastertv/truTV.html 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - TV Aparecida" tvg-logo="" group-title="Variedades",Tv Aparecida 
+rtmp://caikrondatacenter.com.br:1935/tvaparecida/tvaparecida.stream 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - SBT SP" tvg-logo="tvaratu.png" group-title="Tv Aberta",Tv Aratu 
+rtmp://ns1.tvpapodetudo.com.br/aratuduZgOqNa playpath=myStream.sdp swfUrl=http://releases.flowplayer.org/swf/flowplayer-3.2.18.swf pageUrl=http://www.aratuonline.com.br/aovivo/ 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - TV Brasil" tvg-logo="tvbrasil.png" group-title="Tv Aberta",TV Brasil 
+rtmp://ebcremuxlivefs.fplive.net/ebcremuxlive-ebctvbrasil/stream1 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - TV Câmara" tvg-logo="tvcamara.png" group-title="Tv Aberta",TV Câmara [COLOR red]OFF[/COLOR] 
+http://stream.camara.gov.br:80/tvcamara1t200 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - TV Cultura" tvg-logo="tvcultura.png" group-title="Tv Aberta",TV Cultura 
+rtmp://200.136.27.12/livepkgr/tvcultura4 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - TV Cultura" tvg-logo="tvcultura.png" group-title="Tv Aberta",TV Cultura 
+rtmp://200.136.27.12/live playpath=tv swfUrl=http://www.tvonlinegratis.tv/fucku2.swf?IPTV_BRASIL pageUrl=http://www.tvonlinegratis.tv/canais/cultura.php 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - TV Di�rio de Campos" tvg-logo="tv-diario.png" group-title="Tv Aberta",TV Di�rio de Campos 
+rtmp://streaming49.sitehosting.com.br:1935/cadripaes/ playpath=cadripaes  swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf  pageUrl=http://www.sitehosting.com.br/controle/player.php?nome=cadripaes&servidor=streaming49.sitehosting.com.br&width=640&height=360&autostart=true&iframe=iframe&playerimg=http://sitehosting.com.br/imagens/hospedagemestreaming.png?e=2&u=cadripaes&playermovie=&skin=&versao=PREMIUM 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - TV Di�rio do Sert�o" tvg-logo="tv-diario.png" group-title="Tv Aberta",TV Di�rio do Sert�o 
+rtmp://wz3.dnip.com.br:1935/pdsertaotv/ playpath=pdsertaotv.sdp  swfUrl=http://www.tvonlinegratis.tv/canais/player/universal.swf?IPTV_BRASIL  pageUrl=http://www.tvonlinegratis.tv/canais/tvdiario-do-sertao.php 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - TV Escola" tvg-logo="tvescola.png" group-title="Tv Aberta",TV Escola 
+http://livela.sambatech.com.br/hls-live/livepkgr/acerp_1f9a5d00db56b3c3020b6ac3dd693e12/liveevent/livestream.m3u8 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - TV Escola" tvg-logo="tvescola.png" group-title="Tv Aberta",TV Escola [COLOR red]HD - 720p[/COLOR] 
+http://livela.sambatech.com.br/hls-live/livepkgr/acerp_1f9a5d00db56b3c3020b6ac3dd693e12/liveevent/livestream.m3u8 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - TV R� Tim Bum" tvg-logo="tvratimbum.png" group-title="Infantil",TV Ra Tim Bum 
+rtmp://109.200.202.124/live playpath=sonyspin swfUrl=http://www.tv-msn.com/player/player.swf?ch=ttwrs pageUrl=http://tv-msn.com/ratimbum.html 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - TV Senado" tvg-logo="tvsenado.png" group-title="Tv Aberta",TV Senado 
+rtsp://drix.senado.gov.br/tv1 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Universal" tvg-logo="universalchannel.png" group-title="Filmes e S�ries",Universal Channel 
+rtmp://109.200.202.124/live playpath=studio swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://www.tv-msn.com/studio.html 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Vevo 1 HD" tvg-logo="vevohd.png" group-title="M�sica",Vevo 1 [COLOR red]HD[/COLOR] 
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Vevo 2 HD" tvg-logo="vevohd.png" group-title="M�sica",Vevo 2 [COLOR red]HD[/COLOR] 
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Vevo 3 HD" tvg-logo="vevohd.png" group-title="M�sica",Vevo 3 [COLOR red]HD[/COLOR] 
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Viva" tvg-logo="viva.png" group-title="Variedades",Viva 
+rtmp://31.204.128.73/live/ playpath=master21 swfUrl=http://www.tv-msn.com/player/player.swf 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Warner" tvg-logo="warnerchannel.png" group-title="Filmes e S�ries",Warner 
+rtmp://31.204.128.76/live/ playpath=master22 swfUrl=http://www.tv-msn.com/player/player.swf 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Y [DS] Pantera cor de Rosa" tvg-logo="a-pantera-cor-de-rosa.png" group-title="Desenhos 24hrs",Y [DS] A Pantera cor de Rosa 
+rtmp://212.129.30.215/panteracorderosa/ playpath=panteracorderosa  swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf  pageUrl=http://livestreamcast.org/embed.php?c=panteracorderosa&vw=468&vh=360 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - A Pequena Sereia" tvg-logo="a-pequena-sereia.png" group-title="Desenhos 24hrs",Y [DS] A Pequena Sereia 
+rtmp://212.129.30.215/pequenasereia/ playpath=pequenasereia  swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf  pageUrl=http://livestreamcast.org/embed.php?c=pequenasereia&vw=468&vh=360 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - American Dad" tvg-logo="american-dad.png" group-title="Desenhos 24hrs",Y [DS] American Dad 
+rtmp://195.154.216.152/americandad/americandad playpath=americandad swfUrl=http://www.tvonlinegratis.tv/player.swf ive=1 pageUrl=http://www.tvonlinegratis.tv/parcerias/american-dad.php 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Avatar" tvg-logo="avatar.png" group-title="Desenhos 24hrs",Y [DS] Avatar 
+rtmp://212.129.30.215/avatar/ playpath=avatar swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf pageUrl=http://livestreamcast.org/embed.php?c=avatar&vw=468&vh=360 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Batman" tvg-logo="batman.png" group-title="Desenhos 24hrs",Y [DS] Batman 
+rtmp://208.53.180.178/ctv playpath=batman swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://carolineoliveira.com.br/tvamigos/batman.html 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Ben 10" tvg-logo="ben10.png" group-title="Desenhos 24hrs",Y [DS] Ben 10 
+rtmp://208.53.180.242/ctv playpath=ben10 swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://carolineoliveira.com.br/tvamigos/ben10.html 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Bob Esponja" tvg-logo="bob-esponja.png" group-title="Desenhos 24hrs",Y [DS] Bob Esponja 
+rtmp://208.53.180.130/ctv playpath=bob swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://carolineoliveira.com.br/tvamigos/bobesponja.html 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Y [DS] Cavaleiros do Zodíaco" tvg-logo="cavaleiros-do-zodiaco.png" group-title="Desenhos 24hrs",Y [DS] Cavaleiros do Zodíaco 
+rtmp://208.53.180.242/ctv playpath=cdz swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://carolineoliveira.com.br/tvamigos/cdz.html 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Cavalo de Fogo" tvg-logo="cavalo-de-fogo.png" group-title="Desenhos 24hrs",Y [DS] Cavalo de Fogo 
+rtmp://212.129.30.215/cavalodefogo/ playpath=cavalodefogo swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf pageUrl=http://livestreamcast.org/embed.php?c=cavalodefogo&vw=468&vh=360 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Caverna do Dragão" tvg-logo="caverna-do-dragao.png" group-title="Desenhos 24hrs",Y [DS] Caverna do Dragão 
+rtmp://208.53.180.218/ctv playpath=caverna swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://carolineoliveira.com.br/tvamigos/caverna.html 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Y [DS] Coragem o Cão Covarde" tvg-logo="coragem-o-cao-covarde.png" group-title="Desenhos 24hrs",Y [DS] Coragem o Cão Covarde 
+rtmp://195.154.216.152/coragem/coragem playpath=coragem swfUrl=http://www.tvonlinegratis.tv/player.swf live=1 pageUrl=http://www.tvonlinegratis.tv/parcerias/coragem.php 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Y [DS] De Volta para o Futuro" tvg-logo="de-volta-para-o-futuro.png" group-title="Desenhos 24hrs",Y [DS] De Volta para o Futuro 
+rtmp://212.129.30.215/devoltaparaofuturo/ playpath=devoltaparaofuturo swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf pageUrl=http://livestreamcast.org/embed.php?c=devoltaparaofuturo&vw=468&vh=360 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Y [DS] Debi e Loide" tvg-logo="debi-e-loide.png" group-title="Desenhos 24hrs",Y [DS] Debi e Loide 
+rtmp://212.129.30.215/debiloide/ playpath=debiloide swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf pageUrl=http://livestreamcast.org/embed.php?c=debiloide&vw=468&vh=360 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Y[DS] Digimon" tvg-logo="digimon.png" group-title="Desenhos 24hrs",Y [DS] Digimon 
+rtmp://212.129.30.215/digimon/ playpath=digimon  swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf  pageUrl=http://livestreamcast.org/embed.php?c=digimon&vw=468&vh=360 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Y [DS] Dom Pixote" tvg-logo="dom-pixote.png" group-title="Desenhos 24hrs",Y [DS] Dom Pixote 
+rtmp://212.129.30.215/dompixote/ playpath=dompixote  swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf  pageUrl=http://livestreamcast.org/embed.php?c=dompixote&vw=468&vh=360 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Y [DS] Doug" tvg-logo="doug.png" group-title="Desenhos 24hrs",Y [DS] Doug 
+rtmp://208.53.180.218/ctv playpath=doug  swfUrl=http://www.carolineoliveira.com.br/swf/player.swf  pageUrl=http://carolineoliveira.com.br/tvamigos/doug.html 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Y [DS] Dragon Ball Z" tvg-logo="dragon-ball-z.png" group-title="Desenhos 24hrs",Y [DS] Dragon Ball Z 
+rtmp://208.53.164.194/ctv playpath=dbz  swfUrl=http://www.carolineoliveira.com.br/swf/player.swf  pageUrl=http://carolineoliveira.com.br/tvamigos/dbz.html 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Y[DS] Ducktales" tvg-logo="ducktales.png" group-title="Desenhos 24hrs",Y [DS] Ducktales 
+rtmp://195.154.176.66:8082/ducktales/ducktales/ playpath=ducktales swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Y [DS] Familia da Pesada" tvg-logo="family-guy.png" group-title="Desenhos 24hrs",Y [DS] Familia da Pesada 
+http://66.90.111.66:1935/ctv/_definst_/family/waldo_paes.m3u8 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Y [DS] Familia Dinossauros" tvg-logo="familia-dinossauro.png" group-title="Desenhos 24hrs",Y [DS] Familia Dinossauros 
+http://66.90.111.66:1935/ctv/_definst_/family/waldo_paes.m3u8 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Y [DS] Familia Dinossauros [COLOR red]Op��o 2[/COLOR]" tvg-logo="familia-dinossauro.png" group-title="Desenhos 24hrs",Y [DS] Familia Dinossauros [COLOR red]Op��o 2[/COLOR] 
+rtmp://extondemand.livestream.com/ondemand playpath=trans/dv15/mogulus-user-files/chtvtfamiliadinosauros/2012/05/12/052e4e4b-977f-4382-9ac8-31613b0074c4 swfUrl=http://player.longtailvideo.com/[[IMPORT]]/cdn.livestream.com/chromelessPlayer/v20/playerapi.swf 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Y [DS] Futurama" tvg-logo="futurama.png" group-title="Desenhos 24hrs",Y [DS] Futurama 
+http://66.90.111.66:1935/ctv/_definst_/futurama/waldo_paes.m3u8 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Y [DS] Galinha Pintadinha" tvg-logo="galinha-pintadinha.png" group-title="Desenhos 24hrs",Y [DS] Galinha Pintadinha 
+http://66.90.111.66:1935/ctv/galinha/waldo_paes.m3u8 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Y [DS] Jackie Chan" tvg-logo="jackie-chan.png" group-title="Desenhos 24hrs",Y [DS] Jackie Chan 
+rtmp://195.154.176.66:8082/jackchan/jackchan/ playpath=jackchan swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Y [DS] Jonny Quest" tvg-logo="jonny-quest.png" group-title="Desenhos 24hrs",Y [DS] Jonny Quest 
+rtmp://195.154.176.66:8082/jq/jq/ playpath=jq swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Y [DS] Liga da Justiça" tvg-logo="liga-da-justica.png" group-title="Desenhos 24hrs",Y [DS] Liga da Justiça 
+rtmp://85.12.5.8/aovivo playpath=liga swfUrl=http://www.tvonlinegratis.tv/protegido.swf 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Y [DS] Manda Chuva" tvg-logo="manda-chuva.png" group-title="Desenhos 24hrs",Y [DS] Manda Chuva 
+rtmp://195.154.176.66:8082/turmadomandachuva/turmadomandachuva/ playpath=turmadomandachuva swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Y [DS] Naruto" tvg-logo="naruto.png" group-title="Desenhos 24hrs",Y [DS] Naruto 
+http://66.90.111.66:1935/ctv/_definst_/naruto/waldo_paes.m3u8 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Y [DS] O Máscara" tvg-logo="o-maskara.png" group-title="Desenhos 24hrs",Y [DS] O Máscara 
+rtmp://195.154.176.66:8082/omascara/omascara/ playpath=omascara swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Y [DS] Os Flintstones" tvg-logo="os-flintstones.png" group-title="Desenhos 24hrs",Y [DS] Os Flintstones 
+rtmp://66.90.111.2/ctv playpath=flinstones swfUrl=http://www.carolineoliveira.com.br/swf/player.swf 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Y [DS] Os Jetsons" tvg-logo="os-jetsons.png" group-title="Desenhos 24hrs",Y [DS] Os Jetsons 
+rtmp://extondemand.livestream.com/ondemand playpath=trans/dv15/mogulus-user-files/chosjetsons/2011/12/02/a5fa7a37-b290-4cc8-b451-fa2c940601d3 swfUrl=http://cdn.livestream.com/chromelessPlayer/v20/playerapi.swf 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Y [DS] Os Padrinhos Magicos" tvg-logo="os-padrinhos-magicos.png" group-title="Desenhos 24hrs",Y [DS] Os Padrinhos Magicos 
+rtmp://66.90.111.18:1935/ctv playpath=padrinhos swfUrl=http://www.carolineoliveira.com.br/swf/player.swf 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Y [DS] Os Pinguins de Madagascar" tvg-logo="os-pinguins-de-madagascar.png" group-title="Desenhos 24hrs",Y [DS] Os Pinguins de Madagascar 
+rtmp://66.90.111.50:1935/ctv playpath=pinguins swfUrl=http://www.carolineoliveira.com.br/swf/player.swf 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Y [DS] Os Simpsons" tvg-logo="os-simpsons.png" group-title="Desenhos 24hrs",Y [DS] Os Simpsons 
+http://66.90.111.66:1935/ctv/simpsons/playlist.m3u8 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Y [DS] Os Vingadores" tvg-logo="os-vingadores.png" group-title="Desenhos 24hrs",Y [DS] Os Vingadores 
+rtmp://195.154.176.66:8082/osvingadores/osvingadores/ playpath=osvingadores swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Y [DS] Papa-léguas" tvg-logo="papaleguas.png" group-title="Desenhos 24hrs",Y [DS] Papa-léguas 
+rtmp://195.154.176.66:8082/papaleguas/papaleguas/ playpath=papaleguas swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Y [DS] Peppa Pig" tvg-logo="peppa-pig.png" group-title="Desenhos 24hrs",Y [DS] Peppa Pig 
+rtmp://195.154.222.28/peppapig/peppapig playpath=peppapig swfUrl=http://www.tvonlinegratis.tv/player.swf 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Y [DS] Pernalonga" tvg-logo="pernalonga.png" group-title="Desenhos 24hrs",Y [DS] Pernalonga 
+rtmp://195.154.176.66:8082/turmadopernalonga/turmadopernalonga/ playpath=turmadopernalonga swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Y [DS] Pica Pau" tvg-logo="pica-pau.png" group-title="Desenhos 24hrs",Y [DS] Pica Pau 
+http://66.90.111.66:1935/ctv/_definst_/picapau/waldo_paes.m3u8 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Y [DS] Pokémon" tvg-logo="pokemon.png" group-title="Desenhos 24hrs",Y [DS] Pokémon 
+rtmp://85.12.5.8/aovivo playpath=pokemonhd swfUrl=http://www.tvonlinegratis.tv/protegido.swf 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Y [DS] Popeye" tvg-logo="popeye.png" group-title="Desenhos 24hrs",Y [DS] Popeye 
+rtmp://195.154.176.66:8082/popaye/popaye/ playpath=popaye swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Y [DS] Scooby Doo" tvg-logo="scooby-doo.png" group-title="Desenhos 24hrs",Y [DS] Scooby Doo 
+rtmp://66.90.111.2:1935/ctv playpath=scooby swfUrl=http://www.carolineoliveira.com.br/swf/player.swf 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Y [DS] She-ra" tvg-logo="shera.png" group-title="Desenhos 24hrs",Y [DS] She-ra 
+rtmp://195.154.176.66:8082/shera/shera/ playpath=shera swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Y [DS] South Park" tvg-logo="southpark.png" group-title="Desenhos 24hrs",Y [DS] South Park 
+rtmp://208.53.133.178/ctv playpath=southpark swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/southpark.html 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Y [DS] Thundercats Clássico" tvg-logo="thundercats.png" group-title="Desenhos 24hrs",Y [DS] Thundercats Clássico 
+rtmp://195.154.222.28/thundercats/thundercats/thundercats playpath=thundercats swfUrl=http://www.tvonlinegratis.tv/player.swf 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Y [DS] Tom e Jerry" tvg-logo="tom-e-jerry.png" group-title="Desenhos 24hrs",Y [DS] Tom e Jerry 
+http://66.90.111.66:1935/ctv/tom/waldo_paes.m3u8 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Y [DS] Transformers" tvg-logo="transformers.png" group-title="Desenhos 24hrs",Y [DS] Transformers 
+rtmp://195.154.176.66:8082/transformers/transformers/ playpath=transformers swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Y [DS] Ursinhos Carinhosos" tvg-logo="ursinhoscarinhosos.png" group-title="Desenhos 24hrs",Y [DS] Ursinhos Carinhosos 
+rtmp://195.154.176.66:8082/ursinhoscarinhosos/ursinhoscarinhosos/ playpath=ursinhoscarinhosos swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Y [DS] X-Men" tvg-logo="x-men.png" group-title="Desenhos 24hrs",Y [DS] X-Men 
+rtmp://195.154.176.66:8082/xmen/xmen/ playpath=xmen swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Y [DS] Yu-Gi-Oh" tvg-logo="yu-gi-oh.png" group-title="Desenhos 24hrs",Y [DS] Yu-Gi-Oh 
+rtmp://195.154.176.66:8082/yugi/yugi/ playpath=yugi swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - [Seriados] 24 Horas" tvg-logo="24horas.png" group-title="Seriados 24hrs",Y [SS] 24 Horas 
+rtmp://195.154.176.66:8082/24horas/24horas/ playpath=24horas swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Z [Seriados] AMC" tvg-logo="amc.png" group-title="Seriados 24hrs",Y [SS] AMC 
+http://200.38.126.38:8081/TPHLSWeb/M3U8LiveFile?format=2 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Z [Seriados] Castelo Ra Tim Bum" tvg-logo="tvratimbum.png" group-title="Seriados 24hrs",Y [SS] Castelo Ra Tim Bum 
+rtmp://66.90.111.50/ctv playpath=castelo swfUrl=http://www.canaistv.net/swf/player.swf 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Y [SS] Chapolin" tvg-logo="chapolin.png" group-title="Seriados 24hrs",Y [SS] Chapolin 
+rtmp://212.129.30.215/chapolin/ playpath=chapolin  swfUrl=http://www.livestreamcast.org/jwplayer/jwplayer.flash.swf?IPTV_BRASIL_GROUP  pageUrl=http://livestreamtv.biz/ live=true timeout=15 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Chaves" tvg-logo="chaves.png" group-title="Seriados 24hrs",Y [SS] Chaves 
+rtmp://208.53.164.194/ctv playpath=chaves  swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTV_BRASIL_GROUP  pageUrl=http://carolineoliveira.com.br/tvamigos/chaves.html 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Y [SS] Chaves [COLOR red]Op��o 2[/COLOR]" tvg-logo="chaves.png" group-title="Seriados 24hrs",Y [SS] Chaves [COLOR red]Op��o 2[/COLOR] 
+rtmp://212.129.30.215/chaves3/ playpath=chaves3  swfUrl=http://www.livestreamcast.org/jwplayer/jwplayer.flash.swf?IPTV_BRASIL_GROUP  pageUrl=http://livestreamtv.biz/ live=true timeout=15 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Y [SS] ChuckZ" tvg-logo="chuck.png" group-title="Seriados 24hrs",Y [SS] ChuckZ 
+http://66.90.111.66:1935/ctv/chuck/playlist.m3u8 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Y [SS] Criminal Minds" tvg-logo="criminal-minds.png" group-title="Seriados 24hrs",Y [SS] Criminal Minds 
+rtmp://66.90.111.2/ctv playpath=criminal swfUrl=http://www.canaistv.net/swf/player.swf 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Y [SS] CSI" tvg-logo="csi.png" group-title="Seriados 24hrs",Y [SS] CSI 
+rtmp://66.90.111.50/ctv playpath=csi swfUrl=http://www.canaistv.net/swf/player.swf 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Y [SS] Di�rios de um Vampiro [COLOR red]OFF[/COLOR]" tvg-logo="the-vampire-diaries.png" group-title="Seriados 24hrs",Y [SS] Di�rios de um Vampiro [COLOR red]OFF[/COLOR] 
+rtmp://195.154.222.28/vampires/vampires playpath=vampires  swfUrl=http://www.tvonlinegratis.tv/player.swf  pageUrl=http://www.tvonlinegratis.tv/parcerias/vampires.php 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Y [SS] Dois Homens e Meio" tvg-logo="dois-homens-e-meio.png" group-title="Seriados 24hrs",Y [SS] Dois Homens e Meio 
+rtmp://66.90.111.2/ctv playpath=two swfUrl=http://www.canaistv.net/swf/player.swf 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Y [SS] Dois Homens e Meio [COLOR red]Op��o 2[/COLOR]" tvg-logo="dois-homens-e-meio.png" group-title="Seriados 24hrs",Y [SS] Dois Homens e Meio [COLOR red]Op��o 2[/COLOR] 
+rtmp://66.90.111.18/ctv playpath=two swfUrl=http://www.canaistv.net/swf/player.swf 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Y [SS] Dr. House" tvg-logo="dr-house.png" group-title="Seriados 24hrs",Y [SS] Dr. House 
+rtmp://195.154.216.152/drhouse/drhouse playpath=drhouse swfUrl=http://www.tvonlinegratis.tv/player.swf 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Y [SS] Drake e Josh" tvg-logo="drake-e-josh.png" group-title="Seriados 24hrs",Y [SS] Drake e Josh 
+rtmp://66.90.111.2/ctv playpath=drake swfUrl=http://www.canaistv.net/swf/player.swf 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Y [SS] Eu a Patroa e as Crian�as" tvg-logo="eu-a-patroa-e-as-criancas.png" group-title="Seriados 24hrs",Y [SS] Eu a Patroa e as Crian�as 
+rtmp://208.53.180.130/ctv playpath=patroa  swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTV_BRASIL_GROUP  pageUrl=http://carolineoliveira.com.br/tvamigos/patroa.html 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Y [SS] Eu a Patroa e as Crian�as [COLOR red]Op��o 2[/COLOR]" tvg-logo="eu-a-patroa-e-as-criancas.png" group-title="Seriados 24hrs",Y [SS] Eu a Patroa e as Crian�as [COLOR red]Op��o 2[/COLOR] 
+rtmp://212.129.30.215/patroa/ playpath=patroa  swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf?IPTV_BRASIL_GROUP  pageUrl=http://livestreamtv.biz/ live=true timeout=15 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Y [SS] Friends" tvg-logo="friends.png" group-title="Seriados 24hrs",Y [SS] Friends 
+rtmp://66.90.111.18/ctv playpath=friends swfUrl=http://www.canaistv.net/swf/player.swf 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Y [SS] Game Of Thrones" tvg-logo="game-of-thrones.png" group-title="Seriados 24hrs",Y [SS] Game Of Thrones 
+rtmp://195.154.176.66:8082/game/game/ playpath=game swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Y [SS] Glee" tvg-logo="glee.png" group-title="Seriados 24hrs",Y [SS] Glee 
+rtmp://66.90.111.18/ctv playpath=glee swfUrl=http://www.carolineoliveira.com.br/swf/player.swf 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Y [SS] Gossip Girl" tvg-logo="gossip-girl.png" group-title="Seriados 24hrs",Y [SS] Gossip Girl 
+rtmp://66.90.111.2/ctv playpath=gossip swfUrl=http://www.canaistv.net/swf/player.swf 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Greys Anatomy" tvg-logo="greys-anatomy.png" group-title="Seriados 24hrs",Y [SS] Greys Anatomy 
+rtmp://62.210.89.54:8082/anatomy/anatomy/ playpath=anatomy swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf pageUrl=http://livestreamcast.org/embed.php?c=anatomy 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Heroes" tvg-logo="heroes.png" group-title="Seriados 24hrs",Y [SS] Heroes 
+http://66.90.111.66:1935/ctv/_definst_/heroes/waldo_paes.m3u8 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Y [SS] Heroes [COLOR red]Op��o 2[/COLOR]" tvg-logo="heroes.png" group-title="Seriados 24hrs",Y [SS] Heroes [COLOR red]Op��o 2[/COLOR] 
+rtmp://195.154.176.66:8082/heroes/heroes/ playpath=heroes swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Y [SS] iCarly" tvg-logo="icarly.png" group-title="Seriados 24hrs",Y [SS] iCarly 
+rtmp://66.90.111.50/ctv playpath=icarly swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/icarly.html 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Kenan e Kel" tvg-logo="kenan-e-kell.png" group-title="Seriados 24hrs",Y [SS] Kenan e Kel 
+rtmp://66.90.111.2/ctv playpath=kenan swfUrl=http://www.canaistv.net/swf/player.swf 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Lost" tvg-logo="lost.png" group-title="Seriados 24hrs",Y [SS] Lost 
+rtmp://208.53.133.178/ctv playpath=lost  swfUrl=http://www.carolineoliveira.com.br/swf/player.swf  pageUrl=http://carolineoliveira.com.br/tvamigos/lost.html 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Y [SS] Mr Bean" tvg-logo="mister-bean.jpg" group-title="Seriados 24hrs",Y [SS] Mr Bean 
+rtmp://extondemand.livestream.com/ondemand playpath=trans/dv04/mogulus-user-files/chmrbean/2008/07/13/abeeca0f-018d-4d7c-aa81-8c632a5bb720 swfUrl=http://cdn.livestream.com/chromelessPlayer/v20/playerapi.swf 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - NCIS" tvg-logo="ncis.png" group-title="Seriados 24hrs",Y [SS] NCIS 
+rtmp://195.154.176.66:8082/ncis/ncis/ playpath=ncis swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - O Negócio" tvg-logo="o-negocio.png" group-title="Seriados 24hrs",Y [SS] O Negócio 
+rtmp://195.154.176.66:8082/onegocio/onegocio/ playpath=onegocio swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Oz" tvg-logo="oz.png" group-title="Seriados 24hrs",Y [SS] Oz 
+rtmp://195.154.222.28/oz/oz playpath=oz swfUrl=http://www.tvonlinegratis.tv/player.swf 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Pé na Cova" tvg-logo="pe-na-cova.png" group-title="Seriados 24hrs",Y [SS] Pé na Cova 
+rtmp://195.154.176.66:8082/penacova/penacova/ playpath=penacova swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Panico na Band" tvg-logo="panico-na-band.png" group-title="Seriados 24hrs",Y [SS] Panico na Band 
+rtmp://195.154.176.66:8082/panico/panico/ playpath=panico swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Prison Break" tvg-logo="prisonbreak.png" group-title="Seriados 24hrs",Y [SS] Prison Break 
+rtmp://66.90.111.66/ctv playpath=prison swfUrl=http://www.canaistv.net/swf/player.swf 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Y [SS] Revenge [COLOR red]OFF[/COLOR]" tvg-logo="revenge.png" group-title="Seriados 24hrs",Y [SS] Revenge [COLOR red]OFF[/COLOR] 
+rtmp://195.154.176.66:8082/revenge/revenge/ playpath=revenge swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Y [SS] Smallville [COLOR red]OFF[/COLOR]" tvg-logo="smallville.png" group-title="Seriados 24hrs",Y [SS] Smallville [COLOR red]OFF[/COLOR] 
+rtmp://208.53.164.226/ctv playpath=small swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/small.html 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Y [SS] Supernatural" tvg-logo="supernatural.png" group-title="Seriados 24hrs",Y [SS] Supernatural 
+rtmp://195.154.216.152/supernatural/supernatural playpath=supernatural  swfUrl=http://www.tvonlinegratis.tv/player.swf?IPTV_BRASIL  pageUrl=http://livestreamtv.biz/ live=true timeout=15 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Y [SS] The Big Bang Theory" tvg-logo="the-big-bang-theory.png" group-title="Seriados 24hrs",Y [SS] The Big Bang Theory 
+rtmp://208.53.164.226/ctv playpath=big swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/bigbang.html 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Y [SS] The Walking Dead" tvg-logo="the-walking-dead.png" group-title="Seriados 24hrs",Y [SS] The Walking Dead 
+rtmp://195.154.216.152/twd/twd playpath=twd  swfUrl=http://www.tvonlinegratis.tv/player.swf?IPTV_BRASIL_GROUP pageUrl=http://livestreamtv.biz/ live=true timeout=15 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Y [SS] Todo Mundo Odeia o Chris" tvg-logo="todo-mundo-odeia-o-cris.png" group-title="Seriados 24hrs",Y [SS] Todo Mundo Odeia o Chris 
+rtmp://208.53.180.178/ctv playpath=cris  swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTV_BRASIL_GROUP  pageUrl=http://carolineoliveira.com.br/tvamigos/cris.html 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Y [SS] Todo Mundo Odeia o Chris [COLOR red]Op��o 2[/COLOR]" tvg-logo="todo-mundo-odeia-o-cris.png" group-title="Seriados 24hrs",Y [SS] Todo Mundo Odeia o Chris [COLOR red]Op��o 2[/COLOR] 
+rtmp://212.129.30.215/chris/ playpath=chris  swfUrl=http://www.livestreamcast.org/jwplayer/jwplayer.flash.swf?IPTV_BRASIL_GROUP  pageUrl=http://livestreamtv.biz/ live=true timeout=15 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Y [SS] Um Maluco no Peda�o" tvg-logo="um-maluco-no-pedaco.png" group-title="Seriados 24hrs",Y [SS] Um Maluco no Peda�o 
+rtmp://208.53.180.178/ctv playpath=maluconopedaco  swfUrl=http://www.carolineoliveira.com.br/swf/player.swf?IPTV_BRASIL_GROUP  pageUrl=http://carolineoliveira.com.br/tvamigos/maluconopedaco.html 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Z [EN] ABC News" tvg-logo="abc.png" group-title="Americanos",Z [EN] ABC News 
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - BBC News" tvg-logo="bbcworld.png" group-title="Americanos",Z [EN] BBC News 
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - CCTV news" tvg-logo="cctv-news.png" group-title="Americanos",Z [EN] CCTV News 
+http://77.36.61.45:8010/CCTVNews.m3u8 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - CNN [COLOR orange][HD][/COLOR]" tvg-logo="cnn.png" group-title="Americanos",Z [EN] CNN 
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - FIGHT SPORTS" tvg-logo="fight-sports.png" group-title="Americanos",Z [EN] Fight Sports 
+http://202.75.23.37/live/ch20/03.m3u8 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - i24 News English" tvg-logo="i24.png" group-title="Americanos",Z [EN] i24 News English 
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/i24/ls_satlink/b_828.m3u8 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - MMA [COLOR orange][LQ][/COLOR]" tvg-logo="mma.png" group-title="Americanos",Z [EN] MMA 
+rtmp://extondemand.livestream.com:80/ondemand/trans/dv10/mogulus-user-files/chmmabaytv/2010/09/12/d9fbeee7-79aa-4ec2-98d2-1f1f168b91a3 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - PAC 12 Arizona" tvg-logo="pac12.png" group-title="Americanos",Z [EN] PAC 12 Arizona 
+http://www.xrxs.net/video/live-p12ariz-4728.m3u8 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Pac 12 Bay Area [COLOR orange][720 HD][/COLOR]" tvg-logo="pac12.png" group-title="Americanos",Z [EN] Pac 12 Bay Area 
+http://xrxs.net/video/live-p12baya-2328.m3u8 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - PAC 12 Bay Area [COLOR orange][HD][/COLOR]" tvg-logo="pac12.png" group-title="Americanos",Z [EN] PAC 12 Bay Area 
+http://www.xrxs.net/video/live-p12baya-4728.m3u8 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - PAC 12 Los Angeles [COLOR orange][HD][/COLOR]" tvg-logo="pac12.png" group-title="Americanos",Z [EN] PAC 12 Los Angeles 
+http://xrxs.net/video/live-p12losa-4728.m3u8 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - PAC 12 National" tvg-logo="pac12.png" group-title="Americanos",Z [EN] PAC 12 National 
+http://www.xrxs.net/video/live-p12netw-4728.m3u8 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - PAC 12 Washington [COLOR orange][HD][/COLOR]" tvg-logo="pac12.png" group-title="Americanos",Z [EN] PAC 12 Washington 
+http://xrxs.net/video/live-p12wash-4728.m3u8 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - 24h" tvg-logo="tv.png" group-title="Espanh�is",Z [ES] 24h 
+http://iphonelive.rtve.es/24H_LV3_IPH/bitrate_2.m3u8 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Z [ES] A&E" tvg-logo="aande.png" group-title="Espanh�is",Z [ES] A&E 
+http://200.76.77.237/LIVE/H01/CANAL211/PROFILE03.m3u8? 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Alfa TV" tvg-logo="tv.png" group-title="Espanh�is",Z [ES] Alfa TV 
+rtsp://streamer1.streamhost.org:1935/salive/GMIalfah 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Z [ES] AMC" tvg-logo="amc.png" group-title="Espanh�is",Z [ES] AMC 
+http://200.76.77.237/LIVE/H01/CANAL444/PROFILE03.m3u8? 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Z [ES] ANIMAL PLANET" tvg-logo="animalplanet.png" group-title="Espanh�is",Z [ES] ANIMAL PLANET 
+http://200.76.77.237/LIVE/H01/CANAL373/PROFILE03.m3u8? 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - ANTENA 3 HD(FULL HD)" tvg-logo="antena3.png" group-title="Espanh�is",Z [ES] ANTENA 3 HD(FULL HD) 
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Z [ES] AXN HD" tvg-logo="axn.png" group-title="Espanh�is",Z [ES] AXN HD 
+http://200.76.77.237/LIVE/H01/CANAL213/PROFILE03.m3u8? 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Z [ES] AZTECA 7" tvg-logo="tv.png" group-title="Espanh�is",Z [ES] AZTECA 7 
+http://200.76.77.237/LIVE/H01/CANAL7/PROFILE03.m3u8? 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Z [ES] BANDAMAX" tvg-logo="tv.png" group-title="Espanh�is",Z [ES] BANDAMAX 
+http://200.76.77.237/LIVE/H01/CANAL732/PROFILE03.m3u8? 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Z [ES] BBC" tvg-logo="tv.png" group-title="Espanh�is",Z [ES] BBC 
+http://200.76.77.237/LIVE/H01/CANAL253/PROFILE03.m3u8? 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Z [ES] BOOMERANG" tvg-logo="boomerang.png" group-title="Espanh�is",Z [ES] BOOMERANG 
+http://200.76.77.237/LIVE/H01/CANAL324/PROFILE03.m3u8? 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Z [ES] CARTOON NETWORK" tvg-logo="cartoonnetworkhd.png" group-title="Espanh�is",Z [ES] CARTOON NETWORK 
+http://200.76.77.237/LIVE/H01/CANAL320/PROFILE03.m3u8? 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Z [ES] CASA" tvg-logo="tv.png" group-title="Espanh�is",Z [ES] CASA 
+http://200.76.77.237/LIVE/H01/CANAL274/PROFILE03.m3u8? 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Z [ES] CBEEBIES" tvg-logo="tv.png" group-title="Espanh�is",Z [ES] CBEEBIES 
+http://200.76.77.237/LIVE/H01/CANAL305/PROFILE03.m3u8? 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Z [ES] CINECANAL  " tvg-logo="tv.png" group-title="Espanh�is",Z [ES] CINECANAL   
+http://200.76.77.237/LIVE/H01/CANAL430/PROFILE03.m3u8? 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - CNN CHILE" tvg-logo="cnnchile.png" group-title="Espanh�is",Z [ES] CNN CHILE 
+rtsp://200.104.250.183/vtr_cnn_online/cnn-web/ 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Z [ES] COMEDY CENTRAL" tvg-logo="comedycentral.png" group-title="Espanh�is",Z [ES] COMEDY CENTRAL 
+http://200.76.77.237/LIVE/H01/CANAL217/PROFILE03.m3u8? 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Z [ES] D SCI" tvg-logo="tv.png" group-title="Espanh�is",Z [ES] D SCI 
+http://200.76.77.237/LIVE/H01/CANAL381/PROFILE03.m3u8? 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Z [ES] D. CIVILIZATION" tvg-logo="discoverycivilization.png" group-title="Espanh�is",Z [ES] D. CIVILIZATION 
+http://200.76.77.237/LIVE/H01/CANAL382/PROFILE03.m3u8? 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Z [ES] DE PELICULA HD" tvg-logo="tv.png" group-title="Espanh�is",Z [ES] DE PELICULA HD 
+http://200.76.77.237/LIVE/H01/CANAL442/PROFILE03.m3u8? 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Z [ES] Deportv" tvg-logo="tv.png" group-title="Espanh�is",Z [ES] Deportv 
+http://test_deportv-lh.akamaihd.net/i/Deportv_1@7279/master.m3u8 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Z [ES] DISCOVERY" tvg-logo="tv.png" group-title="Espanh�is",Z [ES] DISCOVERY 
+http://200.76.77.237/LIVE/H01/CANAL371/PROFILE03.m3u8? 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Z [ES] DISCOVERY 2" tvg-logo="tv.png" group-title="Espanh�is",Z [ES] DISCOVERY 2 
+http://200.76.77.237/LIVE/H01/CANAL371/PROFILE03.m3u8? 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Z [ES] DISCOVERY HD" tvg-logo="tv.png" group-title="Espanh�is",Z [ES] DISCOVERY HD 
+http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8? 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Z [ES] DISCOVERY HD" tvg-logo="tv.png" group-title="Espanh�is",Z [ES] DISCOVERY HD 2 
+http://200.76.77.237/LIVE/H01/CANAL351/PROFILE03.m3u8? 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Z [ES] DISCOVERY KIDS" tvg-logo="discoverykids.png" group-title="Espanh�is",Z [ES] DISCOVERY KIDS 
+http://200.76.77.237/LIVE/H01/CANAL303/PROFILE03.m3u8? 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Z [ES] DISNEY CHANNEL" tvg-logo="disneyhd.png" group-title="Espanh�is",Z [ES] DISNEY CHANNEL 
+http://200.76.77.237/LIVE/H01/CANAL312/PROFILE03.m3u8? 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Z [ES] DISNEY JR" tvg-logo="disneyjunior.png" group-title="Espanh�is",Z [ES] DISNEY JR 
+rtmp://109.200.202.124/live playpath=animax swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://tv-msn.com/disneyjr.html 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Z [ES] DISNEY XD" tvg-logo="disneyxd.png" group-title="Espanh�is",Z [ES] DISNEY XD 
+http://200.76.77.237/LIVE/H01/CANAL322/PROFILE03.m3u8? 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Z [ES] DISTRITO COMEDIA" tvg-logo="tv.png" group-title="Espanh�is",Z [ES] DISTRITO COMEDIA 
+http://200.76.77.237/LIVE/H01/CANAL272/PROFILE03.m3u8? 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Z [ES] E!" tvg-logo="tv.png" group-title="Espanh�is",Z [ES] E! 
+http://200.76.77.237/LIVE/H01/CANAL255/PROFILE03.m3u8? 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Z [ES] ESPN" tvg-logo="espn.png" group-title="Espanh�is",Z [ES] ESPN 
+http://200.76.77.237/LIVE/H01/CANAL558/PROFILE03.m3u8? 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Z [ES] ESPN HD" tvg-logo="tv.png" group-title="Espanh�is",Z [ES] ESPN HD 
+http://200.76.77.237/LIVE/H01/CANAL516/PROFILE03.m3u8? 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Z [ES] ESPN2" tvg-logo="tv.png" group-title="Espanh�is",Z [ES] ESPN2 
+http://200.76.77.237/LIVE/H01/CANAL561/PROFILE03.m3u8? 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Z [ES] FILM ZONE HD" tvg-logo="tv.png" group-title="Espanh�is",Z [ES] FILM ZONE HD 
+http://200.76.77.237/LIVE/H01/CANAL440/PROFILE03.m3u8? 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Z [ES] FOX" tvg-logo="fox.png" group-title="Espanh�is",Z [ES] FOX 
+http://200.76.77.237/LIVE/H01/CANAL251/PROFILE03.m3u8? 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Z [ES] FOX 1 HD" tvg-logo="tv.png" group-title="Espanh�is",Z [ES] FOX 1 HD 
+http://200.76.77.237/LIVE/H01/CANAL415/PROFILE03.m3u8? 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Z [ES] FOX ACTION HD" tvg-logo="tv.png" group-title="Espanh�is",Z [ES] FOX ACTION HD 
+http://200.76.77.237/LIVE/H01/CANAL416/PROFILE03.m3u8? 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Z [ES] FOX LIFE" tvg-logo="foxlife.png" group-title="Espanh�is",Z [ES] FOX LIFE 
+http://200.76.77.237/LIVE/H01/CANAL271/PROFILE03.m3u8? 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Z [ES] FOX MOVIES HD" tvg-logo="tv.png" group-title="Espanh�is",Z [ES] FOX MOVIES HD 
+http://200.76.77.237/LIVE/H01/CANAL417/PROFILE03.m3u8? 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Z [ES] FOX SPORTS" tvg-logo="foxsports.png" group-title="Espanh�is",Z [ES] FOX SPORTS 
+http://200.76.77.237/LIVE/H01/CANAL522/PROFILE03.m3u8? 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Z [ES] FOX SPORTS 2" tvg-logo="foxsports2.png" group-title="Espanh�is",Z [ES] FOX SPORTS 2 
+http://200.76.77.237/LIVE/H01/CANAL527/PROFILE03.m3u8? 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Z [ES] FX" tvg-logo="fx.png" group-title="Espanh�is",Z [ES] FX 
+http://200.76.77.237/LIVE/H01/CANAL258/PROFILE03.m3u8? 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Z [ES] GLITZ" tvg-logo="glitz.png" group-title="Espanh�is",Z [ES] GLITZ 
+http://200.76.77.237/LIVE/H01/CANAL270/PROFILE03.m3u8? 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - GOL TV" tvg-logo="goltv.png" group-title="Espanh�is",Z [ES] GOL TV 
+rtmp://46.165.220.225/iguide playpath=3gr5gxx65akwo94 swfUrl=http://www.iguide.to/player/secure_player_iguide_embed_token.swf 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Z [ES] GOLDEN HD" tvg-logo="tv.png" group-title="Espanh�is",Z [ES] GOLDEN HD 
+http://200.76.77.237/LIVE/H01/CANAL436/PROFILE03.m3u8? 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Z [ES] GOURMET" tvg-logo="tv.png" group-title="Espanh�is",Z [ES] GOURMET 
+http://200.76.77.237/LIVE/H01/CANAL268/PROFILE03.m3u8? 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Z [ES] HISTORY" tvg-logo="history.png" group-title="Espanh�is",Z [ES] HISTORY 
+http://200.76.77.237/LIVE/H01/CANAL353/PROFILE03.m3u8? 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Z [ES] HISTORY 2" tvg-logo="tv.png" group-title="Espanh�is",Z [ES] HISTORY 2 
+http://200.76.77.237/LIVE/H01/CANAL353/PROFILE03.m3u8? 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Z [ES] INF" tvg-logo="tv.png" group-title="Espanh�is",Z [ES] INF 
+http://200.76.77.237/LIVE/H01/CANAL266/PROFILE03.m3u8? 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Z [ES] MTV" tvg-logo="mtv.png" group-title="Espanh�is",Z [ES] MTV 
+http://200.76.77.237/LIVE/H01/CANAL726/PROFILE03.m3u8? 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Z [ES] MTV LIVE" tvg-logo="mtv.png" group-title="Espanh�is",Z [ES] MTV LIVE 
+http://200.76.77.237/LIVE/H01/CANAL701/PROFILE03.m3u8? 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Z [ES] NAT GEO" tvg-logo="natgeo.png" group-title="Espanh�is",Z [ES] NAT GEO 
+http://200.76.77.237/LIVE/H01/CANAL377/PROFILE03.m3u8? 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Z [ES] NAT GEO WILD" tvg-logo="natgeowild.png" group-title="Espanh�is",Z [ES] NAT GEO WILD 
+http://200.76.77.237/LIVE/H01/CANAL355/PROFILE03.m3u8? 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Z [ES] NICK" tvg-logo="nickelodeon.png" group-title="Espanh�is",Z [ES] NICK 
+http://200.76.77.237/LIVE/H01/CANAL317/PROFILE03.m3u8? 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Z [ES] NICK HD" tvg-logo="nickelodeonhd.png" group-title="Espanh�is",Z [ES] NICK HD 
+http://200.76.77.237/LIVE/H01/CANAL315/PROFILE03.m3u8? 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Z [ES] NICK JR" tvg-logo="nickjr.png" group-title="Espanh�is",Z [ES] NICK JR 
+http://200.76.77.237/LIVE/H01/CANAL310/PROFILE03.m3u8? 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Z [ES] PROYECTO 40" tvg-logo="tv.png" group-title="Espanh�is",Z [ES] PROYECTO 40 
+http://200.76.77.237/LIVE/H01/CANAL40/PROFILE03.m3u8? 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - RTPA" tvg-logo="tv.png" group-title="Espanh�is",Z [ES] RTPA 
+http://iphone.rtpa.stream.flumotion.com/rtpa/tv-iphone/main.m3u8 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Sevilla FC" tvg-logo="tv.png" group-title="Espanh�is",Z [ES] Sevilla FC 
+rtmp://flash0.80137-live0.dna.qbrick.com/80137-live0/sevillafc 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Solidaria TV" tvg-logo="solidaria_tv.jpg" group-title="Espanh�is",Z [ES] Solidaria TV 
+rtsp://flash3.todostreaming.es/solidariatv/mystream 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Z [ES] SPACE HD" tvg-logo="spacehd.png" group-title="Espanh�is",Z [ES] SPACE HD 
+http://200.76.77.237/LIVE/H01/CANAL445/PROFILE03.m3u8? 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Z [ES] SYFY" tvg-logo="syfy.png" group-title="Espanh�is",Z [ES] SYFY 
+http://200.76.77.237/LIVE/H01/CANAL257/PROFILE03.m3u8? 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Z [ES] TBS" tvg-logo="tbs.png" group-title="Espanh�is",Z [ES] TBS 
+http://200.76.77.237/LIVE/H01/CANAL273/PROFILE03.m3u8? 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Z [ES] TELEHIT" tvg-logo="tv.png" group-title="Espanh�is",Z [ES] TELEHIT 
+http://200.76.77.237/LIVE/H01/CANAL702/PROFILE03.m3u8? 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Z [ES] TELENOVELAS" tvg-logo="tv.png" group-title="Espanh�is",Z [ES] TELENOVELAS 
+http://200.76.77.237/LIVE/H01/CANAL275/PROFILE03.m3u8? 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Z [ES] TIIN" tvg-logo="tv.png" group-title="Espanh�is",Z [ES] TIIN 
+http://200.76.77.237/LIVE/H01/CANAL325/PROFILE03.m3u8? 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Z [ES] TLC" tvg-logo="tlc.png" group-title="Espanh�is",Z [ES] TLC 
+http://200.76.77.237/LIVE/H01/CANAL386/PROFILE03.m3u8? 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Z [ES] TLC HD" tvg-logo="tlchd.png" group-title="Espanh�is",Z [ES] TLC HD 
+http://200.76.77.237/LIVE/H01/CANAL356/PROFILE03.m3u8? 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Z [ES] TLC HD 2" tvg-logo="tlchd.png" group-title="Espanh�is",Z [ES] TLC HD 2 
+http://200.76.77.237/LIVE/H01/CANAL356/PROFILE03.m3u8? 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Z [ES] TNT HD" tvg-logo="tnt.png" group-title="Espanh�is",Z [ES] TNT HD 
+http://200.76.77.237/LIVE/H01/CANAL435/PROFILE03.m3u8? 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Z [ES] TOONCAST" tvg-logo="tooncast.png" group-title="Espanh�is",Z [ES] TOONCAST 
+http://200.76.77.237/LIVE/H01/CANAL328/PROFILE03.m3u8? 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Z [ES] TURBO" tvg-logo="tv.png" group-title="Espanh�is",Z [ES] TURBO 
+http://200.76.77.237/LIVE/H01/CANAL379/PROFILE03.m3u8? 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - TV Vida Espanha" tvg-logo="tv.png" group-title="Espanh�is",Z [ES] TV Vida Espanha 
+rtsp://flash3.todostreaming.es/radiovida/mobile 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - TV3" tvg-logo="tv.png" group-title="Espanh�is",Z [ES] TV3 
+http://www.tv3.cat/directetv3cat/tv3catpc.m3u8 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - TVG America" tvg-logo="tv.png" group-title="Espanh�is",Z [ES] TVG America 
+http://media3.crtvg.es/live/tvga/hasbahca.m3u8 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Z [ES] UNIVERSAL" tvg-logo="universalchannel.png" group-title="Espanh�is",Z [ES] UNIVERSAL 
+http://200.76.77.237/LIVE/H01/CANAL256/PROFILE03.m3u8? 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Z [ES] VH1" tvg-logo="vh1hd.png" group-title="Espanh�is",Z [ES] VH1 
+http://200.76.77.237/LIVE/H01/CANAL703/PROFILE03.m3u8? 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Z [ES] WOBI" tvg-logo="tv.png" group-title="Espanh�is",Z [ES] WOBI 
+http://200.76.77.237/LIVE/H01/CANAL387/PROFILE03.m3u8? 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - AXN WHITE" tvg-logo="axn-white.png" group-title="Portugueses",Z [PT] AXN WHITE 
+rtmp://173.193.216.172/youcloud/ playpath=axnblank2er?keys=sIvNDcYx015cByqxWgLuGQ swfUrl=http://cdn.youcloud.tv/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://youcloud.tv/player?streamname=axnblank2er 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - CANAL PARLAMENTO" tvg-logo="parlamento.png" group-title="Portugueses",Z [PT] CANAL PARLAMENTO 
+rtsp://www.canal.parlamento.pt/Live 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Z [PT] CAPELINHA FÁTIMA" tvg-logo="tv.png" group-title="Portugueses",Z [PT] CAPELINHA FÁTIMA 
+rtmp://213.13.26.11/live playpath=santuario.stream swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer.swf?live=rtmp://{$hostname}/live/santuario 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Z [PT] DISCOVERY" tvg-logo="discoverychannel.png" group-title="Portugueses",Z [PT] DISCOVERY 
+rtmp://50.22.223.42/youcloud/ playpath=discovery5e1r?keys=QNM48GIqRNlW0XPfEeW52A swfUrl=http://cdn.youcloud.tv/jwplayer.flash.swf live=1 swfVfy=1 pageUrl=http://youcloud.tv/player?streamname=discovery5e1r 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Z [PT] ECONOMICO TV" tvg-logo="tv.png" group-title="Portugueses",Z [PT] ECONOMICO TV 
+http://213.13.26.7:1936/live/etv_direto/livestream.m3u8 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Z [PT] EURONEWS" tvg-logo="tv.png" group-title="Portugueses",Z [PT] EURONEWS 
+http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/iphone_pt.m3u8 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Z [PT] Fox" tvg-logo="fox.png" group-title="Portugueses",Z [PT] Fox 
+rtmp://67.228.177.52/youcloud/ playpath=fox20disx?keys=86pxPk8Z8SIRWQUOsu_u_A swfUrl=http://cdn.youcloud.tv/jwplayer.flash.swf live=1 swfVfy=1 pageUrl=http://youcloud.tv/player 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Z [PT] HISTORIA" tvg-logo="tv.png" group-title="Portugueses",Z [PT] HISTORIA 
+rtmp://50.22.223.47/youcloud/ playpath=historia8wdy?keys=s4QDnkcUjTOhi0r_0K3bUg swfUrl=http://cdn.youcloud.tv/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://youcloud.tv/player?streamname=historia8wdy 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Z [PT] HOLLYWOOD" tvg-logo="tv.png" group-title="Portugueses",Z [PT] HOLLYWOOD 
+rtmp://149.255.39.10/youcloud/ playpath=hollywood93u?keyt=1424714535 swfUrl=http://cdn.youcloud.tv/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://youcloud.tv/player?streamname=hollywood93 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - RTP 1" tvg-logo="rtp1.png" group-title="Portugueses",Z [PT] RTP 1 
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp1.smil/playlist.m3u8 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - RTP 2" tvg-logo="rtp2.png" group-title="Portugueses",Z [PT] RTP 2 
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtp2.smil/playlist.m3u8 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Z [PT] RTP A�?ORES" tvg-logo="rtp.png" group-title="Portugueses",Z [PT] RTP A�?ORES 
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpacores.smil/playlist.m3u8 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Z [PT] RTP AFRICA" tvg-logo="rtp.png" group-title="Portugueses",Z [PT] RTP AFRICA 
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpafrica.smil/playlist.m3u8 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - RTP INFORMA" tvg-logo="rtp.png" group-title="Portugueses",Z [PT] RTP INFORMA 
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpn.smil/playlist.m3u8 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - RTP INTERNACIONAL" tvg-logo="rtp.png" group-title="Portugueses",Z [PT] RTP INTERNACIONAL 
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpi.smil/playlist.m3u8 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Z [PT] RTP MADEIRA" tvg-logo="rtp-madeira.png" group-title="Portugueses",Z [PT] RTP MADEIRA 
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpmadeira.smil/playlist.m3u8 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Z [PT] RTP MEM�"RIA" tvg-logo="rtp.png" group-title="Portugueses",Z [PT] RTP MEM�"RIA 
+http://rtp-pull-live.hls.adaptive.level3.net/liverepeater/smil:rtpmem.smil/playlist.m3u8 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - SIC" tvg-logo="sic.png" group-title="Portugueses",Z [PT] SIC 
+http://88.157.194.246/live/ramdisk/zsic/HLS/HLS-audio101=64000-video=400000.m3u8 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Z [PT] SIC Mulher" tvg-logo="sic-mulher.png" group-title="Portugueses",Z [PT] SIC Mulher 
+rtmp://173.193.216.172/youcloud/ playpath=sicmulher8f2d swfUrl=http://cdn.youcloud.tv/jwplayer.flash.swf live=1 timeout=15 swfVfy=1 pageUrl=http://youcloud.tv/player?streamname=sicmulher8f2d 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - SIC NOTICIAS" tvg-logo="sic-noticias.png" group-title="Portugueses",Z [PT] SIC NOTICIAS 
+http://213.13.26.7:1936/live/sicnoticias/livestream.m3u8 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - SPORT TV 1" tvg-logo="sportv1pt.jpg" group-title="Portugueses",Z [PT] SPORT TV 1 
+rtmpe://5.153.233.106:443/share/ playpath=live1-rbi6c swfUrl=http://sharecast.to/player/player20.swf  pageUrl=http://sharecast.to/embed.php?ch=live1-rbi6c 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - SPORT TV 2" tvg-logo="sportv2pt.jpg" group-title="Portugueses",Z [PT] SPORT TV 2 
+rtmpe://5.153.233.106:443/share/ playpath=live2-bipmr swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=13 pageUrl=http://sharecast.to/ 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - SPORT TV 3" tvg-logo="sportv3pt.jpg" group-title="Portugueses",Z [PT] SPORT TV 3 
+rtmpe://5.153.233.106:443/share/ playpath=live3-qszlx swfUrl=http://sharecast.to/player/player20.swf live=1 timeout=10 pageUrl=http://sharecast.to/ 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - TV CABO VERDE" tvg-logo="tv.png" group-title="Portugueses",Z [PT] TV CABO VERDE 
+rtmp://213.13.26.11/live playpath=rtc_teste swfUrl=http://assets.web.sapo.io/sapovideo/swf/flvplayer-sapo.swf?v110713 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Z [PT] TVI" tvg-logo="tvi.png" group-title="Portugueses",Z [PT] TVI 
+http://video-live.iol.pt:1935/live_tvi/smil:LIVE_TVI/chunklist_w1423159757_b1564000.m3u8 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - TVI24" tvg-logo="tvi-24hs.png" group-title="Portugueses",Z [PT] TVI24 
+http://video-live.iol.pt:1935/live_tvi24/smil:LIVE_TVI24/chunklist_w272103575_b814000.m3u8 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Z [RD] Jovem Pan FM" tvg-logo="" group-title="R�dios",Z [RD] Jovem Pan FM 
+http://rtmp.cdn.upx.net.br:80/78f2/myStream.sdp/playlist.m3u8 
+		
+
+#EXTINF:-1 tvg-id="IPTVBR.ORG - Z [RD] MIX FM" tvg-logo="" group-title="R�dios",Z [RD] MIX FM 
+http://a4.fabricahost.com.br:1935/mixlondrina/stream/playlist.m3u8 
+		
+<body style="color: #FFFFFF">
+<body oncontextmenu='return false' onselectstart='return false' ondragstart='return false'>
+﻿313060

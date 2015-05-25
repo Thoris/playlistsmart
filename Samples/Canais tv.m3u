@@ -1,0 +1,126 @@
+    
+
+#EXTINF:-1  tvg-logo="Filme_Off.png" group-title="ON DEMAND" , 8mm Oito Milimetros
+http://media-br-am.crackle.com/1/4/v6/51zlf_480p.mp4
+#EXTINF:-1 tvg-id="IPTV Brasil - Bandeirantes" tvg-logo="Band.png" group-title="TV Aberta",Band
+http://mistreaming.com.br:1935/TarobaCascavel/TarobaCascavel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IPTV Brasil - Globo São Paulo" tvg-logo="Globo.png" group-title="TV Aberta",Globo SP
+http://live-cdn.direct-stream.org:1935/live/_definst_/101010/Globo_SP_Anderson_Elias.m3u8?IPTV_BRASIL
+
+#EXTINF:-1 tvg-id="IPTV Brasil - Record" tvg-logo="record.png" tvg-logo="http://canaisiptvbr.wen.ru/logos/record.png" group-title="TV Aberta",Record ES
+http://flash.midiaip.com.br:1935/tvvitoria/Sample1/playlist.m3u8?IPTV_Brasil
+
+#EXTINF:-1 tvg-id="IPTV Brasil - SBT" tvg-logo="SBT.png" group-title="TV Aberta",SBT SP - Araçuba
+http://srv3.zoeweb.tv:1935/z133-live/stream/SBT_ARACATUBA_IPTV_Brasil.m3u8?IPTV_Brasil
+
+#EXTINF:-1 tvg-id="IPTV Brasil - Comedy Central" tvg-logo="Comedy-Central.png" group-title="Seriados",Comedy Central
+http://live.livestreamcast.org:1935/live/comedy913/comedy913/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="Chuck.png" group-title="Seriados 24Hrs", Chuck
+http://66.90.111.66:1935/ctv/chuck/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="Heroes.png" group-title="Seriados 24Hrs", Heroes
+http://66.90.111.66:1935/ctv/_definst_/heroes/waldo_paes.m3u8
+
+#EXTINF:-1 tvg-logo="Batman.png"  group-title="Desenhos 24Hrs", Batman
+http://66.90.111.66:1935/ctv/batman/waldo_paes.m3u8
+
+#EXTINF:-1 tvg-logo="Ben10.png"  group-title="Desenhos 24Hrs", Ben 10
+http://66.90.111.66:1935/ctv/ben10/waldo_paes.m3u8
+
+#EXTINF:-1 tvg-logo="Bob-Esponja.png" group-title="Desenhos 24Hrs", Bob Esponja
+http://66.90.111.66:1935/ctv/bob/waldo_paes.m3u8
+    #EXTINF:-1 tvg-logo="TV Brasil.png" group-title=“BRASIL”,TV BRASIL  
+    http://ebcremuxlive-live.hls.adaptive.level3.net/manifests/ebcremuxlive-ebctvbrasil/live.m3u8
+    #EXTINF:-1 tvg-logo="Tv Gazeta.png" group-title=“BRASIL”,GAZETA TV MAR (Maceio-AL)
+    http://shflash.directradios.com:1935/gazeta3/stream/PAZ_Chega_de_Guerras.m3u8
+    #EXTINF:-1 tvg-logo="TV Aparecida.png" group-title=“BRASIL”,TV APARECIDA
+    http://caikrondatacenter.com.br:1935/tvaparecida/tvaparecida.stream/Paz.m3u8
+    #EXTINF:-1 tvg-logo="Antena3.png" group-title="ESPANHA",ANTENA 3 HD
+    http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8
+    #EXTINF:-1 tvg-logo="NarutoLogo.png" group-title=“KIDS”,NARUTO (Brasil)
+    http://208.53.133.178:1935/ctv/naruto/playlist.m3u8
+    #EXTINF:-1 tvg-logo="The Simpsons.png" group-title=“KIDS”,OS SIMPSONS (Brasil
+    http://66.90.111.66:1935/ctv/simpsons/waldo_paes.m3u8
+    #EXTINF:-1 tvg-logo="picapau.png" group-title=“KIDS”, PICA PAU (Brasil)
+    http://66.90.111.66:1935/ctv/_definst_/picapau/waldo_paes.m3u8
+    #EXTINF:-1 tvg-logo="penguins-madagascar.png" group-title=“KIDS”,PINGUINS MAGADASCAR (Brasil)
+    http://66.90.111.50:1935/ctv/pinguins/playlist.m3u8
+    #EXTINF:-1 tvg-logo="batman26.png" group-title=“KIDS”,BATMAN (Brasil)
+    http://66.90.111.66:1935/ctv/batman/url(iptv=Series).m3u8
+    #EXTINF:-1 tvg-logo="Ben_10.png" group-title=“KIDS”,BEN 10 (Brasil)
+    http://66.90.111.66:1935/ctv/ben10/url(iptv=Series).m3u8
+    #EXTINF:-1 tvg-logo="Capital TV.png" group-title="MUSICA",CAPITAL TV
+    http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/index_656_av-p.m3u8?sd=10&rebase=on
+    #EXTINF:-1 tvg-logo="Heart TV.png" group-title="MUSICA",HEART TV
+    http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_656_av-p.m3u8?sd=10&rebase=on
+    #EXTINF:-1 tvg-logo="MTV_Live_HD.png" group-title="MUSICA",MTV LIVE
+    http://89.212.240.49:11980/live/smil:324_0.smil/playlist.m3u8?authorization_key=hNj0mnLtB9O5rfIKuCVsX7oWASQayqZg&stream_id=0
+    #EXTINF:-1 tvg-logo="VEVO.png" group-title="MUSICA",VEVO 1
+    http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+    #EXTINF:-1 tvg-logo="VEVO.png" group-title="MUSICA",VEVO 1 HD
+    http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8 
+    #EXTINF:-1 tvg-logo="VEVO.png" group-title="MUSICA",VEVO 2
+    http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+    #EXTINF:-1 tvg-logo="VEVO.png" group-title="MUSICA",VEVO 2 HD
+    http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8 
+    #EXTINF:-1 tvg-logo="VEVO.png" group-title="MUSICA",VEVO 3
+    http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
+    #EXTINF:-1 tvg-logo="VEVO.png" group-title="MUSICA",VEVO 3 HD
+    http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+    #EXTINF:-1 tvg-logo="mimusica.png" group-title="MUSICA",MI MUSICA HD
+    http://uneapple-i.akamaihd.net/hls/live/206731/grupoune_st20@206731/st20_index.m3u8
+    #EXTINF:-1 tvg-logo="1hd.png" group-title="MUSICA",1 HD
+    http://195.189.238.18/streaming/firstmuz/16/hd/playlist.m3u8
+    #EXTINF:-1 tvg-logo="1hd.png" group-title="MUSICA",1 HD
+    http://87.245.214.43/streaming/firstmuz/16/hd/playlist.m3u8
+    #EXTINF:-1 tvg-logo="" group-title="MUSICA",PIK HD
+    http://87.245.214.43/streaming/pik_hd/126/hd/playlist.m3u8
+    #EXTINF:-1 tvg-logo="djing.png" group-title="MUSICA",HOT HOT HOT
+    http://www.djing.com/tv/hothothot.m3u8
+    #EXTINF:-1 tvg-logo="djing.png" group-title="MUSICA",UNDERGROUND
+    http://www.djing.com/tv/underground.m3u8
+    #EXTINF:-1 tvg-logo="djing.png" group-title="MUSICA",DANCEFLOOR
+    http://www.djing.com/tv/dancefloor.m3u8
+    #EXTINF:-1 tvg-logo="dreamtv.png" group-title="MUSICA",DREAM TV
+    http://212.224.108.80/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8
+    #EXTINF:-1 tvg-logo="MFMTV.png" group-title="MUSICA",MFMTV
+    http://ec.playmedia.fr/mfmtv/live/playlist.m3u8
+    #EXTINF:-1 tvg-logo="Lobas TV.png" group-title="MUSICA",LOBAS TV
+    http://149.11.34.6:1935/live/lobas.stream/playlist.m3u8
+    #EXTINF:-1 tvg-logo="Clubland_tv.png" group-title="MUSICA",CLUBLAND
+    http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
+    #EXTINF:-1 tvg-logo="NOW-MUSIC.png" group-title="MUSICA",NOW MUSIC  
+    http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&protocol=http&output=playlist.m3u8
+    #EXTINF:-1 tvg-logo="M3_TV_logo.png" group-title="MUSICA",TELE M3
+    http://rtmp.infomaniak.ch/livecast/tvm3/playlist.m3u8
+    #EXTINF:-1 tvg-logo="" group-title="MUSICA",MEZZO
+    http://hlsstr02.svc.iptv.rt.ru/hls/CH_MEZZO/variant.m3u8?version=2 
+
+#EXTINF:-1 tvg-logo="Caverna-do-Dragão.png" group-title="Desenhos 24Hrs", Caverna do Dragão
+http://66.90.111.66:1935/ctv/caverna/waldo_paes.m3u8
+
+#EXTINF:-1 tvg-logo="Doug.png" group-title="Desenhos 24Hrs", Doug
+http://66.90.111.66:1935/ctv/doug/waldo_paes.m3u8
+
+#EXTINF:-1 tvg-logo="Dragon-Ball-Z.png" group-title="Desenhos 24Hrs", Dragon Ball Z
+http://66.90.111.66:1935/ctv/dbz/waldo_paes.m3u8
+
+#EXTINF:-1 tvg-logo="Family-Guy.png" group-title="Desenhos 24Hrs", Familia da Pesada
+http://66.90.111.66:1935/ctv/_definst_/family/waldo_paes.m3u8
+
+#EXTINF:-1 tvg-logo="Futurama.png" group-title="Desenhos 24Hrs", Futurama
+http://66.90.111.66:1935/ctv/_definst_/futurama/waldo_paes.m3u8
+
+#EXTINF:-1 tvg-logo="Galinha-Pintadinha.png" group-title="Desenhos 24Hrs", Galinha Pintadinha
+http://66.90.111.66:1935/ctv/galinha/waldo_paes.m3u8
+
+#EXTINF:-1 tvg-logo="Naruto.png" group-title="Desenhos 24Hrs", Naruto
+http://66.90.111.66:1935/ctv/_definst_/naruto/waldo_paes.m3u8
+
+#EXTINF:-1 tvg-logo="Pica-Pau.png" group-title="Desenhos 24Hrs",Pica Pau
+http://66.90.111.66:1935/ctv/_definst_/picapau/waldo_paes.m3u8
+
+#EXTINF:-1 tvg-logo="Tom-e-Jerry.png" group-title="Desenhos 24Hrs", Tom e Jerry
+http://66.90.111.66:1935/ctv/tom/waldo_paes.m3u8

@@ -1,0 +1,564 @@
+﻿#EXTM3U
+#EXTINF:-1, [COLOR green]By MARCELO | Atualizada 08/12/2014[/COLOR]
+http://0.0.0.0:1234
+#EXTINF:-1,[COLOR green]>>EPG http://bit.ly/GuiadaTV<<[/COLOR]
+============================================================================================================================
+
+
+#CANAIS ABERTOS
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais Abertos",[COLOR green]» » Aberto « «[/COLOR]
+http://0.0.0.0:1234
+#EXTINF:-1,TV MANÁ BRASIL
+http://195.22.19.189:1935/tvbr/tvbrasil2/hasbahca.m3u8
+
+
+
+#EXTINF:-1, RECORD PE
+rtmp://rtmp.cdn.upx.net.br:80/00161/myStream.sdp
+
+
+#EXTINF:-1, AVIVA TV
+rtmp://70.38.71.93:1935/daniel187 playpath=daniel187 swfUrl=http://p.jwpcdn.com/6/11/jwplayer.flash.swf pageUrl=http://www.avivatv-tv.blogspot.com.br/
+
+#EXTINF:-1, Rit tv
+rtmp://flash1.crossdigital.com.br/ponto79/ playpath=ongrace swfUrl=http://www.rittv.com.br/assets/679b3032/player.swf pageUrl=http://www.rittv.com.br/site/player
+
+#EXTINF:-1 tvg-id="RBS TV" tvg-logo="Globo SP.png" group-title="Canais Abertos",Globo SP [COLOR green][Opção 1][/COLOR]
+rtmp://94.242.228.85:443/loadbalance?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjQvMjAxNCAyOjQwOjM0IFBNJmhhc2hfdmFsdWU9dWtTdmJtczVjaDRpNnpjY3BYMWZuUT09JnZhbGlkbWludXRlcz0yMA==/ playpath=bobo9 swfUrl=http://pxstream.tv/jwplayer.flash.swf live=1 pageUrl=http://pxstream.tv/embed.php?file=grobo&width=600&height=400
+#EXTINF:-1 tvg-id="RBS TV" tvg-logo="Globo SP.png" group-title="Canais Abertos",Globo SP [COLOR green][Opção 2][/COLOR]
+rtmp://94.242.228.143:443/loadbalance?wmsAuthSign=c2VydmVyX3RpbWU9MTEvMjQvMjAxNCAyOjQzOjM2IFBNJmhhc2hfdmFsdWU9WkE5OTBkSXlmL2pMZGJIaDRoRE1tUT09JnZhbGlkbWludXRlcz0yMA==/ playpath=bobo9 swfUrl=http://pxstream.tv/jwplayer.flash.swf live=1 pageUrl=http://pxstream.tv/embed.php?file=grobo&width=468&height=380
+#EXTINF:-1 tvg-id="RBS TV" tvg-logo="Globo SP.png" group-title="Canais Abertos",Globo SP [COLOR green][Opção 3][/COLOR]
+http://live-cdn.direct-stream.org:1935/live/_definst_/101010/Globo_SP_Anderson_Elias.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="Globo SP.png" group-title="Canais Abertos",Globo MG
+rtmp://94.102.56.186:1936/freelivestream playpath=globo swfUrl=http://www.freelivestream.us/swfs/player.swf live=1 pageUrl=http://www.freelivestream.us/embedPlayer.php?file=globo&width=480&height=380
+
+#EXTINF:-1 tvg-id="" tvg-logo="Globo SP.png" group-title="Canais Abertos",Globo rbstv
+rtmp://94.242.228.85:443/loadbalance playpath=mp4:gpr8 swfUrl=http://tvonlinehq.net/wp-content/plugins/fv-wordpress-flowplayer/flowplayer/flowplayer.swf?ver=2.3.6 live=1 pageUrl=http://tvonlinehq.net/assistir-globo-rbs-online-24h-gratis/
+
+#EXTINF:-1 tvg-id="" tvg-logo="Globo SP.png" group-title="Canais Abertos",Globo Minas
+rtmp://79.124.56.202:443/loadbalance playpath=mp4:gpr5 swfUrl=http://tvonlinehq.net/wp-content/plugins/fv-wordpress-flowplayer/flowplayer/flowplayer.swf?ver=2.3.6 live=1 pageUrl=http://tvonlinehq.net/assistir-globo-minas-online-24h/
+
+#EXTINF:-1 tvg-id="Record" tvg-logo="Record SP.png" group-title="Canais Abertos",Record
+rtmp://31.204.128.73:1935/live/ playpath=master14 swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://www.cdnbr.biz/mastertv/Record.html
+
+#EXTINF:-1 tvg-id="SBT" tvg-logo="SBT HD.png" group-title="Canais Abertos",Sbt
+rtmp://31.204.128.76/live/ playpath=master94 swfUrl=http://www.cdnbr.biz/swf/player.swf live=1 pageUrl=http://www.cdnbr.biz/mastertv/SBT.html
+#EXTINF:-1 tvg-id="SBT" tvg-logo="SBT HD.png" group-title="Canais Abertos",Sbt [COLOR green][Opção 2][/COLOR]
+rtmp://85.17.172.74:443/loadbalance playpath=sbt978 swfUrl=http://tvonlinehq.net/channel2/player.swf live=1 pageUrl=http://tvonlinehq.net/channel2/sbt.php
+#EXTINF:-1 tvg-id="" tvg-logo="SBT HD.png" group-title="Canais Abertos",Sbt [COLOR green][Pioneira TV][/COLOR]
+rtmp://192.99.46.182/pioneira-tv//pioneira-tv
+#EXTINF:-1 tvg-id="" tvg-logo="SBT HD.png" group-title="Canais Abertos",Sbt [COLOR green][TV Jornal - Recife][/COLOR]
+rtmp://evp.mm.uol.com.br/ne10/_definst_/ne10_tvjornal.sdp
+
+#EXTINF:-1 tvg-id="Bandeirantes" tvg-logo="Band.png" group-title="Canais Abertos",Band
+rtmp://76.73.108.36:1935/online playpath=band swfUrl=http://www.livestreamtv.biz/swfs/player.swf live=1 pageUrl=http://www.livestreamtv.biz/embedPlayer.php?file=band&width=480&height=380
+
+#EXTINF:-1 tvg-id="Rede TV" tvg-logo="Rede TV.png" group-title="Canais Abertos",Redetv
+rtmp://REDETV.flash.internapcdn.net/REDETV/live_1/aovivo
+
+#EXTINF:-1 tvg-id="TVDIARIO" tvg-logo="TVDiario.png" group-title="Canais Abertos",TV Diário
+http://livela.sambatech.com.br/hls-live/livepkgr/tvdiario_2ff357495c9f34b35fc02b51ee33d935/liveevent/livestream.m3u8
+
+#EXTINF:-1 tvg-id="TV Cultura" tvg-logo="TV Cultura.png" group-title="TV Aberta",TV CULTURA [COLOR orange]HD[/COLOR] 720p
+rtmp://200.136.27.12/live playpath=tv swfUrl=http://www.tvonlinegratis.tv/fucku2.swf pageUrl=http://www.tvonlinegratis.tv/canais/cultura.php
+
+#EXTINF:-1 tvg-id="TV Aparecida" tvg-logo="TV Aparecida.png" group-title="Canais Abertos",TV Aparecida
+rtmp://caikrondatacenter.com.br:1935/tvaparecida/tvaparecida.stream
+
+#EXTINF:-1 tvg-id="Rede Família" tvg-logo="Rede Família.png" group-title="Canais Abertos",Rede Família
+mms://srv3.ntelecom.com.br/redefamilia
+
+#EXTINF:-1 tvg-id="Novo Tempo" tvg-logo="Novo Tempo.png" group-title="Canais Abertos",TV Novo Tempo
+rtmp://50.22.36.40:1935/live/tvnovotempo
+
+#EXTINF:-1 tvg-id="TV Senado" tvg-logo="TV Senado.png" group-title="Canais Abertos", TV Senado
+mms://drix.senado.gov.br/tv1
+
+#EXTINF:-1 tvg-id="TV Camara" tvg-logo="TV Câmara.png" group-title="Canais Abertos", TV Câmara
+mms://stream.camara.gov.br/tvcamara1t200
+#EXTINF:-1 tvg-id="TV Escola" tvg-logo="TV Escola.png" group-title="Canais Abertos", TV Escola
+http://livela.sambatech.com.br/hls-live/livepkgr/acerp_1f9a5d00db56b3c3020b6ac3dd693e12/liveevent/livestream.m3u8
+
+#EXTINF:-1,REDE_GOSPEL
+http://media01.s12.com.br:1935/live/redegospel/Rede_Gospel.m3u8
+
+#EXTINF:-1, TV GIDEÕES
+http://tv3.zasmediastreaming.com.br:1935/gmuh/gmuh.sdp/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="http://www.assistirtvgratisonline.org/imagens/botoes/geracaoZ.png" group-title="Canais Abertos" ,TV Geração Z
+rtmp://38.96.175.108/tvgeracaoz playpath=tvgeracaoz swfUrl=http://www.assistirtvgratisonline.org/canais/player/universal.swf live=1 pageUrl=http://www.assistirtvgratisonline.org/canais/geracaoz.php
+
+
+#======================================================ESPORTES
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Esportes",[COLOR green]» » Esportes « «[/COLOR]
+pnm
+
+#EXTINF:-1 tvg-id="PFC HD" tvg-logo="PFC HD" group-title="ESPORTES",PFC HD [COLOR green][ EM HORARIO DE JOGO][/COLOR]
+rtmp://31.204.153.71/live/ playpath=discohd swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://www.cdnbr.biz/mastertv/Discovery HD.html
+
+#EXTINF:-1 tvg-id="PFC 2" tvg-logo="PFC 2" group-title="ESPORTES",PFC 2 [COLOR green][ EM HORARIO DE JOGO][/COLOR]
+rtmp://31.204.153.72/live/ playpath=hd2 swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://www.cdnbr.biz/mastertv/Nick HD.html
+
+#EXTINF:-1 tvg-id="PFC 3" tvg-logo="PFC 3" group-title="ESPORTES",PFC 3 [COLOR green][ EM HORARIO DE JOGO][/COLOR]
+rtmp://31.204.153.70/live/ playpath=sportsmais swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://www.cdnbr.biz/mastertv/Sports .html
+
+#EXTINF:-1 tvg-id="PFC 4" tvg-logo="PFC 4" group-title="ESPORTES", PFC 4 [COLOR green][ EM HORARIO DE JOGO][/COLOR]
+rtmp://109.200.202.124/live playpath=disneyxd swfUrl=http://www.tv-msn.com/player5.swf pageUrl=http://tv-msn.com/disneyxd.html
+
+#EXTINF:-1 tvg-id="Band Sports" tvg-logo="Band Sports.png" group-title="Esportes",Band Sports
+rtmp://evp.mm.uol.com.br:1935/geob_terraviva/_definst_ playpath=operadoras swfUrl= live=1 pageUrl=
+
+#EXTINF:-1 tvg-id="SPORTV" tvg-logo="SporTV.png" group-title="Esportes",SporTV 
+rtmp://sthosting.net/repeat/ playpath=aka1 swfUrl=http://s10.histats.com/1034.swf live=1 pageUrl=http://brfutebol.org/canais/sportv.htm
+
+#EXTINF:-1 tvg-id="SPORTV 2" tvg-logo="SporTV 2.png" group-title="Esportes",SporTV 2
+rtmp://89.248.168.21:443/liveedge/ playpath=esportestv29D2 swfUrl=http://turbocast.tv/images/player.swf?ch=ttwrs pageUrl=http://micast.tv/br.php?ch=esportestv29D2
+
+#EXTINF:-1 tvg-id="SPORTV 3" tvg-logo="SporTV 3.png" group-title="Esportes",SporTV 3
+rtmp://93.174.93.50:443/liveedge/ playpath=esportestv3FSr swfUrl=http://turbocast.tv/images/player.swf pageUrl=http://micast.tv/br.php?ch=esportestv3FSr
+
+#EXTINF:-1 tvg-id="Fox Sports" tvg-logo="Fox Sports.png" group-title="Esportes",Fox Sports
+rtmp://31.204.153.72/live/ playpath=fsb swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://www.cdnbr.biz/canais/FSB.html
+
+#EXTINF:-1 tvg-id="Fox Sports" tvg-logo="Fox Sports2.png" group-title="Esportes",Fox Sports 2 
+rtmp://85.17.172.74:443/loadbalance playpath=gpr3 swfUrl=http://p.jwpcdn.com/6/10/jwplayer.flash.swf live=1 pageUrl=http://flexstream.net/embed2.php?file=gpr3&width=468&height=380
+
+#EXTINF:-1 tvg-id="Sports +" tvg-logo="Sports+.png" group-title="Esportes",Sports + 
+rtmp://31.204.153.70/live/ playpath=sportsmais swfUrl=http://www.tv-msn.com/player/player.swf?ch=ttwrs pageUrl=http://www.cdnbr.biz/mastertv/Sports .html
+
+#EXTINF:-1 tvg-id="ESPN International" tvg-logo="ESPN.png" group-title="Esportes",ESPN [COLOR red][Instável][/COLOR]
+rtmp://31.204.128.74/live/master27
+
+#EXTINF:-1 tvg-id="ESPN Brasil" tvg-logo="ESPN Brasil.png" group-title="Esportes",ESPN Brasil
+rtmp://31.204.153.70/live/ playpath=master05 swfUrl=http://www.tv-msn.com/player/player.swf?ch=ttwrs pageUrl=http://www.cdnbr.biz/mastertv/ESPN Brasil.html
+
+#EXTINF:-1 tvg-id="ESPN" tvg-logo="ESPN+.png" group-title="Esportes",ESPN+
+rtmp://31.204.128.74/live/ playpath=master27 swfUrl=http://www.cdnbr.biz/swf/player.swf pageUrl=http://www.cdnbr.biz/mastertv/ESPN%20HD.html
+	
+#EXTINF:-1 tvg-id="Esporte Interativo" tvg-logo="Esporte Interativo.png" group-title="Esportes",Esporte Interativo [COLOR green][ 640x360][/COLOR]
+http://eipluselemental.s3-website-sa-east-1.amazonaws.com/eiplus10-1200.m3u8
+
+#EXTINF:-1 tvg-id="Esporte Interativo" tvg-logo="Esporte Interativo.png" group-title="Esportes",Esporte Interativo [COLOR green][ 1080p][/COLOR]
+http://d2zu5yenjkshw.cloudfront.net/eiplus10-2500.m3u8
+
+#EXTINF:-1  tvg-logo="http://4.bp.blogspot.com/-p0rGEJBfbUo/VGYzaBHPsUI/AAAAAAAACIo/CmSm2kKo0Uo/s1600/EI%2BNE%2BHQ.png" group-title="Esportes" , Ei Nordeste Exclusivo
+http://hls1.eiplus.com.br/hls/EINE_03_400.m3u8
+
+#EXTINF:-1  tvg-logo="http://2.bp.blogspot.com/-9jJWi7MnvD8/VGYzZAuQ4mI/AAAAAAAACIU/Gd1Mb28GTZQ/s1600/EI%2BNE%2BHD.png" group-title="Esportes" , Ei Nordeste Exclusivo HD
+http://hls1.eiplus.com.br/hls/EINE_03_1000.m3u8
+
+#EXTINF:-1 tvg-id="Esporte Iterativo" tvg-logo="Esporte Interativo.png" group-title="Esportes",Esporte Interativo Nordeste
+http://hls1.eiplus.com.br/hls/EINE_03_400.m3u8
+
+#EXTINF:-1,Portugal - SPORT TV 1
+rtmp://178.217.185.120:1935/live/ playpath=channel5
+
+#EXTINF:-1,Sport tv 2
+rtmp://178.217.185.120:1935/live/_definst_/channel2
+#EXTINF:-1,Sport tv HD
+rtmp://178.217.185.120:1935/live/_definst_/channel4
+#EXTINF:-1,Sky Sport 1
+rtmp://178.217.185.120:1935/live/_definst_/channel8
+
+#EXTINF:-1,OTE Sport2 
+#EXTVLCOPT: http-user-agent = "stagefright"
+http://216.66.83.2/gr_otesport2/playlist.m3u8
+#EXTINF:-1,OTE Sport3 
+#EXTVLCOPT: http-user-agent = "stagefright"
+http://216.66.83.2/gr_otesport3/playlist.m3u8
+#EXTINF:-1,OTE Sport4 
+#EXTVLCOPT: http-user-agent = "stagefright"
+http://216.66.83.2/gr_otesport4/playlist.m3u8 
+
+
+#===============================================DOCUMENTARIOS
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Cultura",[COLOR green]» » Documentários « «[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1 tvg-id="Animal Planet" tvg-logo="Animal Planet.png" group-title="Cultura",Animal Planet
+rtmp://31.204.128.75/live/ playpath=30 swfUrl=http://www.tv-msn.com/player5.swf pageUrl=http://www.cdnbr.biz/mastertv/Animal%20Planet.html
+
+#EXTINF:-1 tvg-id="DISCOVERYCHANNEL" tvg-logo="Discovery Channel.png" group-title="Cultura",Discovery Channel
+rtmp://31.204.128.75/live/ playpath=master04 swfUrl=http://www.tv-msn.com/player5.swf pageUrl=http://www.cdnbr.biz/mastertv/Discovery Channel.html
+
+#EXTINF:-1 tvg-id="Discovery Civilization" tvg-logo="Discovery Civilization.png" group-title="Documentários",DISCOVERY CIVILIZATION
+rtmp://cdn-edge.livestreamcast.org/liverepeat/discivil377/ playpath=discivil377 swfUrl=http://direct-stream.biz/jwplayer/jwplayer.flash.swf?ch=ttwrs pageUrl=http://direct-stream.biz/embedFrame.php?c=discivil377&vw=468&vh=360
+
+#EXTINF:-1 tvg-id="Discovery Turbo" tvg-logo="Discovery Turbo.png" group-title="Cultura", Discovery Turbo
+rtmp://109.200.202.124/live playpath=turbo swfUrl=http://www.tv-msn.com/player5.swf pageUrl=http://tv-msn.com/turbo.html
+
+#EXTINF:-1 tvg-id="Discovery Science" tvg-logo="Discovery Science.png" group-title="Cultura",Discovery Science
+rtmp://199.59.88.39:1935/cam4-cr107 playpath=130 swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://www.cdnbr.biz/mastertv/Discovery Science.html
+
+#EXTINF:-1 tvg-id="Discovery Science" tvg-logo="Discovery Science.png" group-title="Cultura",Discovery Science [COLOR green][Link 2][/COLOR]
+rtmp://199.59.88.39/cam4-cr107/130
+
+#EXTINF:-1 tvg-id="Discovery HD Theater" tvg-logo="Discovery Home & Health.png" group-title="Cultura",Discovery Home & Health
+rtmp://109.200.202.124:1935/live playpath=home swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://tv-msn.com/home.html
+
+#EXTINF:-1 tvg-id="Discovery HD Theater" tvg-logo="Discovery Theater.png" group-title="Cultura",Discovery Theater 
+rtmp://31.204.153.71/live playpath=discohd swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://www.cdnbr.biz/mastertv/Discovery 
+
+#EXTINF:-1 tvg-id="THEHISTORYCHANNEL" tvg-logo="The History Channel.png" group-title="Cultura",The History Channel
+rtmp://109.200.202.124/live playpath=history swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://tv-msn.com/history.html
+
+#EXTINF:0 $ExtFilter="LIV" tvg-logo="Investigação Discovery.png" group-title="Cultura, Investigação Discovery 
+rtmp://109.200.202.124:1935/live playpath=liv swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://tv-msn.com/investigacao.html 
+
+#EXTINF:-1 tvg-id="National Geographic" tvg-logo="Nat Geo.png" group-title="Cultura",National Geographic
+rtmp://109.200.202.124/live playpath=natgeo swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://tv-msn.com/natgeo.html
+
+#EXTINF:-1 tvg-id="Nat Geo Wild HD" tvg-logo="Nat Geo Wild.png" group-title="Cultura",Nat Geo Wild
+rtmp://109.200.202.124/live playpath=animal swfUrl=http://www.tv-msn.com/player5.swf pageUrl=http://tv-msn.com/natgeowild.html
+
+#EXTINF:-1 tvg-id="TLC" tvg-logo="TLC.png" group-title="Cultura",TLC
+rtmp://cdn-edge.livestreamcast.org:1935/liverepeat/tlc372/ playpath=tlc372 swfUrl=http://direct-stream.biz/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://direct-stream.biz/embedFrame.php?c=tlc372&vw=468&vh=360
+
+
+#======================================================FILMES
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Filmes",[COLOR green]» » Filmes « «[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1 tvg-id="AXN HD" tvg-logo="AXN.png" group-title="Filmes",AXN 
+rtmp://31.204.128.76:1935/live/ playpath=master52 swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://www.cdnbr.biz/mastertv/AXN.html
+
+#EXTINF:-1 tvg-id="Canal Brasil" tvg-logo="Canal Brasil.png" group-title="Filmes",Canal Brasil
+rtmp://cdn-edge.livestreamcast.org/liverepeat/canalbrasil/ playpath=canalbrasil swfUrl=http://direct-stream.biz/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://direct-stream.biz/embedFrame.php?c=canalbrasil&vw=468&vh=380
+
+#EXTINF:-1 tvg-id="Cinemax" tvg-logo="Cinemax.png" group-title="Filmes", Cinemax
+rtmp://31.204.128.140/live/ playpath=53 swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://www.cdnbr.biz/mastertv/Cinemax.html
+
+#EXTINF:-1 tvg-id="Fox" tvg-logo="Fox.png" group-title="Filmes",Fox
+rtmp://31.204.128.140/live/ playpath=fox swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://www.cdnbr.biz/mastertv/FOX.html
+
+#EXTINF:-1 tvg-id="FX" tvg-logo="FX.png" group-title="Filmes",FX
+rtmp://31.204.128.75/live/ playpath=master25 swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://www.cdnbr.biz/mastertv/FX.html
+
+#EXTINF:-1 tvg-id="HBO" tvg-logo="HBO.png" group-title="Filmes",HBO
+rtmp://89.33.8.14:443/loadbalance playpath=ch00412944 swfUrl=http://abcast.biz/ab.swf live=1 pageUrl=http://abcast.biz/embed4.php?file=ch00412944&width=468&height=380
+
+#EXTINF:-1 tvg-id="HBO 2" tvg-logo="HBO 2.png" group-title="Filmes",HBO 2
+rtmp://109.200.202.124/live playpath=hbo2 swfUrl=http://www.tv-msn.com/player5.swf live=1 pageUrl=http://tv-msn.com/hbo2.html
+
+#EXTINF:-1 tvg-id="HBO Plus" tvg-logo="HBO Plus.png" group-title="Filmes",HBO Plus 
+rtmp://109.200.202.124/live playpath=hboplus swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://tv-msn.com/hboplus.html
+
+#EXTINF:-1 tvg-id="HBO Family" tvg-logo="HBO Family.png" group-title="Filmes",HBO Family 
+rtmp://109.200.202.124/live playpath=hbofamily swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://tv-msn.com/hbofamily.html
+
+
+
+
+#EXTINF:0 $ExtFilter="HBO Signature" group-title="FILMES" tvg-logo="HBO Signature.png" tvg-name="HBOSignature",HBO SIGNATURE [COLOR gray]SEM SINAL[/COLOR]
+
+#EXTINF:-1 tvg-id="Max" tvg-logo="Max HD.png" group-title="Filmes",Max HD [COLOR red][OFF][/COLOR]
+rtmp://109.200.202.124/live playpath=maxhd swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://tv-msn.com/maxhd.html live=1
+
+#EXTINF:-1 tvg-id="Max Prime" tvg-logo="Max Prime.png" group-title="Filmes",Max Prime
+rtmp://89.33.8.14:443/loadbalance playpath=tvmsnmaxxprime swfUrl=http://abcast.biz/ab.swf live=1 pageUrl=http://abcast.biz/embed4.php?file=tvmsnmaxxprime&width=468&height=380
+
+#EXTINF:-1 tvg-id="Megapix" tvg-logo="MegaPix.png" group-title="Filmes", Megapix
+rtmp://31.204.128.73/live/ playpath=master11 swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://www.cdnbr.biz/mastertv/Megapix.html
+
+#EXTINF:-1 tvg-id="MGM" tvg-logo="MGM.png" group-title="Filmes",MGM
+rtmp://109.200.202.124/live playpath=mgm swfUrl=http://www.tv-msn.com/player5.swf pageUrl=http://tv-msn.com/mgm.html
+
+#EXTINF:-1 tvg-id="Space" tvg-logo="Space.png" group-title="Filmes",Space
+rtmp://89.248.168.21:443/liveedge/ playpath=space2015da7  swfUrl=http://micast.tv/jwplayer/jwplayer.flash.swf  pageUrl=http://micast.tv/chn.php?ch=space2015da7
+
+#EXTINF:-1 tvg-id="Sony Spin" tvg-logo="Sony.png" group-title="Filmes",Sony 
+rtmp://109.200.202.124/live playpath=sony swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://tv-msn.com/sony.html
+
+#EXTINF:-1 tvg-id="Sony Spin" tvg-logo="Sony Spin.png" group-title="Filmes",Sony Spin
+rtmp://109.200.202.124/live playpath=sonyspin swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://tv-msn.com/ratimbum.html 
+
+#EXTINF:-1 tvg-id="Studio Universal" tvg-logo="Studio Universal.png" group-title="Filmes",Studio Universal
+rtmp://109.200.202.124/live playpath=studio swfUrl=http://www.tv-msn.com/player5.swf live=1 pageUrl=http://tv-msn.com/studio.html
+
+#EXTINF:-1 tvg-id="Universal Channel" tvg-logo="Universal Channel.png" group-title="Filmes",Universal Channel
+rtmp://31.204.128.75/live/ playpath=master20 swfUrl=http://www.tv-msn.com/player5.swf pageUrl=http://www.cdnbr.biz/mastertv/Universal Channel.html
+
+#EXTINF:-1 tvg-id="SyFy" tvg-logo="SyFy.png" group-title="Filmes",SyFy 
+rtmp://109.200.202.124/live playpath=syfy swfUrl=http://www.tv-msn.com/player5.swf live=1 pageUrl=http://tv-msn.com/syfy.html
+
+#EXTINF:-1 tvg-id="Telecine Action" tvg-logo="Telecine Action.png" group-title="Filmes",Telecine Action 
+rtmp://31.204.128.75:1935/live/ playpath=master17 swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://www.cdnbr.biz/mastertv/Telecine Action.html
+
+#EXTINF:-1 tvg-id="Telecine Cult" tvg-logo="Telecine Cult.png" group-title="Filmes",Telecine Cult
+rtmp://109.200.202.124/live playpath=tccult swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://tv-msn.com/tccult.html
+
+#EXTINF:0 $ExtFilter="Telecine fun" tvg-logo="Telecine Fun.png" group-title="Filmes", Telecine Fun
+rtmp://109.200.202.124/live playpath=fun2 swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://tv-msn.com/fun.html
+
+#EXTINF:-1 tvg-id="Telecine Pipoca" tvg-logo="Telecine Pipoca.png" group-title="Filmes",Telecine Pipoca 
+rtmp://31.204.128.74/live/ playpath=master18 swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://www.cdnbr.biz/mastertv/Telecine Pipoca.html
+
+#EXTINF:-1 tvg-id="Telecine Premium" tvg-logo="Telecine Premium.png" group-title="Filmes",Telecine Premium 
+rtmp://31.204.128.140/live/ playpath=master19 swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://www.cdnbr.biz/mastertv/Telecine Premium.html
+
+#EXTINF:1 tvg-id="Telecine Touch" tvg-logo="Telecine Touch.png" group-title="Filmes", Telecine Touch 
+rtmp://109.200.202.124/live playpath=touch swfUrl=http://www.tv-msn.com/player5.swf pageUrl=http://tv-msn.com/touch.html
+
+#EXTINF:-1 tvg-id="TCM" tvg-logo="TCM.png" group-title="Filmes",TCM 
+rtmp://109.200.202.124/live playpath=tcm swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://tv-msn.com/tcm.html
+
+#EXTINF:-1 tvg-id="TNT" tvg-logo="TNT.png" group-title="Filmes",TNT 
+rtmp://31.204.128.74/live/ playpath=master77 swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://www.cdnbr.biz/mastertv/TNT.html
+
+#EXTINF:-1 tvg-id="Warner" tvg-logo="Warner.png" group-title="Filmes",Warner 
+rtmp://31.204.128.76/live/ playpath=master22 swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://www.cdnbr.biz/mastertv/Warner Brothers.html
+
+#EXTINF:-1 tvg-id="Universal Channel" tvg-logo="Universal Channel.png" group-title="Filmes",Universal Channel
+rtmp://31.204.128.75/live/ playpath=master20 swfUrl=http://www.tv-msn.com/player5.swf pageUrl=http://www.cdnbr.biz/mastertv/Universal Channel.html
+
+#EXTINF:-1  tvg-logo="http://3.bp.blogspot.com/-8lwifmHKMtY/VCw2fS0Q5qI/AAAAAAAABuA/gHVYkZu_4L8/s1600/_025.gif" group-title="Filmes" , CINE SKY
+rtmp://208.53.133.122/ctv playpath=filmes swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://carolineoliveira.com.br/tvamigos/filmes.html
+
+#EXTINF:-1, CINE HD
+rtmp://66.90.111.50/ctv playpath=filmes  swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/filmes.html
+
+#============================================INFANTIL
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Infantil",[COLOR green]» » Infantil « «[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1 tvg-id="Baby TV" tvg-logo="Baby TV.png" group-title="Infantil",Baby TV 
+rtmp://199.59.88.39/cam4-cr107 playpath=131 swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://www.cdnbr.biz/mastertv/Baby TV.html
+
+#EXTINF:-1 tvg-id="Boomerang" tvg-logo="Boomerang.png" group-title="Infantil",Boomerang 
+rtmp://199.59.88.39:1935/cam4-cr107 playpath=79 swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://www.cdnbr.biz/mastertv/Boomerang.html
+
+#EXTINF:-1 tvg-id="Cartoon Network" tvg-logo="Cartoon Network.png" group-title="Infantil",Cartoon Network
+rtmp://94.242.228.41:1935/live/ playpath=cartoon swfUrl=http://www.tvonline.org/p.swf pageUrl=http://www.tvonline.org/out/cartoon.html
+
+#EXTINF:-1 tvg-id="Gloob" tvg-logo="Gloob.png" group-title="Infantil",Gloob
+rtmp://31.204.128.73:1935/live/ playpath=master35 swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://www.cdnbr.biz/mastertv/Gloob.html
+
+#EXTINF:-1 tvg-id="DISNEY" tvg-logo="Disney Channel.png" group-title="Infantil",Disney Channel
+rtmp://109.200.202.124/live playpath=disney swfUrl=http://www.tv-msn.com/player5.swf live=1 pageUrl=http://www.tv-msn.com/disney.html
+
+#EXTINF:-1 tvg-id="Discovery Kids" tvg-logo="Discovery Kids.png" group-title="Infantil",Discovery Kids
+rtmp://31.204.128.74/live/ playpath=master24 swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://www.cdnbr.biz/canais/Discovery Kids.html
+
+#EXTINF:-1 tvg-id="DISNEYJUNIOR" tvg-logo="Disney Jr.png" group-title="Infantil",Disney Jr.
+rtmp://109.200.202.124/live playpath=animax swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://tv-msn.com/disneyjr.html
+
+#EXTINF:-1 tvg-id="Disney XD" tvg-logo="Disney XD.png" group-title="Infantil",Disney XD
+rtmp://109.200.202.124/live playpath=disneyxd swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://tv-msn.com/disneyxd.html
+
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-logo="Nickelodeon.png" group-title="Infantil",Nickelodeon
+rtmp://31.204.128.140/live/ playpath=brlive_0030 swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://www.cdnbr.biz/mastertv/Nickelodeon.html
+
+#EXTINF:-1 tvg-id="Nickelodeon" tvg-logo="nick hd.png" group-title="Infantil",Nick HD
+rtmp://31.204.153.72/live/ playpath=hd2 swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://www.cdnbr.biz/mastertv/Nick HD.html
+
+#EXTINF:-1 tvg-id="Nick Jr." tvg-logo="Nick Jr.png" group-title="Infantil",Nick Jr.
+rtmp://109.200.202.124/live playpath=nickjr swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://tv-msn.com/nickjr.htm
+
+#EXTINF:-1 tvg-id="Tooncast" tvg-logo="Tooncast.png" group-title="Infantil",Tooncast
+rtmp://109.200.202.124/live playpath=tooncast swfUrl=http://www.tv-msn.com/player5.swf pageUrl=http://tv-msn.com/tooncast.html
+
+#EXTINF:-1 tvg-logo="Castelo Ra Tim Bum.png" group-title="Seriados",TV Rá Tim Bum
+rtmp://66.90.111.50/ctv playpath=castelo swfUrl=http://www.canaistv.net/swf/player.swf live=1 pageUrl=http://canaistv.net/tvamigos/castelo.html
+
+#EXTINF:-1 tvg-id="Zoomoo" tvg-logo="Zoomoo.png" group-title="Infantil",Zoo Moo [COLOR red][OFF][/COLOR]
+rtmp
+
+#=========================================VARIEDADES
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Variedades",[COLOR green]» » Variedades « «[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1 tvg-logo="h2.png" group-title="Variedades" , H2
+rtmp://50.7.78.138:443/live?VgkPBeDigTalLHRw8zmsWgo6hD38JE9f playpath=live_all_yordi_channel  swfUrl=http://vaughnlive.tv/4255321362/swf/VaughnSoftPlayer.swf  pageUrl=http://vaughnlive.tv/embed/video/all_yordi_channel?viewers=true&watermark=left&autoplay=true
+
+#EXTINF:-1 tvg-logo="A Fazenda.png" group-title="Variedades" , A Fazenda 7
+http://cdn-edge01.livestreamcast.org:8081/liveorigin/r7-fazenda7/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AE Mundo" tvg-logo="AE Mundo.png" group-title="Variedades",A&E Mundo
+rtmp://109.200.202.124/live playpath=ae_1 swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://tv-msn.com/ae.html
+
+#EXTINF:-1 tvg-id="Fox Life" tvg-logo="FOX LIFE.png" group-title="Variedades",Fox Life [COLOR red][OFF][/COLOR]
+rtmp://12445055.cast247.tv:443/live playpath=foxlife7843?ticket=2422cd804c4cb0bf375bbc0fdc572697 swfUrl=http://www.cast247.tv/swf/player.swf pageUrl=http://www.cast247.tv/embed.php?channel=foxlife7843&width=635&height=400&domain=www.meocanaltv.com
+
+#EXTINF:-1 tvg-id="GNT" tvg-logo="GNT.png" group-title="Variedades",GNT
+rtmp://31.204.128.76:1935/live/ playpath=132 swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://www.cdnbr.biz/mastertv/GNT.html
+
+#EXTINF:-1 tvg-id="Multishow" tvg-logo="MultiShow.png" group-title="Variedades",MultiShow
+rtmp://31.204.128.74/live/ playpath=brlive_0031 swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://www.cdnbr.biz/mastertv/Multishow.html
+
+#EXTINF:-1 tvg-id="MTV Brasil" tvg-logo="MTV Brasil.png" group-title="Variedades", MTV Brasil
+rtmp://109.200.202.124:1935/live playpath=hbohd swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://tv-msn.com/mtv.html
+
+#EXTINF:-1 tvg-id="Viva" tvg-logo="Viva.png" group-title="Variedades",Viva
+rtmp://31.204.128.73/live/ playpath=master21 swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://www.cdnbr.biz/mastertv/Viva.html
+
+#EXTINF:-1  tvg-logo="Chef TV.png" group-title="Variedades" ,Chef Tv
+rtmp://flashd.localmidia.com.br:1935/cheftv playpath=aovivo swfUrl=http://www.tvonlinegratis.tv/canais/player/universal.swf live=1 pageUrl=http://www.tvonlinegratis.tv/canais/chef-tv.php
+
+#EXTINF:-1 tvg-id="TBS muitodivertido" tvg-logo="TBS.png" group-title="Variedades",Tbs Muito Divertido
+rtmp://91.230.121.156:1935/live playpath=by8t1yzb9 swfUrl=http://www.kingcast.tv/player.swf live=1 pageUrl=http://www.kingcast.tv/embed.php?a=2440&id=&width=468&height=360&autostart=true&strech=
+
+#EXTINF:-1 tvg-id="E! Entertainment" tvg-logo="E! Entertainment.png" group-title="Variedades" ,E! Entertainment
+rtmp://93.174.93.50:443/liveedge/ playpath=canaleTLI swfUrl=http://turbocast.tv/images/player.swf live=1 pageUrl=http://micast.tv/chn2.php?ch=canaleTLI
+
+#EXTINF:-1 tvg-id="i-SAT" tvg-logo="I-Sat.png" group-title="Variedades",i-SAT
+rtmp://199.59.88.39:1935/cam4-cr107 playpath=isat swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://www.cdnbr.biz/mastertv/ISAT.html
+
+#EXTINF:-1 tvg-id="Comedy Central" tvg-logo="COMEDY CENTRAL.png" group-title="Variedades",Comedy Central [COLOR red][OFF][/COLOR]
+rtmp
+
+#EXTINF:-1 tvg-id="Mega TV" tvg-logo="MegaTV.png" group-title="Variedades",Mega TV [COLOR red][OFF][/COLOR]
+rtmp://rtmp.cdn.upx.net.br/00135_4/myStream.sdp
+
+
+
+#======================================================JORNALISMO
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jornalismo",[COLOR green]» » Jornalismo « «[/COLOR]
+pnm
+
+#EXTINF:-1 tvg-id="Globo News" tvg-logo="Globo News.png" group-title="Jornalismo",Globo News 
+http://104.131.182.72:8081/toronto/mglobonews/mpeg.2ts
+
+#EXTINF:-1 tvg-id="Record News" tvg-logo="Record News.png" group-title="Jornalismo",Record News
+rtmp://a1.fabricahost.com.br:1935/redemercosul/redemercosul.flv
+
+#EXTINF:-1 tvg-id="Band News" tvg-logo="Band News.png" group-title="Jornalismo",Band News
+rtmp://93.174.93.50:443/liveedge/ playpath=noticias swfUrl=http://turbocast.tv/images/player.swf live=1 pageUrl=http://micast.tv/br.php?ch=noticias
+
+#EXTINF:0,SKY_NEWS
+mms://live1.wm.skynews.servecast.net/skynews_wmlz_live300k
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Canais Portugal",[COLOR yellow]» » CANAIS DE PORTUGAL « «[/COLOR]
+http://0.0.0.0:1234
+
+#EXTINF:-1 tvg-id="ETV" tvg-logo="ETV" group-title="Portugal", ETV
+rtmp://213.13.26.42/live playpath=etv_direto swfUrl=http://imgs.sapo.pt/sapovideo/swf/flvplayer-sapo.swf?v11 pageUrl=http://tvdesporto.com/economicotv.php
+
+#EXTINF:-1 tvg-id="RTP INTERNACIONAL" tvg-logo="RTP INTERNACIONAL" group-title="Portugal", RTP INTERNACIONAL
+rtmp://ec23.rtp.pt/livetv playpath=2ch120h264 swfUrl=http://programas.rtp.pt/play/player.swf?v2 pageUrl=http://www.rtp.pt/play/direto/rtpinternacional
+
+#EXTINF:-1 tvg-id="RTP MADEIRA" tvg-logo="RTP MADEIRA" group-title="Portugal", RTP MADEIRA
+rtmp://ec23.rtp.pt/livetv playpath=2ch1016h264H14 swfUrl=http://programas.rtp.pt/play/player.swf?v2 pageUrl=http://www.rtp.pt/play/direto/rtpmadeira
+#CANAIS DE PORTUGAL
+
+
+#EXTINF:-1 tvg-id="RTP 1" tvg-logo="RTP1.png" group-title="Canais Portugal",RTP1 (Portugal)
+rtmp://ec21.rtp.pt/livetv playpath=2ch5h264 swfUrl=http://www.rtp.pt/play/player.swf?ch=ttwrs pageUrl=http://www.rtp.pt/play/direto/rtp1#obj_player_prog
+
+#EXTINF:-1 tvg-id="RTP 2" tvg-logo="RTP2.png" group-title="Canais Portugal",RTP2 (Portugal)
+rtmp://ec21.rtp.pt/livetv playpath=2ch3h264 swfUrl=http://www.rtp.pt/play/player.swf?ch=ttwrs pageUrl=http://www.rtp.pt/play/direto/rtp2
+
+
+#======================================================Desenhos 24horas
+
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Jornalismo",[COLOR green]» » Desenhos 24hrs « «[/COLOR]
+pnm
+#EXTINF:-1 tvg-logo="http://goo.gl/c7uMzc" group-title="Desenhos 24Hrs", American Dad
+rtmp://195.154.176.66:8082/american/american/ playpath=american swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://livestreamcast.org/embed.php?c=american&vw=468&vh=380
+#EXTINF:-1 tvg-logo="http://goo.gl/GzGboC" group-title="Desenhos 24Hrs",  A Pequena Sereia
+rtmp://195.154.176.66:8082/pequenasereia/pequenasereia/ playpath=pequenasereia swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://livestreamcast.org/embed.php?c=pequenasereia&vw=468&vh=380
+#EXTINF:-1 tvg-logo="http://goo.gl/Yfk4Xa" group-title="Desenhos 24Hrs", Avatar
+rtmp://195.154.176.66:8082/avatar/avatar/ playpath=avatar swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://livestreamcast.org/embed.php?c=avatar&vw=468&vh=380
+#EXTINF:-1 tvg-logo="http://goo.gl/0Nv0xN"  group-title="Desenhos 24Hrs", Batman
+http://66.90.111.66:1935/ctv/batman/waldo_paes.m3u8
+#EXTINF:-1 tvg-logo="http://goo.gl/aETzOi"  group-title="Desenhos 24Hrs", Ben10
+http://66.90.111.66:1935/ctv/ben10/waldo_paes.m3u8
+#EXTINF:-1 tvg-logo="http://goo.gl/sIBNtc" group-title="Desenhos 24Hrs", Bob Esponja
+http://66.90.111.66:1935/ctv/bob/waldo_paes.m3u8
+#EXTINF:-1 tvg-logo="http://goo.gl/XOKixo" group-title="Desenhos 24Hrs", Cavalo de Fogo
+rtmp://195.154.176.66:8082/cavalodefogo/cavalodefogo/ playpath=cavalodefogo swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://livestreamcast.org/embed.php?c=cavalodefogo&vw=468&vh=380
+#EXTINF:-1 tvg-logo="http://goo.gl/CVlJ53" group-title="Desenhos 24Hrs", Caverna do Dragão
+http://66.90.111.66:1935/ctv/caverna/waldo_paes.m3u8
+#EXTINF:-1 tvg-logo="http://goo.gl/FmdQRv" group-title="Desenhos 24Hrs", Cavaleiros do Zodíaco
+rtmp://66.90.111.50/ctv playpath=cdz swfUrl=http://www.canaistv.net/swf/player.swf pageUrl=http://www.canaistv.net/tvamigos/cdz.html
+#EXTINF:-1  tvg-logo="http://goo.gl/18Q88N" group-title="Desenhos 24Hrs" , Coragem o Cão Covarde
+rtmp://195.154.216.152/coragem/coragem playpath=coragem swfUrl=http://www.tvonlinegratis.tv/player.swf live=1 pageUrl=http://www.tvonlinegratis.tv/parcerias/coragem.php
+#EXTINF:-1  tvg-logo="http://goo.gl/AUTWRs" group-title="Desenhos 24Hrs" ,Debi e Loide
+rtmp://195.154.176.66:8082/debiloide/debiloide/ playpath=debiloide swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://livestreamcast.org/embed.php?c=debiloide&vw=468&vh=380
+#EXTINF:-1  tvg-logo="http://goo.gl/DXayY2" group-title="Desenhos 24Hrs" ,De Volta para o Futuro
+rtmp://195.154.176.66:8082/devoltaparaofuturo/devoltaparaofuturo/ playpath=devoltaparaofuturo swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://livestreamcast.org/embed.php?c=devoltaparaofuturo&vw=468&vh=380
+#EXTINF:-1  tvg-logo="http://goo.gl/CNr5a1" group-title="Desenhos 24Hrs" ,Digimon
+rtmp://195.154.176.66:8082/digimon/digimon/ playpath=digimon swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://livestreamcast.org/embed.php?c=digimon&vw=468&vh=380
+#EXTINF:-1  tvg-logo="http://goo.gl/uCOFiO" group-title="Desenhos 24Hrs" ,Dom Pixote
+rtmp://195.154.176.66:8082/dompixote/dompixote/ playpath=dompixote swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://livestreamcast.org/embed.php?c=dompixote&vw=468&vh=380
+#EXTINF:-1 tvg-logo="http://goo.gl/Amo2YD" group-title="Desenhos 24Hrs", Doug
+http://66.90.111.66:1935/ctv/doug/waldo_paes.m3u8
+#EXTINF:-1  tvg-logo="http://goo.gl/CG6K9w" group-title="Desenhos 24Hrs" ,Ducktales
+rtmp://195.154.176.66:8082/ducktales/ducktales/ playpath=ducktales swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://livestreamcast.org/embed.php?c=ducktales&vw=468&vh=380
+#EXTINF:-1 tvg-logo="http://goo.gl/oCbM76" group-title="Desenhos 24Hrs", Dragon Ball Z
+http://66.90.111.66:1935/ctv/dbz/waldo_paes.m3u8
+#EXTINF:-1 tvg-logo="http://goo.gl/AsVFKo" group-title="Desenhos 24Hrs", Familia da Pesada
+http://66.90.111.66:1935/ctv/_definst_/family/waldo_paes.m3u8
+#EXTINF:-1  tvg-logo="http://goo.gl/Nuuiwv" group-title="Desenhos 24Hrs" ,Familia Dinossauros
+rtmp://extondemand.livestream.com/ondemand playpath=trans/dv15/mogulus-user-files/chtvtfamiliadinosauros/2012/05/12/052e4e4b-977f-4382-9ac8-31613b0074c4 swfUrl=http://player.longtailvideo.com/[[IMPORT]]/cdn.livestream.com/chromelessPlayer/v20/playerapi.swf?jsEnabled=true pageUrl=http://tvonlinegratis.tv/canais/familia-dinossauros.php
+#EXTINF:-1 tvg-logo="http://goo.gl/nlJtay" group-title="Desenhos 24Hrs", Futurama
+http://66.90.111.66:1935/ctv/_definst_/futurama/waldo_paes.m3u8
+#EXTINF:-1 tvg-logo="http://goo.gl/t5FyrT" group-title="Desenhos 24Hrs", Galinha Pintadinha
+http://66.90.111.66:1935/ctv/galinha/waldo_paes.m3u8
+#EXTINF:-1  tvg-logo="http://goo.gl/AoBNMM" group-title="Desenhos 24Hrs" ,Jackie Chan
+rtmp://195.154.176.66:8082/jackchan/jackchan/ playpath=jackchan swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://livestreamcast.org/embed.php?c=jackchan&vw=468&vh=380
+#EXTINF:-1 tvg-logo="http://goo.gl/a7C5BJ" group-title="Desenhos 24Hrs", Jonny Quest
+rtmp://195.154.176.66:8082/jq/jq/ playpath=jq swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://livestreamcast.org/embed.php?c=jq&vw=468&vh=380
+#EXTINF:-1  tvg-logo="http://goo.gl/wOYR1W" group-title="Desenhos 24Hrs" ,Liga da Justiça
+rtmp://85.12.5.8/aovivo playpath=liga swfUrl=http://www.tvonlinegratis.tv/protegido.swf pageUrl=http://www.tvonlinegratis.tv/parcerias/liga-da-justica.php
+#EXTINF:-1  tvg-logo="http://goo.gl/lXehj9" group-title="Desenhos 24Hrs" ,Manda Chuva
+rtmp://195.154.176.66:8082/turmadomandachuva/turmadomandachuva/ playpath=turmadomandachuva swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://livestreamcast.org/embed.php?c=turmadomandachuva&vw=468&vh=380
+#EXTINF:-1 tvg-logo="http://goo.gl/s8BYpa" group-title="Desenhos 24Hrs", Naruto
+http://66.90.111.66:1935/ctv/_definst_/naruto/waldo_paes.m3u8
+#EXTINF:-1  tvg-logo="http://goo.gl/A3czEQ" group-title="Desenhos 24Hrs" , Os Jetsons
+rtmp://extondemand.livestream.com/ondemand playpath=trans/dv15/mogulus-user-files/chosjetsons/2011/12/02/a5fa7a37-b290-4cc8-b451-fa2c940601d3 swfUrl=http://cdn.livestream.com/chromelessPlayer/v20/playerapi.swf?jsEnabled=true pageUrl=http://www.tvonlinebtv.net/streans/jetsons.html
+#EXTINF:-1  tvg-logo="http://goo.gl/JfvvZo" group-title="Desenhos 24Hrs" , Os Flintstones
+rtmp://66.90.111.2/ctv playpath=flinstones swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/flintstones.html
+#EXTINF:-1  tvg-logo="http://goo.gl/ek5oV0" group-title="Desenhos 24Hrs" ,O Máscara
+rtmp://195.154.176.66:8082/omascara/omascara/ playpath=omascara swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://livestreamcast.org/embed.php?c=omascara&vw=468&vh=380
+#EXTINF:-1 tvg-logo="http://goo.gl/Ea7xqC" group-title="Desenhos 24Hrs", Os Padrinhos Magicos
+rtmp://66.90.111.18:1935/ctv playpath=padrinhos swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://www.canaistv.net/tvamigos/padrinhos.html
+#EXTINF:-1 tvg-logo="http://goo.gl/vobuZV" group-title="Desenhos 24Hrs", Os Pinguins de Madagascar
+rtmp://66.90.111.50:1935/ctv playpath=pinguins swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://www.canaistv.net/tvamigos/pinguins.html
+#EXTINF:-1 tvg-logo="http://goo.gl/KZPtPa" group-title="Desenhos 24Hrs", Os Vingadores
+rtmp://195.154.176.66:8082/osvingadores/osvingadores/ playpath=osvingadores swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://livestreamcast.org/embed.php?c=osvingadores&vw=468&vh=380
+#EXTINF:-1 tvg-logo="http://goo.gl/vPhTL9" group-title="Desenhos 24Hrs", Pantera cor de Rosa
+rtmp://195.154.176.66:8082/panteracorderosa/panteracorderosa/ playpath=panteracorderosa swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://livestreamcast.org/embed.php?c=panteracorderosa&vw=468&vh=380
+#EXTINF:-1  tvg-logo="http://goo.gl/JdC0II" group-title="Desenhos 24Hrs" ,Papa-léguas
+rtmp://195.154.176.66:8082/papaleguas/papaleguas/ playpath=papaleguas swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://livestreamcast.org/embed.php?c=papaleguas&vw=468&vh=380
+#EXTINF:-1  tvg-logo="http://goo.gl/jmFaiG" group-title="Desenhos 24Hrs" , Peppa Pig
+rtmp://195.154.222.28/peppapig/peppapig playpath=peppapig swfUrl=http://www.tvonlinegratis.tv/player.swf live=1 pageUrl=http://www.tvonlinegratis.tv/parcerias/peppapig.php
+#EXTINF:-1  tvg-logo="http://goo.gl/w9u3ab" group-title="Desenhos 24Hrs" ,Pernalonga
+rtmp://195.154.176.66:8082/turmadopernalonga/turmadopernalonga/ playpath=turmadopernalonga swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://livestreamcast.org/embed.php?c=turmadopernalonga&vw=468&vh=380
+#EXTINF:-1 tvg-logo="http://goo.gl/1gDmOq" group-title="Desenhos 24Hrs",Pica Pau
+http://66.90.111.66:1935/ctv/_definst_/picapau/waldo_paes.m3u8
+#EXTINF:-1  tvg-logo="http://goo.gl/WsldIy" group-title="Desenhos 24Hrs" ,Pokémon
+rtmp://85.12.5.8/aovivo playpath=pokemonhd swfUrl=http://www.tvonlinegratis.tv/protegido.swf  pageUrl=http://www.tvonlinegratis.tv/parcerias/pokemon.php?pagina
+#EXTINF:-1 tvg-logo="http://goo.gl/ibFMC1" group-title="Desenhos 24Hrs", Popeye
+rtmp://195.154.176.66:8082/popaye/popaye/ playpath=popaye swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://livestreamcast.org/embed.php?c=popaye&vw=468&vh=380
+#EXTINF:-1  tvg-logo="http://goo.gl/vseF6X" group-title="Desenhos 24Hrs" ,Scobby Doo
+rtmp://66.90.111.2:1935/ctv playpath=scooby swfUrl=http://www.carolineoliveira.com.br/swf/player.swf live=1 pageUrl=http://www.canaistv.net/tvamigos/scooby.html
+#EXTINF:-1 tvg-logo="http://goo.gl/gzslc2" group-title="Desenhos 24Hrs",Simpsons
+rtmp://66.90.111.18/ctv playpath=simpsons swfUrl=http://www.canaistv.net/swf/player.swf pageUrl=http://www.canaistv.net/tvamigos/simpsons.html
+#EXTINF:-1 tvg-logo="http://goo.gl/ej6kHr" group-title="Desenhos 24Hrs", She-ra
+rtmp://195.154.176.66:8082/shera/shera/ playpath=shera swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://livestreamcast.org/embed.php?c=shera&vw=468&vh=380
+#EXTINF:-1  tvg-logo="http://goo.gl/3iggup" group-title="Desenhos 24Hrs" ,South Park
+rtmp://66.90.111.50/ctv playpath=southpark swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/southpark.html
+#EXTINF:-1  tvg-logo="http://goo.gl/u9iLD7" group-title="Desenhos 24Hrs",Ursinhos Carinhosos
+rtmp://195.154.176.66:8082/ursinhoscarinhosos/ursinhoscarinhosos/ playpath=ursinhoscarinhosos swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://livestreamcast.org/embed.php?c=ursinhoscarinhosos&vw=468&vh=380
+#EXTINF:-1 tvg-logo="http://goo.gl/Jmx6Ml" group-title="Desenhos 24Hrs", Thundercats Clássico
+rtmp://195.154.222.28/thundercats/thundercats/thundercats playpath=thundercats swfUrl=http://www.tvonlinegratis.tv/player.swf pageUrl=http://www.tvonlinegratis.tv/embeds.php?c=thundercats&amp;vw=600&amp;vh=400 live=1
+#EXTINF:-1 tvg-logo="http://goo.gl/EAESq6" group-title="Desenhos 24Hrs", Transformers
+rtmp://195.154.176.66:8082/transformers/transformers/ playpath=transformers swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://livestreamcast.org/embed.php?c=transformers&vw=468&vh=380
+#EXTINF:-1 tvg-logo="http://goo.gl/JBkQFa" group-title="Desenhos 24Hrs", Tom e Jerry
+http://66.90.111.66:1935/ctv/tom/waldo_paes.m3u8
+#EXTINF:-1 tvg-logo="http://goo.gl/bnRIz8" group-title="Desenhos 24Hrs", X-Men
+rtmp://195.154.176.66:8082/xmen/xmen/ playpath=xmen swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://livestreamcast.org/embed.php?c=xmen&vw=468&vh=380
+#EXTINF:-1 tvg-logo="http://goo.gl/tMqNOj" group-title="Desenhos 24Hrs", Yu-Gi-Oh
+rtmp://195.154.176.66:8082/yugi/yugi/ playpath=yugi swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf live=1 pageUrl=http://livestreamcast.org/embed.php?c=yugi&vw=468&vh=380
+
+
+#EXTINF:-1,[COLOR green][/COLOR]
+#EXTINF:-1, [COLOR green] » » Créditos para Marcelo junior« «[/COLOR]
+http://0.0.0.0:1234
