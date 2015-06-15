@@ -1,0 +1,98 @@
+﻿#EXTINF:-1 tvg-name="Musicas-MTV Rocks" tvg-logo="MTVr.jpg" group-title="Musicas" , MTVr.jpg
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVROCKS/variant.m3u8?jonasiptv
+#EXTINF:-1 tvg-name="Musicas-Vevo 1 HD" tvg-logo="vevo.jpg" group-title="Musicas" , vevo.jpg
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/02/prog_index.m3u8?jonasiptv
+#EXTINF:-1 tvg-name="Musicas-Vevo 1 HD" tvg-logo="vevo.jpg" group-title="Musicas" , vevo.jpg
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+#EXTINF:-1 tvg-name="Musicas-Vevo 2 HD" tvg-logo="vevo.jpg" group-title="Musicas" , vevo.jpg
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+#EXTINF:-1 tvg-name="Musicas-Vevo 3 HD" tvg-logo="vevo.jpg" group-title="Musicas" , vevo.jpg
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+#EXTINF:-1 tvg-name="BRASIL:VEVO HD" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/appleman.m3u8
+#EXTINF:-1 tvg-name="MTV Dance" tvg-logo="MUSIC/MTV_DANCE.png" group-title="GRUPO" , MTV Dance
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVDANCE/variant.m3u8?b?b*t$
+#EXTINF:-1 tvg-name="MTV Hits" tvg-logo="MUSIC/MTV_Hits.png" group-title="GRUPO" , MTV Hits
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVHITS/variant.m3u8?b?b*t$
+#EXTINF:-1 tvg-name="MUSICBOX" tvg-logo="logo.png" group-title="GRUPO" , MUSICBOX
+http://hls.novotelecom.ru/streaming/musboxtv/tvrec/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Fox Sports" tvg-logo="http://logos.iptvglobal.com.br/Fox%20Sport.jpg" group-title="Esportes" , Fox Sports
+http://192.241.161.223/_vision_/globoam/chunks.m3u8
+#EXTINF:-1 tvg-name="SPORTV" tvg-logo="http://logos.iptvglobal.com.br/SporTV.jpg" group-title="Esportes" , http://logos.iptvglobal.com.br/SporTV.jpg
+http://62.210.89.38:1935/liverepeat/201020/live.m3u8
+#EXTINF:-1 tvg-name="BAND SPORTS" tvg-logo="logo.png" group-title="Esportes" , logo.png
+http://evp.mm.uol.com.br:1935/geob_terraviva//operadoras/playlist.m3u8?Grupo_UP_e_DOWN
+#EXTINF:-1 tvg-name="CANAL DE TV 1" tvg-logo="logo.png" group-title="Esportes" , logo.png
+http://62.210.89.38:1935/liverepeat/ctv0001/live.m3u8
+#EXTINF:-1 tvg-name="CANAL DE TV 2" tvg-logo="logo.png" group-title="Esportes" , logo.png
+http://62.210.89.38:1935/liverepeat/ctv0002/live.m3u8
+#EXTINF:-1 tvg-name="CANAL DE TV 4" tvg-logo="logo.png" group-title="Esportes" , logo.png
+http://62.210.89.38:1935/liverepeat/ctv0009/live.m3u8
+#EXTINF:-1 tvg-name="CANAL DE TV 5" tvg-logo="logo.png" group-title="Esportes" , logo.png
+http://62.210.89.38:1935/liverepeat/ctv0010/live.m3u8
+#EXTINF:-1 tvg-name="FUT - 01" tvg-logo="logo.png" group-title="Esportes" , logo.png
+http://62.210.88.208:1935/liverepeat/fut01/playlist.m3u8
+#EXTINF:-1 tvg-name="FUT - 02" tvg-logo="logo.png" group-title="Esportes" , logo.png
+http://62.210.88.208:1935/liverepeat/fut02/playlist.m3u8
+#EXTINF:-1 tvg-name="FUT - 03" tvg-logo="logo.png" group-title="Esportes" , logo.png
+http://62.210.88.208:1935/liverepeat/fut12/playlist.m3u8
+#EXTINF:-1 tvg-name="FUT - 04" tvg-logo="logo.png" group-title="Esportes" , logo.png
+http://62.210.88.208:1935/liverepeat/fut1022842/playlist.m3u8
+#EXTINF:-1 tvg-name="FUT - 05" tvg-logo="logo.png" group-title="Esportes" , logo.png
+http://62.210.83.152:1935/liverepeat/201020/playlist.m3u8
+#EXTINF:-1 tvg-name="FUT - 06" tvg-logo="logo.png" group-title="Esportes" , logo.png
+http://62.210.88.208:1935/liverepeat/fut06/playlist.m3u8
+#EXTINF:-1 tvg-name="FUT - 07" tvg-logo="logo.png" group-title="Esportes" , logo.png
+http://62.210.88.208:1935/liverepeat/fut07/playlist.m3u8
+#EXTINF:-1 tvg-name="FUT - 08" tvg-logo="logo.png" group-title="Esportes" , logo.png
+http://62.210.88.208:1935/liverepeat/fut09/playlist.m3u8
+#EXTINF:-1 tvg-name="PFC 3 (PFC EM DIAS DE JOGOS)" tvg-logo="logo.png" group-title="Esportes" , logo.png
+http://62.210.89.38:1935/liverepeat/fut05/live.m3u8
+#EXTINF:-1 tvg-name="PFC 5 (PFC EM DIAS DE JOGOS)" tvg-logo="logo.png" group-title="Esportes" , logo.png
+http://62.210.89.38:1935/liverepeat/fut07/live.m3u8
+#EXTINF:-1 tvg-name="PFC 6 (PFC EM DIAS DE JOGOS)" tvg-logo="logo.png" group-title="Esportes" , logo.png
+http://62.210.89.38:1935/liverepeat/fut09/live.m3u8
+#EXTINF:-1 tvg-name="PFC 7 (PFC EM DIAS DE JOGOS)" tvg-logo="logo.png" group-title="Esportes" , logo.png
+http://62.210.89.38:1935/liverepeat/fut1022842/live.m3u8
+#EXTINF:-1 tvg-name="PFC 8 (PFC EM DIAS DE JOGOS)" tvg-logo="logo.png" group-title="Esportes" , logo.png
+http://62.210.89.38:1935/liverepeat/fut1123402/live.m3u8
+#EXTINF:-1 tvg-name="PFC 9 (PFC EM DIAS DE JOGOS)" tvg-logo="logo.png" group-title="Esportes" , logo.png
+http://62.210.89.38:1935/liverepeat/fut12/live.m3u8
+#EXTINF:-1 tvg-name="Sportv 2" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+http://62.210.83.180:1935/liverepeat/201020/live.m3u8
+#EXTINF:-1 tvg-name="ARENA SPORT (IND)" tvg-logo="arena_ind.png" group-title="GRUPO" , arena_ind.png
+http://118.97.167.19/jhos/arena//Playlist.m3u8
+
+
+#EXTINF:-1 tvg-name="Comedy Central" tvg-logo="logo.png" group-title="GRUPO" , Comedy Central
+http://62.210.89.38:1935/liverepeat/comedy913/comedy913/live.m3u8
+
+
+#EXTINF:-1 tvg-name="PRAIA CARCAVELOS - WEBCAM" tvg-logo="logo.png" group-title="WebCam" , logo.png
+http://213.13.26.7:1936/live/carcavelos.stream/livestream.m3u8
+#EXTINF:-1 tvg-name="PRAIA COSTA DA CAPARICA" tvg-logo="logo.png" group-title="WebCam" , logo.png
+http://213.13.26.7:1936/live/costa.stream/livestream.m3u8
+#EXTINF:-1 tvg-name="PRAIA DA ERICEIRA - WEBCAM" tvg-logo="logo.png" group-title="WebCam" , logo.png
+http://213.13.26.7:1936/live/ericeira.stream/livestream.m3u8
+#EXTINF:-1 tvg-name="PRAIA DA LUZ - WEBCAM" tvg-logo="logo.png" group-title="WebCam" , logo.png
+http://213.13.26.7:1936/live/luz.stream/livestream.m3u8
+#EXTINF:-1 tvg-name="PRAIA DE AVEIRO - WEBCAM" tvg-logo="logo.png" group-title="WebCam" , logo.png
+http://213.13.26.7:1936/live/aveiro.stream/livestream.m3u8
+#EXTINF:-1 tvg-name="PRAIA DE ESPINHO - WEBCAM" tvg-logo="logo.png" group-title="WebCam" , logo.png
+http://213.13.26.7:1936/live/espinho.stream/livestream.m3u8
+#EXTINF:-1 tvg-name="PRAIA DE PENICHE - WEBCAM" tvg-logo="logo.png" group-title="WebCam" , logo.png
+http://213.13.26.7:1936/live/peniche.stream/livestream.m3u8
+#EXTINF:-1 tvg-name="PRAIA DE Sц┐O TORPES - WEBCAM" tvg-logo="logo.png" group-title="WebCam" , logo.png
+http://213.13.26.7:1936/live/saotorpes.stream/livestream.m3u8
+#EXTINF:-1 tvg-name="PRAIA DO NORTE - WEBCAM" tvg-logo="logo.png" group-title="WebCam" , logo.png
+http://213.13.26.7:1936/live/norte.stream/livestream.m3u8
+#EXTINF:-1 tvg-name="PRAIA GRANDE - WEBCAM" tvg-logo="logo.png" group-title="WebCam" , logo.png
+http://213.13.26.7:1936/live/grande.stream/livestream.m3u8
+#EXTINF:-1 tvg-name="PRAIA MATOSINHOS - WEBCAM" tvg-logo="logo.png" group-title="WebCam" , logo.png
+http://213.13.26.7:1936/live/matosinhos.stream/livestream.m3u8
+#EXTINF:-1 tvg-name="PRAIA SAO PEDRO E BAFUREIRA" tvg-logo="logo.png" group-title="WebCam" , logo.png
+http://213.13.26.7:1936/live/saopedro.stream/livestream.m3u8
+#EXTINF:-1 tvg-name="PRAIA SUPER TUBOS - WEBCAM" tvg-logo="logo.png" group-title="WebCam" , logo.png
+http://213.13.26.7:1936/live/supertubos.stream/livestream.m3u8
+

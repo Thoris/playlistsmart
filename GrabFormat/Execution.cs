@@ -109,7 +109,12 @@ namespace GrabFormat
                 
                 for (int l = newEntries.Count - 1; l >= 0; l--)
                 {
-                    if (newEntries[l].IsValid() && newEntries[l].IsGroupValid() && newEntries[l].IsAliasValid())
+                    if (newEntries[l].IsLinkValid() && newEntries[l].IsGroupValid())
+
+
+
+                    if (newEntries[l].IsValid() && newEntries[l].IsGroupValid() && newEntries[l].IsAliasValid() 
+                        && newEntries[l].IsAliasStartWithValid() && newEntries[l].IsLinkValid())
                     {
                         int posEntry = IsExists(entries, newEntries[l]);
 
@@ -156,6 +161,10 @@ namespace GrabFormat
             }
 
             entries = OrderByGroup(groups);
+
+
+            AddFavorites(entries);
+
 
             return entries;
         
@@ -312,6 +321,18 @@ namespace GrabFormat
         
         }
 
+        public void AddFavorites(IList<Entry> list)
+        {
+            IList<Entry> fav = ReadFile(".\\favorites.txt");
+
+
+            for (int c = fav.Count - 1; c >= 0; c--)
+            {
+                list.Insert(0, fav[c]);
+            }
+
+
+        }
 
         #endregion
 
@@ -553,15 +574,22 @@ namespace GrabFormat
                 else
                     result += " " + KeyLogo + "=\"" + "logo.png" + "\"";
 
+                string grupo = "";
                 if (!string.IsNullOrEmpty(this.Group))
+                {
                     result += " " + KeyGroup + "=\"" + this.Group + "\"";
+                    grupo = this.Group + "-";
+                }
                 else
                     result += " " + KeyGroup + "=\"" + "GRUPO" + "\"";
 
+                
+
+
                 if (!string.IsNullOrEmpty(this.Alias))
-                    result += ", " + this.Alias + "";
+                    result += ", " +  grupo + this.Alias + "";
                 else
-                    result += ", " + "Alias" + "";
+                    result += ", " + grupo + "Alias" + "";
                 result += "\r\n";
 
                 result += this.Link;
@@ -607,16 +635,20 @@ namespace GrabFormat
                     "American Horror Story","CDZ THE LOST CANVAS","CDZ ALMA DE OURO","OS CAVALEIROS DO ZODÍACO",
                     "CANAIS DE TV DO MÉXICO","Canais Portugal","Filmes e S�ries","Documentries",
                     "MAIORES","UK Radio","TV REGIONAL","TODOS CANAIS TV","Novotelecom",
+                   
+                    "Karate Kid", "Astroboy", "Os Novos Cacafantasmas", "A Feiticeira","CRASH",
+                    "VIP", "Leverage","Missing Persons Unit", "A Ilha da Fantasia", 
+                  
 
 
-
-                    "ESPORTES INTERNACIONAS","BOXE INTERNACIONAL", "INTERNATIONAL SPORTS","ESPORTES ESTRANGEIROS",
+                    //"ESPORTES INTERNACIONAS","BOXE INTERNACIONAL", "INTERNATIONAL SPORTS","ESPORTES ESTRANGEIROS",
                     
                     //"FILMES RECEM ADICIONADOS",
                     //"Mélo Filmes", "Filmes HD", "FILMES ON DEMAND","Esportes internacionais",
                     //"SHOWS/DVD/CLIPES","FILMES ONLINE", "Filmes"
                     
                 };
+
 
                 //string[] groupsNotValid2 = new[]{
                 //    "ARROW", "DEMOLIDOR", "KINGDOM", "PERSON OF INTEREST", "SMALLVILLE",
@@ -668,7 +700,11 @@ namespace GrabFormat
                     "qtvchv ","RADYO","RADIO","RÁDIO", "Россия", "Traxx ",
                     "Tring ","Taiwan","Syria","Spain","Russian","RUS-NTV",
                     "Polska","AlHayat","Alwatan","Argentina","Baghdad",
-                    "Beur FM","Dominik-"
+                    "Beur FM","Dominik-",".flv","(Israel)","**CANAIS DO BRASIL**",
+                    "_فيلم_HIV_اتش_اي_في_","_القشاش_مصري_اكشن_2014","فيلم_عمر_وسلوى_",
+                    "_واحد_صعيدي_كوميدي_اج","عمتي_فيلم_مصري_ك","Dhabi","ACZEN",
+                    "AKSARAY","AKŞEHİR","Albanian","Albadawiyahtv","Alouette","ANNAHAR",
+                    "(Afghanistan)","(Korea)"," FM", "FM ", "Russia", "Rusya"
                     
 
                 };
@@ -683,6 +719,40 @@ namespace GrabFormat
 
                 return true;
             }
+            public bool IsLinkValid()
+            {
+                string[] linkNotValid = new[]{
+                    ".flv",
+
+                };
+
+                string alias = this.Link;
+
+                for (int c = 0; c < linkNotValid.Length; c++)
+                {
+                    if (alias.ToUpper().IndexOf (linkNotValid[c].ToUpper()) != -1)
+                        return false;
+                }
+
+                return true;
+            }
+            public bool IsAliasStartWithValid()
+            {
+                string[] aliasNotValid = new[]{
+                    "AL_", "AL "
+
+                };
+
+                string alias = this.Alias;
+
+                for (int c = 0; c < aliasNotValid.Length; c++)
+                {
+                    if (alias.ToUpper().StartsWith(aliasNotValid[c].ToUpper()))
+                        return false;
+                }
+
+                return true;
+            } 
             private bool IsPrefixValid()
             {
                 string[] formats = new[] { "http", "https" };

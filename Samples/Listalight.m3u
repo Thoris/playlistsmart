@@ -1,0 +1,423 @@
+#EXTM3U
+######################################################################################################################## BY FB.COM/MARCOTULIOJS
+#EXTINF:-1 tvg-logo="INFO.jpg" tvg-logo="http://douglasduffor.com.br/INFO.jpg" group-title="Creditos", Creditos:
+http://bit.ly/IPTVBrasilCine
+#EXTINF:-1 tvg-logo="logoiptvbr.jpg" tvg-logo="http://douglasduffor.com.br/logoiptvbr.jpg" group-title="Creditos", IPTV Brasil
+http://bit.ly/IPTVBrasilCine
+#EXTINF:-1 tvg-logo="face.jpg" tvg-logo="http://douglasduffor.com.br/face.jpg" group-title="Creditos", Fb.com/canaisiptvbrasil
+http://bit.ly/IPTVBrasilCine
+#EXTINF:-1 tvg-logo="face.jpg" tvg-logo="http://douglasduffor.com.br/face.jpg" group-title="Creditos", Fb.com/marcotuliojs
+
+#EXTINF:-1 tvg-id="itpvbrasil - AeE" tvg-logo="ae.jpg" tvg-logo="http://douglasduffor.com.br/ae.jpg" group-title="VARIEDADES", A&E
+rtmp://109.200.202.124/live playpath=ae_1 swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://tv-msn.com/ae.html token=8afdbb2c24e3fefb
+
+#EXTINF:-1 tvg-id="itpvbrasil - AMC" tvg-logo="AMCC.jpg" tvg-logo="http://douglasduffor.com.br/AMCC.jpg" group-title="VARIEDADE, AMC
+rtmp://109.200.202.124/live playpath=mgm swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://tv-msn.com/mgm.html token=8afdbb2c24e3fefb
+ 
+#EXTINF:-1 tvg-id="itpvbrasil - Animal Planet" tvg-logo="animalplanet.jpg" tvg-logo="http://douglasduffor.com.br/animalplanet.jpg" group-title="DOCUMENTARIOS", Animal Planet
+rtmp://31.204.151.253/live playpath=30 swfUrl=http://www.brshare.info/goto/player-protegido.swf pageUrl=http://www.brshare.info/url/dedicado.php?itc=30&lar=660&alt=380 token=8afdbb2c24e3fefb
+
+#EXTINF:-1 tvg-id="itpvbrasil - AXN" tvg-logo="axn.jpg" tvg-logo="http://douglasduffor.com.br/axn.jpg" group-title="VARIEDADES", AXN
+rtmp://31.204.151.253/live playpath=master52 swfUrl=http://www.brshare.info/goto/player-protegido.swf pageUrl=http://www.brshare.info/url/dedicado.php?itc=master52&lar=660&alt=380 token=8afdbb2c24e3fefb
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="black.jpg" tvg-logo="http://douglasduffor.com.br/black.jpg" group-title="VARIEDADES", AXN Black
+rtmp://94.102.49.104/stream playpath=axnblackuu?id=8151 swfUrl=http://www.liveflashplayer.net/resources/scripts/fplayer.swf pageUrl=http://www.liveflashplayer.net/embedplayer/axnblackuu/1/480/380 token=8afdbb2c24e3fefb
+
+#EXTINF:-1 tvg-id="itpvbrasil - Baby TV" tvg-logo="baby.jpg" tvg-logo="http://douglasduffor.com.br/baby.jpg" group-title="INFANTIS", Baby TV
+rtmp://199.59.88.39/cam4-cr107 playpath=131 swfUrl=http://www.brshare.info/goto/player5.swf pageUrl=http://www.brshare.info/url/c4.php?itc=131&lar=660&alt=380 token=8afdbb2c24e3fefb
+
+#EXTINF:-1 tvg-id="itpvbrasil - Band" tvg-logo="band.jpg" tvg-logo="http://douglasduffor.com.br/band.jpg" group-title="TV ABERTA", Band SP
+rtmp://109.200.202.126/livepkgr/band
+
+#EXTINF:-1 tvg-id="itpvbrasil - Band" tvg-logo="band.jpg" tvg-logo="http://douglasduffor.com.br/band.jpg" group-title="TV ABERTA", Band HD
+rtmp://199.217.118.218:1935/TarobaCascavel/ playpath=TarobaCascavel swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf pageUrl=http://livestreamcast.org/embed.php?c=band1111taroba3335a&vw=100%&vh=100%
+
+#EXTINF:-1 tvg-id="itpvbrasil - Band" tvg-logo="band.jpg" tvg-logo="http://douglasduffor.com.br/band.jpg" group-title="TV ABERTA", Band HD
+http://mistreaming.com.br:8081/TarobaCascavel/TarobaCascavel/playlist.m3u8
+
+#EXTINF:-1 tvg-id="itpvbrasil - Band" tvg-logo="band.jpg" tvg-logo="http://douglasduffor.com.br/band.jpg" group-title="TV ABERTA", Band CE
+rtmp://187.18.187.5/livepkgr/tvjangadeiro3.flv live=1
+
+#EXTINF:-1 tvg-id="itpvbrasil - Band Sports" tvg-logo="bands.jpg" tvg-logo="http://douglasduffor.com.br/bands.jpg" group-title="ESPORTES", Band Sports SD
+rtmp://r.livecast.cc/rl/ playpath=bob04sd swfUrl=http://livecast.cc/live/player.swf live=1 pageUrl=http://livecast.cc/live/stream23.php
+
+#EXTINF:-1 tvg-id="itpvbrasil - Band Sports" tvg-logo="bands.jpg" tvg-logo="http://douglasduffor.com.br/bands.jpg" group-title="ESPORTES", Band Sports HD
+http://evp.mm.uol.com.br:1935/geob_terraviva/operadoras/live.m3u8
+
+#EXTINF:-1 tvg-id="itpvbrasil - Boomerang" tvg-logo="boomerang.jpg" tvg-logo="http://douglasduffor.com.br/boomerang.jpg" group-title="INFANTIS", Boomerang
+rtmp://199.59.88.39/cam4-cr107 playpath=79 swfUrl=http://www.brshare.info/goto/player5.swf pageUrl=http://www.brshare.info/url/c4.php?itc=79&lar=660&alt=380 token=8afdbb2c24e3fefb
+
+#EXTINF:-1 tvg-logo="BHNews.jpg" tvg-logo="http://douglasduffor.com.br/BHNews.jpg" group-title="NOTICIAS", BH News HD
+rtmp://origin.z1on.com:1935/3125/_definst_/3125-hotmedia.sdp
+
+#EXTINF:-1 tvg-id="itpvbrasil - Canal Brasil" tvg-logo="CanalBRasil.png" tvg-logo="http://douglasduffor.com.br/CanalBRasil.png" group-title="VARIEDADES", Canal Brasil 
+rtmp://live.livestreamcast.org/live/canalbrasil/ playpath=canalbrasil swfUrl=http://direct-stream.biz/jwplayer/jwplayer.flash.swf pageUrl=http://direct-stream.biz/embedFrame.php?c=canalbrasil&vw=468&vh=360
+
+#EXTINF:-1 tvg-id="itpvbrasil - Canção Nova Canal 51 UHF" tvg-logo="CnoVA.jpg" tvg-logo="http://douglasduffor.com.br/CnoVA.jpg" group-title="RELIGIOSOS", Cancao Nova HD
+http://cnhls-lh.akamaihd.net/i/cnhls_1@147036/master.m3u8?
+
+#EXTINF:-1 tvg-id="itpvbrasil - Cartoon Network" tvg-logo="cartoon.jpg" tvg-logo="http://douglasduffor.com.br/cartoon.jpg" group-title="INFANTIS", Cartoon Network
+rtmp://31.204.151.253/live playpath=brlive_0028 swfUrl=http://www.brshare.info/goto/player-protegido.swf pageUrl=http://www.brshare.info/url/dedicado.php?itc=brlive_0028&lar=660&alt=380 token=8afdbb2c24e3fefb
+
+#EXTINF:-1 tvg-id="itpvbrasil - TV Cultura" tvg-logo="cultura.jpg" tvg-logo="http://douglasduffor.com.br/cultura.jpg" group-title="TV ABERTA", Cultura HD
+rtmp://200.136.27.12/livepkgr/ playpath=tvcultura4 swfUrl=http://www.tvonline.org/p.swf pageUrl=http://www.hipertela.com/search/label/Cultura
+ 
+#EXTINF:-1 tvg-id="itpvbrasil - TV Cultura" tvg-logo="cultura.jpg" tvg-logo="http://douglasduffor.com.br/cultura.jpg" group-title="TV ABERTA", Cultura
+http://200.189.113.201/hls/tve.m3u8
+#EXTINF:-1 tvg-logo="chefe.jpg" tvg-logo="http://douglasduffor.com.br/chefe.jpg" group-title="VARIEDADES", Chef TV
+rtmp://flashd.localmidia.com.br/cheftv playpath=aovivo swfUrl=http://www.tvonline.org/p.swf pageUrl=http://www.hipertela.com/search/label/Chef TV token=8afdbb2c24e3fefb
+
+#EXTINF:-1 tvg-id="itpvbrasil - Cinemax" tvg-logo="cinemax.jpg" tvg-logo="http://douglasduffor.com.br/cinemax.jpg" group-title="HBO/Max", Cinemax
+rtmp://31.204.128.140/live/ playpath=53 swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://www.cdnbr.biz/mastertv/Cinemax.html token=8afdbb2c24e3fefb
+
+#EXTINF:-1 tvg-id="itpvbrasil - Premiere Combate" tvg-logo="combate.jpg" tvg-logo="http://douglasduffor.com.br/combate.jpg" group-title="ESPORTES", Combate (OP1)
+rtmp://r.livecast.cc/rl/ playpath=bob10sd swfUrl=http://livecast.cc/live/player.swf pageUrl=http://livecast.cc/live/stream22.php
+
+#EXTINF:-1 tvg-id="itpvbrasil - Premiere Combate" tvg-logo="combate.jpg" tvg-logo="http://douglasduffor.com.br/combate.jpg" group-title="ESPORTES", Combate (OP2)
+rtmp://76.73.108.33/livepkgr playpath=combate swfUrl=http://livestreamtv.biz/swfs/player.swf pageUrl=http://livestreamtv.biz/33.php?file=combate&width=480&height=380 token=8afdbb2c24e3fefb
+
+#EXTINF:-1 tvg-id="itpvbrasil - Premiere Combate" tvg-logo="combate.jpg" tvg-logo="http://douglasduffor.com.br/combate.jpg" group-title="ESPORTES", Combate (OP3)
+rtmp://l.mybeststream.xyz/r/ playpath=ch003435 http://mybeststream.xyz/279da59cb3bf7b16eff5fbcb7035e784/player1.swf? live=1 pageUrl=http://mybeststream.xyz/?id=19942&width=468&height=380 token=8afdbb2c24e3fefb
+
+#EXTINF:-1 tvg-id="itpvbrasil - Comedy Central" tvg-logo="comedy.jpg" tvg-logo="http://douglasduffor.com.br/comedy.jpg" group-title="VARIEDADES", Comedy Central
+http://62.210.89.38:1935/liverepeat/comedy913/comedy913/live.m3u8
+
+#EXTINF:-1 tvg-logo="cine.jpg" tvg-logo="http://douglasduffor.com.br/cine.jpg" group-title="FILMES", Cine Sky
+rtmp://208.53.180.242/ctv playpath=filmes swfUrl=http://www.carolineoliveira.com.br/swf/player.swf pageUrl=http://carolineoliveira.com.br/tvamigos/filmes.html token=8afdbb2c24e3fefb
+
+#EXTINF:-1 tvg-id="itpvbrasil - Discovery" tvg-logo="dis.jpg" tvg-logo="http://douglasduffor.com.br/dis.jpg" group-title="DOCUMENTARIOS", Discovery Channel
+rtmp://r.livecast.cc/rl/ playpath=flash14sd swfurl=http://livecast.cc/live/player.swf live=1 pageUrl=http://livecast.cc/live/stream30.php
+
+#EXTINF:-1 tvg-id="itpvbrasil - Discovery" tvg-logo="dis.jpg" tvg-logo="http://douglasduffor.com.br/dis.jpg" group-title="DOCUMENTARIOS", Discovery Channel
+rtmp://31.204.151.253/live playpath=master04 swfUrl=http://www.brshare.info/goto/player-protegido.swf pageUrl=http://www.brshare.info/url/dedicado.php?itc=master04&lar=660&alt=380 token=8afdbb2c24e3fefb
+
+#EXTINF:-1 tvg-id="itpvbrasil - Discovery Kids" tvg-logo="kids.jpg" tvg-logo="http://douglasduffor.com.br/kids.jpg" group-title="INFANTIS", Discovery Kids
+rtmp://31.204.151.253/live playpath=master24 swfUrl=http://www.brshare.info/goto/player-protegido.swf pageUrl=http://www.brshare.info/url/dedicado.php?itc=master24&lar=660&alt=380 token=8afdbb2c24e3fefb
+
+#EXTINF:-1 tvg-id="itpvbrasil - Discovery Home" tvg-logo="hh.jpg" tvg-logo="http://douglasduffor.com.br/hh.jpg" group-title="DOCUMENTARIOS", Discovery Home & Health
+rtmp://109.200.202.124/live playpath=home swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://tv-msn.com/home.html token=8afdbb2c24e3fefb
+
+#EXTINF:-1 tvg-id="itpvbrasil - Discovery Civilization" tvg-logo="civi.jpg" tvg-logo="http://douglasduffor.com.br/civi.jpg" group-title="DOCUMENTARIOS", Discovery Civilization
+rtmp://62.210.83.152:1935/liverepeat/discivil377/ playpath=discivil377 swfUrl=http://direct-stream.biz/jwplayer/jwplayer.flash.swf pageUrl=http://direct-stream.biz/embedFrame.php?c=discivil377&vw=468&vh=360 token=8afdbb2c24e3fefb
+
+#EXTINF:-1 tvg-id="itpvbrasil - Discovery Turbo" tvg-logo="turbo.jpg" tvg-logo="http://douglasduffor.com.br/turbo.jpg" group-title="DOCUMENTARIOS", Discovery Turbo
+rtmp://109.200.202.124/live playpath=turbo swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://tv-msn.com/turbo.html token=8afdbb2c24e3fefb
+
+#EXTINF:-1 tvg-id="itpvbrasil - Disney Channel" tvg-logo="disney.jpg" tvg-logo="http://douglasduffor.com.br/disney.jpg" group-title="INFANTIS", Disney Channel
+rtmp://109.200.202.124/live playpath=disney swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://www.tv-msn.com/disney.html token=8afdbb2c24e3fefb
+
+#EXTINF:-1 tvg-id="itpvbrasil - Disney Jr." tvg-logo="jr.jpg" tvg-logo="http://douglasduffor.com.br/jr.jpg" group-title="INFANTIS", Disney Jr
+rtmp://r.livecast.cc/rl/ playpath=flash42sd swfurl=http://livecast.cc/live/player.swf live=1 pageUrl=http://livecast.cc/live/stream29.php
+
+#EXTINF:-1 tvg-id="itpvbrasil - Disney Jr." tvg-logo="jr.jpg" tvg-logo="http://douglasduffor.com.br/jr.jpg" group-title="INFANTIS", Disney Jr
+rtmp://109.200.202.124/live playpath=animax swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://tv-msn.com/disneyjr.html token=8afdbb2c24e3fefb
+
+#EXTINF:-1 tvg-id="itpvbrasil - Discovery Science" tvg-logo="scid.jpg" tvg-logo="http://douglasduffor.com.br/scid.jpg" group-title="DOCUMENTARIOS", Discovery Science
+rtmp://199.59.88.39/cam4-cr107 playpath=130 swfUrl=http://www.brshare.info/goto/player5.swf pageUrl=http://www.brshare.info/url/c4.php?itc=130&lar=660&alt=380 token=8afdbb2c24e3fefb
+
+#EXTINF:-1 tvg-id="itpvbrasil - Discovery Theater" tvg-logo="dt.jpg" tvg-logo="http://douglasduffor.com.br/dt.jpg" group-title="DOCUMENTARIOS", Discovery Theater
+rtmp://31.204.153.70/live/ playpath=discohd swfUrl=http://www.tv-msn.com/player/player.swf? live=1 pageUrl=http://www.cdnbr.biz/mastertv/Discovery HD.html token=8afdbb2c24e3fefb
+
+#EXTINF:-1 tvg-id="itpvbrasil - Disney XD" tvg-logo="XD.jpg" tvg-logo="http://douglasduffor.com.br/XD.jpg" group-title="INFANTIS", Disney XD
+rtmp://109.200.202.124/live playpath=disneyxd swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://tv-msn.com/disneyxd.html token=8afdbb2c24e3fefb
+
+#EXTINF:-1 tvg-id="itpvbrasil - E! Entertainment" tvg-logo="E.jpg" tvg-logo="http://douglasduffor.com.br/E.jpg" group-title="VARIEDADES", E!(OFF)
+rtmp://95.211.196.39:443/loadbalance?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMS8yMDE1IDk6MjM6NDkgUE0maGFzaF92YWx1ZT1oT0lvdjZGYVA1cUhJVTBpdHNOc09BPT0mdmFsaWRtaW51dGVzPTg=/ playpath=61232968679114869931 swfUrl=http://pxstream.tv/jwplayer.flash.swf pageUrl=http://pxstream.tv/embedrouter.php?file=mesmacoisa&width=468&height=360 token=#ed%h0#w@1
+ 
+#EXTINF:-1 tvg-id="itpvbrasil - ESPN" tvg-logo="espn.jpg" tvg-logo="http://douglasduffor.com.br/espn.jpg" group-title="ESPORTES", ESPN
+rtmp://149.255.37.18:80/pub playpath=pyPGrTEUxm9ULdm2yLIv swfUrl=http://www.castto.me/_.swf pageUrl=http://static.castto.me/embed.php?channel=1531588863&vw=468&vh=360  token=#ed%h0#w@1
+
+#EXTINF:-1 tvg-id="itpvbrasil - ESPN Brasil" tvg-logo="espnbrasil.jpg" tvg-logo="http://douglasduffor.com.br/espnbrasil.jpg" group-title="ESPORTES", ESPN Brasil
+rtmp://r.livecast.cc/rl/ playpath=flash01sd swfurl=http://livecast.cc/live/player.swf live=1 pageUrl=http://livecast.cc/live/stream24.php
+
+#EXTINF:-1 tvg-id="itpvbrasil - ESPN Brasil" tvg-logo="espnbrasil.jpg" tvg-logo="http://douglasduffor.com.br/espnbrasil.jpg" group-title="ESPORTES", ESPN Brasil HD
+rtmp://109.200.202.124/live playpath=2hd swfurl=http://www.tv-msn.com/player/player.swf& pageUrl=http://tv-msn.com/12hd.html live=1 token=8afdbb2c24e3fefb
+
+#EXTINF:-1  tvg-id="itpvbrasil - ESPN HD" tvg-logo="espnplus.jpg" tvg-logo="http://douglasduffor.com.br/espnplus.jpg" group-title="ESPORTES", ESPN +
+rtmp://r.livecast.cc/rl/ playpath=flash03sd swfurl=http://livecast.cc/live/player.swf live=1 pageUrl=http://livecast.cc/live/stream26.php
+
+#EXTINF:-1  tvg-id="itpvbrasil - ESPN HD" tvg-logo="espnplus.jpg" tvg-logo="http://douglasduffor.com.br/espnplus.jpg" group-title="ESPORTES", ESPN +
+rtmp://31.204.151.253/live playpath=master27 swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://www.cdnbr.biz/mastertv/ESPN%20HD.html token=8afdbb2c24e3fefb
+
+#EXTINF:-1 tvg-id="itpvbrasil - Esporte Interativo" tvg-logo="esporteinterativo.jpg" tvg-logo="http://douglasduffor.com.br/esporteinterativo.jpg" group-title="ESPORTES", Esporte Interativo HD
+http://wpc.16654.sigmacdn.net/hls-live/2016654/Evento1/EITV/eitv720.m3u8
+
+#EXTINF:-1 tvg-id="itpvbrasil - Esporte Interativo" tvg-logo="esporteinterativo.jpg" tvg-logo="http://douglasduffor.com.br/esporteinterativo.jpg" group-title="ESPORTES", Esporte Interativo 
+http://eiplus-lh.akamaihd.net/i/eitv6_1@147097/master.m3u8
+
+#EXTINF:-1 tvg-id="itpvbrasil - Esporte Interativo" tvg-logo="esporteinterativoN.jpg" tvg-logo="http://douglasduffor.com.br/esporteinterativoN.jpg" group-title="ESPORTES", Ei Nordeste SD
+rtmp://r.livecast.cc/rl/ playpath=flash48 swfurl=http://livecast.cc/live/player.swf live=1 pageUrl=http://livecast.cc/live/stream8.php
+
+#EXTINF:-1 tvg-id="itpvbrasil - Esporte Interativo" tvg-logo="esporteinterativoN.jpg" tvg-logo="http://douglasduffor.com.br/esporteinterativoN.jpg" group-title="ESPORTES", Ei Nordeste HD
+http://wpc.16654.sigmacdn.net/hls-live/2016654/Evento1/EITV/eine720.m3u8
+
+#EXTINF:-1 tvg-id="itpvbrasil - Fish TV" tvg-logo="fish.jpg" tvg-logo="http://douglasduffor.com.br/fish.jpg" group-title="VARIEDADES", FISH TV
+rtmp://199.59.88.39/cam4-cr107/89
+
+#EXTINF:-1 tvg-id="itpvbrasil - Fox" tvg-logo="fox.jpg" tvg-logo="http://douglasduffor.com.br/fox.jpg" group-title="FILMES", FOX
+rtmp://r.livecast.cc/rl/ playpath=flash29sd swfurl=http://livecast.cc/live/player.swf live=1 pageUrl=http://livecast.cc/live/stream14.php
+
+#EXTINF:-1 tvg-id="itpvbrasil - Fox" tvg-logo="fox.jpg" tvg-logo="http://douglasduffor.com.br/fox.jpg" group-title="FILMES", FOX
+rtmp://31.204.151.253/live playpath=fox swfUrl=http://www.brshare.info/goto/player-protegido.swf pageUrl=http://www.brshare.info/url/dedicado.php?itc=fox&lar=660&alt=380 token=8afdbb2c24e3fefb
+
+#EXTINF:-1 tvg-id="itpvbrasil - Fox Sports" tvg-logo="foxsports.jpg" tvg-logo="http://douglasduffor.com.br/foxsports.jpg" group-title="ESPORTES", Fox Sports
+rtmp://r.livecast.cc/rl/ playpath=flash57sd swfurl=http://livecast.cc/live/player.swf live=1 pageUrl=http://livecast.cc/live/stream3.php
+
+#EXTINF:-1 tvg-id="itpvbrasil - Fox Sports" tvg-logo="foxsports2.jpg" tvg-logo="http://douglasduffor.com.br/foxsports2.jpg" group-title="ESPORTES", FOX Sports 2
+rtmp://l.mybeststream.xyz/r/ playpath=foxsportsbrasil2633 swfUrl=http://mybeststream.xyz/7964038bc99363a958f1876c3e3eb193/player1.swf live=1 pageUrl=http://mybeststream.xyz/?id=23580&width=660&height=380
+
+#EXTINF:-1 tvg-id="itpvbrasil - FX" tvg-logo="FX.jpg" tvg-logo="http://douglasduffor.com.br/FX.jpg" group-title="FILMES", FX
+rtmp://31.204.151.253/live playpath=master25 swfUrl=http://www.brshare.info/goto/player-protegido.swf pageUrl=http://www.brshare.info/url/dedicado.php?itc=master25&lar=660&alt=380 token=8afdbb2c24e3fefb
+
+#EXTINF:-1 tvg-id="itpvbrasil - Gloob" tvg-logo="gloob.jpg" tvg-logo="http://douglasduffor.com.br/gloob.jpg" group-title="INFANTIS", Gloob
+rtmp://31.204.151.253/live playpath=110hd swfUrl=http://www.brshare.info/goto/player-protegido.swf pageUrl=http://www.brshare.info/url/dedicado.php?itc=110hd&lar=660&alt=380 token=8afdbb2c24e3fefb
+
+#EXTINF:-1 tvg-id="itpvbrasil - Globo SP" tvg-logo="globo.jpg" tvg-logo="http://douglasduffor.com.br/globo.jpg" group-title="TV ABERTA", Globo
+rtmp://r.livecast.cc/rl/ playpath=bob15sd& swfurl=http://livecast.cc/live/player.swf live=1 pageUrl=http://livecast.cc/live/stream13.php
+
+#EXTINF:-1 tvg-id="itpvbrasil - Globo SP" tvg-logo="globo.jpg" tvg-logo="http://douglasduffor.com.br/globo.jpg" group-title="TV ABERTA", Globo
+rtmp://62.210.89.38:1935/liverepeat?wmsAuthSign=/ playpath=101010 swfUrl=http://livestreamcast.org/jwplayer/jwplayer.flash.swf pageUrl=http://livestreamcast.org/embeds/1.php?c=bobonews445a&vw=100%&vh=100%
+
+#EXTINF:-1 tvg-id="itpvbrasil - Globo SP" tvg-logo="globo.jpg" tvg-logo="http://douglasduffor.com.br/globo.jpg" group-title="TV ABERTA", Globo RJ
+rtmp://r.livecast.cc/rl/ playpath=bob15sd swfurl=http://livecast.cc/live/player.swf live=1 pageUrl=http://livecast.cc/live/stream13.php
+
+#EXTINF:-1 tvg-id="itpvbrasil - Globo SP" tvg-logo="globo.jpg" tvg-logo="http://douglasduffor.com.br/globo.jpg" group-title="TV ABERTA", Globo SP
+rtmp://62.210.89.38:1935/liverepeat playpath=101010 swfUrl=http://www.streamcasttv.biz/embed/jwplayer/jwplayer.flash.swf pageUrl=http://www.streamcasttv.biz/embed/1c.php?file=nov76600&width=468&height=360tvbobokkk
+
+#EXTINF:-1 tvg-id="itpvbrasil - Globo News" tvg-logo="globo_news.png" tvg-logo="http://douglasduffor.com.br/globo_news.png" group-title="NOTICIAS", Globo News
+rtmp://l.mybeststream.xyz/r/ playpath=noticias147 swfUrl=http://mybeststream.xyz/907273d3aa47a60c2b459570b347515c/player1.swf live=1 pageUrl=http://mybeststream.xyz/?id=24040&width=660&height=380
+
+#EXTINF:-1 tvg-id="itpvbrasil - GNT" tvg-logo="GNT.jpg" tvg-logo="http://douglasduffor.com.br/GNT.jpg" group-title="VARIEDADES", GNT
+rtmp://31.204.128.76/live/ playpath=132 swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://www.cdnbr.biz/mastertv/GNT.html token=8afdbb2c24e3fefb
+
+#EXTINF:-1 tvg-id="itpvbrasil - Glitz" tvg-logo="glitz.jpg" tvg-logo="http://douglasduffor.com.br/glitz.jpg" group-title="VARIEDADES", Glitz
+http://livestream-f.akamaihd.net/5381476_2395418_53c41c38_1_678@141252?v=3.6.0&fp=WIN%2016,0,0,305&r=TXNHL&g=WKMHRHFEEWMI token=8afdbb2c24e3fefb
+
+#EXTINF:-1 tvg-id="itpvbrasil - The History" tvg-logo="historia.jpg" tvg-logo="http://douglasduffor.com.br/historia.jpg" group-title="DOCUMENTARIOS", History
+rtmp://109.200.202.124/live playpath=history swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://tv-msn.com/history.html token=8afdbb2c24e3fefb
+
+#EXTINF:-1 tvg-id="itpvbrasil - The History" tvg-logo="Historyy2.jpg" tvg-logo="http://douglasduffor.com.br/Historyy2.jpg" group-title="DOCUMENTARIOS", History 2
+rtmp://199.59.88.39/cam4-cr107 playpath=112_2 swfUrl=http://www.brshare.info/goto/player5.swf pageUrl=http://www.brshare.info/url/c4.php?itc=112_2&lar=660&alt=380 token=8afdbb2c24e3fefb
+
+#EXTINF:-1 tvg-id="itpvbrasil - HBO" tvg-logo="HBO.jpg" tvg-logo="http://douglasduffor.com.br/HBO.jpg" group-title="HBO/Max", HBO
+rtmp://live.abcast.net/live/verc9439634dc8610f517991f 
+
+#EXTINF:-1 tvg-id="itpvbrasil - HBO 2" tvg-logo="HBO2.jpg" tvg-logo="http://douglasduffor.com.br/HBO2.jpg" group-title="HBO/Max", HBO 2
+rtmp://109.200.202.124/live playpath=hbo2 swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://tv-msn.com/hbo2.html token=8afdbb2c24e3fefb
+
+#EXTINF:-1 tvg-id="itpvbrasil - HBO Family" tvg-logo="HBOF.jpg" tvg-logo="http://douglasduffor.com.br/HBOF.jpg" group-title="HBO/Max", HBO Family
+rtmp://109.200.202.124/live playpath=hbofamily swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://tv-msn.com/hbofamily.html token=8afdbb2c24e3fefb
+
+#EXTINF:-1 tvg-id="itpvbrasil - HBO Plus" tvg-logo="plus.jpg" tvg-logo="http://douglasduffor.com.br/plus.jpg" group-title="HBO/Max", HBO PLUS
+rtmp://109.200.202.124/live playpath=hboplus swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://tv-msn.com/hboplus.html token=8afdbb2c24e3fefb
+
+#EXTINF:-1 tvg-id="itpvbrasil - i-SAT" tvg-logo="isat.jpg" tvg-logo="http://douglasduffor.com.br/isat.jpg" group-title="VARIEDADES", ISAT
+rtmp://199.59.88.39/cam4-cr107 playpath=isat swfUrl=http://www.brshare.info/goto/player5.swf pageUrl=http://www.brshare.info/url/c4.php?itc=isat&lar=660&alt=380 token=8afdbb2c24e3fefb
+
+#EXTINF:-1 tvg-id="itpvbrasil - Investigação Discovery" tvg-logo="ID.jpg" tvg-logo="http://douglasduffor.com.br/ID.jpg" group-title="DOCUMENTARIOS", ID - Investigação
+rtmp://109.200.202.124/live playpath=liv swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://tv-msn.com/investigacao.html token=8afdbb2c24e3fefb
+
+#EXTINF:-1 tvg-id="itpvbrasil - Max HD" tvg-logo="max.jpg" tvg-logo="http://douglasduffor.com.br/max.jpg" group-title="HBO/Max", Max HD
+rtmp://109.200.202.124/live playpath=maxhd swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://tv-msn.com/maxhd.html token=8afdbb2c24e3fefb
+
+#EXTINF:-1 tvg-id="itpvbrasil - Max Prime" tvg-logo="prime.jpg" tvg-logo="http://douglasduffor.com.br/prime.jpg" group-title="HBO/Max", MAX Prime (OFF)
+rtmp://94.176.148.114:443/loadbalance?wmsAuthSign=/ playpath=tvmsnmaxxprime swfUrl=http://pxstream.tv/jwplayer.flash.swf pageUrl=http://pxstream.tv/embedrouter.php?file=tvmsnmaxxprime&width=468&height=380 token=8afdbb2c24e3fefb
+
+#EXTINF:-1 tvg-id="itpvbrasil - Megapix" tvg-logo="megapix.jpg" tvg-logo="http://douglasduffor.com.br/megapix.jpg" group-title="FILMES", Megapix
+rtmp://31.204.151.253/live playpath=master11 swfUrl=http://www.brshare.info/goto/player-protegido.swf pageUrl=http://www.brshare.info/url/dedicado.php?itc=master11&lar=660&alt=380 token=8afdbb2c24e3fefb
+
+#EXTINF:-1 tvg-id"itpvbrasil - Multishow" tvg-logo="multi.jpg" tvg-logo="http://douglasduffor.com.br/multi.jpg" group-title="VARIEDADES", Multishow
+rtmp://r.livecast.cc/rl/ playpath=flash34sd swfurl=http://livecast.cc/live/player.swf live=1 pageUrl=http://livecast.cc/live/stream18.php
+
+#EXTINF:-1 tvg-id"itpvbrasil - Multishow" tvg-logo="multi.jpg" tvg-logo="http://douglasduffor.com.br/multi.jpg" group-title="VARIEDADES", Multishow
+rtmp://31.204.151.253/live/ playpath=brlive_0031 swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://www.cdnbr.biz/mastertv/Multishow.html token=8afdbb2c24e3fefb
+
+#EXTINF:-1 tvg-id="itpvbrasil - MIX TV" tvg-logo="mixtv.jpg" tvg-logo="http://douglasduffor.com.br/mixtv.jpg" group-title="VARIEDADES", MIX TV
+rtmp://109.200.202.124/live playpath=mixtv swfUrl=http://www.tv-msn.com/player/player.swf?ch=ttwrs pageUrl=http://tv-msn.com/mixtv.html token=8afdbb2c24e3fefb
+
+#EXTINF:-1 tvg-id="itpvbrasil - MGM" tvg-logo="mgm.jpg" tvg-logo="http://douglasduffor.com.br/mgm.jpg" group-title="VARIEDADES", MGM Channel
+rtmp://109.200.202.124/live playpath=mgm swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://tv-msn.com/mgm.html token=8afdbb2c24e3fefb
+ 
+#EXTINF:-1 tvg-id="itpvbrasil - MTV" tvg-logo="mtv.jpg" tvg-logo="http://douglasduffor.com.br/mtv.jpg" group-title="VARIEDADES", MTV Brasil
+rtmp://109.200.202.124/live playpath=hbohd swfUrl=http://www.tv-msn.com/player/player.swf& live=1 pageUrl=http://tv-msn.com/mtv.html token=8afdbb2c24e3fefb
+
+#EXTINF:-1 tvg-id="itpvbrasil - National Geo" tvg-logo="nat.jpg" tvg-logo="http://douglasduffor.com.br/nat.jpg" group-title="DOCUMENTARIOS", NatGeograpic
+rtmp://109.200.202.124/live playpath=natgeo swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://tv-msn.com/natgeo.html# token=8afdbb2c24e3fefb
+
+#EXTINF:-1 tvg-id="itpvbrasil - Nat Geo Wild" tvg-logo="wild.jpg" tvg-logo="http://douglasduffor.com.br/wild.jpg" group-title="DOCUMENTARIOS", NatGeo Wild
+rtmp://109.200.202.124/live playpath=animal swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://tv-msn.com/natgeowild.html token=8afdbb2c24e3fefb
+
+#EXTINF:-1 tvg-id="itpvbrasil - Nickelodeon" tvg-logo="Nickelodeon.jpg" tvg-logo="http://douglasduffor.com.br/Nickelodeon.jpg" group-title="INFANTIS", Nickelodeon
+rtmp://31.204.151.253/live/ playpath=brlive_0030 swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://www.cdnbr.biz/mastertv/Nickelodeon.html token=8afdbb2c24e3fefb
+
+#EXTINF:-1 tvg-id="itpvbrasil - Nick Jr" tvg-logo="nickJR.jpg" tvg-logo="http://douglasduffor.com.br/nickJR.jpg" group-title="INFANTIS", Nick JR
+rtmp://109.200.202.124/live playpath=nickjr swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://tv-msn.com/nickjr.html token=8afdbb2c24e3fefb
+
+#EXTINF:-1 tvg-id="itpvbrasil - Nick" tvg-logo="nickori.jpg" tvg-logo="http://douglasduffor.com.br/nickori.jpg" group-title="INFANTIS", Nick
+rtmp://76.73.108.36/livepkgr playpath=nick swfUrl=http://www.livestreamtv.biz/swfs/player.swf pageUrl=http://www.livestreamtv.biz/embedPlayer.php?file=nick&width=480&height=380 token=8afdbb2c24e3fefb
+
+#EXTINF:-1 tvg-id="itpvbrasil - Nick HD" tvg-logo="nickHD.jpg" tvg-logo="http://douglasduffor.com.br/nickHD.jpg" group-title="INFANTIS", Nick HD (OFF)
+rtmp://31.204.153.71/live playpath=hd2 swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://tv-msn.com\nickhd.html token=8afdbb2c24e3fefb
+
+#EXTINF:-1 tvg-id="itpvbrasil - Premiere Futebol Clube" tvg-logo="pfc.jpg" tvg-logo="http://douglasduffor.com.br/pfc.jpg" group-title="PREMIERE FC", PFC 
+rtmp://217.23.7.178/edge playpath=pfc2 swfUrl=http://www.livestreamtv.biz/swfs/player.swf pageUrl=http://www.livestreamtv.biz/power.php?file=pfc2&width=480&height=380
+
+#EXTINF:-1 tvg-id="itpvbrasil - Premiere Futebol Clube" tvg-logo="pfc.jpg" tvg-logo="http://douglasduffor.com.br/pfc.jpg" group-title="PREMIERE FC", PFC 1 
+rtmp://62.210.82.241:1935/liverepeat playpath=fut01 swfUrl=http://www.ppcast.net/embedP/jwplayer/jwplayer.flash.swf pageUrl=http://www.ppcast.net/embedP/1.php?file=zuca01&width=635&height=500
+
+#EXTINF:-1 tvg-id="itpvbrasil - Premiere Futebol Clube" tvg-logo="pfc.jpg" tvg-logo="http://douglasduffor.com.br/pfc.jpg" group-title="PREMIERE FC", PFC 2 
+rtmp://62.210.83.180:1935/liverepeat playpath=fut02 swfUrl=http://www.ppcast.net/embedP/jwplayer/jwplayer.flash.swf pageUrl=http://www.ppcast.net/embedP/2.php?file=poder2a&width=635&height=500
+
+#EXTINF:-1 tvg-id="itpvbrasil - Premiere Futebol Clube" tvg-logo="pfc.jpg" tvg-logo="http://douglasduffor.com.br/pfc.jpg" group-title="PREMIERE FC", PFC 3 
+rtmp://62.210.82.241:1935/liverepeat playpath=101010 swfUrl=http://ppcast.org/embedP/jwplayer/jwplayer.flash.swf pageUrl=http://ppcast.org/embedP/3.php?file=zuca3&width=100%25&height=100%25
+
+#EXTINF:-1 tvg-id="itpvbrasil - Premiere Futebol Clube" tvg-logo="pfc.jpg" tvg-logo="http://douglasduffor.com.br/pfc.jpg" group-title="PREMIERE FC", PFC 4 
+rtmp://62.210.83.180:1935/liverepeat/ playpath=101010 swfUrl=http://www.ppcast.net/embedP/jwplayer/jwplayer.flash.swf? pageUrl=http://www.ppcast.net/embedP/4.php?file=zuca4&width=468&height=359
+
+#EXTINF:-1 tvg-id="itpvbrasil - Premiere Futebol Clube" tvg-logo="pfc.jpg" tvg-logo="http://douglasduffor.com.br/pfc.jpg" group-title="PREMIERE FC", PFC 5 
+rtmp://83.170.111.194:1935/liverepeat/ playpath=fut1123402 swfUlr=http://www.ppcast.net/embedP/jwplayer/jwplayer.flash.swf? pageUrl=http://www.ppcast.net/embedP/5.php?file=zuca5&width=468&height=359
+
+#EXTINF:-1 tvg-id="itpvbrasil - Premiere Futebol Clube" tvg-logo="pfc.jpg" tvg-logo="http://douglasduffor.com.br/pfc.jpg" group-title="PREMIERE FC", PFC 6  
+rtmp://62.210.82.241:1935/liverepeat/ playpath=fut06 swfUrl=http://www.ppcast.net/embedP/jwplayer/jwplayer.flash.swf? pageUrl=http://www.ppcast.net/embedP/6.php?file=zuca6&width=468&height=359
+
+#EXTINF:-1 tvg-id="itpvbrasil - Premiere Futebol Clube" tvg-logo="pfc.jpg" tvg-logo="http://douglasduffor.com.br/pfc.jpg" group-title="PREMIERE FC", PFC 7 
+rtmp://62.210.83.152:1935/liverepeat playpath=fut07 swfUrl=http://www.ppcast.net/embedP/jwplayer/jwplayer.flash.swf? pageUrl=http://www.ppcast.net/embedP/7.php?file=zuca7&width=468&height=359
+
+#EXTINF:-1 tvg-id="itpvbrasil - Premiere Futebol Clube" tvg-logo="pfc.jpg" tvg-logo="http://douglasduffor.com.br/pfc.jpg" group-title="PREMIERE FC", PFC 8 
+rtmp://62.210.88.208:1935/liverepeat playpath=201020 swfUrl=http://www.ppcast.net/embedP/jwplayer/jwplayer.flash.swf? pageUrl=http://www.ppcast.net/embedP/8.php?file=zuca8&width=468&height=359
+
+#EXTINF:-1 tvg-id="itpvbrasil - Premiere Futebol Clube" tvg-logo="pfc.jpg" tvg-logo="http://douglasduffor.com.br/pfc.jpg" group-title="PREMIERE FC", PFC 9 
+rtmp://62.210.88.244:1935/liverepeat playpath=fut09 swfUrl=http://www.ppcast.net/embedP/jwplayer/jwplayer.flash.swf pageUrl=http://www.ppcast.net/embedP/9.php?file=zuca9&width=468&height=386
+
+#EXTINF:-1 tvg-id="itpvbrasil - Record" tvg-logo="record.jpg" tvg-logo="http://douglasduffor.com.br/record.jpg" group-title="TV ABERTA", Record SP
+rtmp://31.204.151.253/live playpath=master14 swfUrl=http://www.brshare.info/goto/player-protegido.swf pageUrl=http://www.brshare.info/url/dedicado.php?itc=master14&lar=660&alt=380 token=8afdbb2c24e3fefb
+
+#EXTINF:-1 tvg-id="itpvbrasil - Record" tvg-logo="record.jpg" tvg-logo="http://douglasduffor.com.br/record.jpg" group-title="TV ABERTA", Record RJ
+rtmp://94.242.228.41:1935/live/ playpath=ch18 swfUrlhttp://www.tvonline.org/p.swf pageUrl=http://www.tvnanet.biz/boss/ch18-record.htm
+
+#EXTINF:-1 tvg-id="itpvbrasil - Record" tvg-logo="record.jpg" tvg-logo="http://douglasduffor.com.br/record.jpg" group-title="TV ABERTA", Record ES HD
+rtmp://flash.midiaip.com.br:1935/tvvitoria/Sample1
+
+#EXTINF:-1 tvg-id="itpvbrasil - Record News" tvg-logo="rhd.jpg" tvg-logo="http://douglasduffor.com.br/rhd.jpg" group-title="NOTICIAS", RECORD NEWS
+http://flash.midiaip.com.br:1935/recordnewses/recordnewses/rogger.m3u8
+
+#EXTINF:-1 tvg-id="itpvbrasil - Rede TV" tvg-logo="redetv.jpg" tvg-logo="http://douglasduffor.com.br/redetv.jpg" group-title="TV ABERTA", Rede TV HD
+rtmp://evp.mm.uol.com.br/redetv1/_definst_/ playpath=redetv1 swfUrl=http://www.brshare.info/url/player5.swf pageUrl=http://www.brshare.info/url/rmtp.php?rmtp=rtmp://evp.mm.uol.com.br/redetv1/_definst_/&file=redetv1&lar=660&alt=380
+
+#EXTINF:-1 tvg-id="itpvbrasil - Rede TV"  tvg-logo="redetv.jpg" tvg-logo="http://douglasduffor.com.br/redetv.jpg" group-title="TV ABERTA", Rede TV HD
+rtmp://evp.mm.uol.com.br/redetv1/_definst_/ playpath=redetv1 swfUrl=http://www.tvonline.org/p.swf pageUrl=http://www.tvnanet.biz/boss/ch17-redetv.htm
+
+#EXTINF:-1 tvg-id="itpvbrasil - SBT" tvg-logo="sbt.jpg" tvg-logo="http://douglasduffor.com.br/sbt.jpg" group-title="TV ABERTA", SBT
+rtmp://31.204.151.253/live playpath=master94 swfUrl=http://www.brshare.info/goto/player-protegido.swf pageUrl=http://www.brshare.info/url/dedicado.php?itc=master94&lar=660&alt=380 token=8afdbb2c24e3fefb
+
+#EXTINF:-1 tvg-id="itpvbrasil - SBT" tvg-logo="sbt.jpg" tvg-logo="http://douglasduffor.com.br/sbt.jpg" group-title="TV ABERTA", SBT HD
+rtmp://192.99.46.182/pioneira-tv//pioneira-tv
+
+#EXTINF:-1 tvg-id="itpvbrasil - SBT" tvg-logo="sbt.jpg" tvg-logo="http://douglasduffor.com.br/sbt.jpg" group-title="TV ABERTA", SBT
+rtmp://94.242.228.41:1935/live/ playpath=sbt2 swfUrl=http://www.tvonline.org/p.swf pageUrl=http://www.tvonline.org/out/sbt.html
+
+#EXTINF:-1 tvg-id="itpvbrasil - SBT" tvg-logo="sbt.jpg" tvg-logo="http://douglasduffor.com.br/sbt.jpg" group-title="TV ABERTA", SBT RJ
+rtmp://31.204.128.76/live/ playpath=master94 swfUrl=http://www.tv-msn.com/player/player.swf live=1 pageUrl=http://www.cdnbr.biz/mastertv/SBT.html token=8afdbb2c24e3fefb
+
+#EXTINF:-1 tvg-id="itpvbrasil - Space" tvg-logo="space.jpg" tvg-logo="http://douglasduffor.com.br/space.jpg" group-title="FILMES", Space
+rtmp://109.200.202.124/live playpath=space swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://tv-msn.com/space.html token=8afdbb2c24e3fefb
+ 
+#EXTINF:-1 tvg-id="itpvbrasil - Studio Universal" tvg-logo="studio.jpg" tvg-logo="http://douglasduffor.com.br/studio.jpg" group-title="FILMES", Studio Universal
+rtmp://109.200.202.124/live playpath=studio swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://tv-msn.com/studio.html token=8afdbb2c24e3fefb
+ 
+#EXTINF:-1 tvg-id="itpvbrasil - Sony" tvg-logo="sony.jpg" tvg-logo="http://douglasduffor.com.br/sony.jpg" group-title="FILMES", Sony
+rtmp://109.200.202.124/live playpath=sony swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://tv-msn.com/sony.html# token=8afdbb2c24e3fefb
+
+#EXTINF:-1 tvg-id="itpvbrasil - SporTV" tvg-logo="sportv2.jpg" tvg-logo="http://douglasduffor.com.br/sportv.jpg" group-title="ESPORTES", SporTV
+rtmp://r.livecast.cc/rl/ playpath=bob05sd swfurl=http://livecast.cc/live/player.swf live=1 pageUrl=http://livecast.cc/live/stream10.php
+
+#EXTINF:-1 tvg-id="itpvbrasil - SporTV" tvg-logo="sportv2.jpg" tvg-logo="http://douglasduffor.com.br/sportv.jpg" group-title="ESPORTES", SporTV
+rtmp://76.73.108.33/livepkgr playpath=sportv swfUrl=http://livestreamtv.biz/swfs/player.swf pageUrl=http://livestreamtv.biz/33.php?file=sportv&width=480&height=380 token=8afdbb2c24e3fefb
+
+#EXTINF:-1 tvg-id="itpvbrasil - SporTV" tvg-logo="sportv.jpg" tvg-logo="http://douglasduffor.com.br/sportv.jpg" group-title="ESPORTES", SporTV
+http://62.210.88.233:1935/liverepeat/201020/playlist.m3u8
+
+#EXTINF:-1 tvg-id="itpvbrasil - SporTV 2" tvg-logo="sportv2.jpg" tvg-logo="http://douglasduffor.com.br/sportv2.jpg" group-title="ESPORTES", SporTV 2
+rtmp://r.livecast.cc/rl/ playpath=bob06sd swfurl=http://livecast.cc/live/player.swf live=1 pageUrl=http://livecast.cc/live/stream11.php
+
+#EXTINF:-1 tvg-id="itpvbrasil - SporTV 2" tvg-logo="sportv2.jpg" tvg-logo="http://douglasduffor.com.br/sportv2.jpg" group-title="ESPORTES", SporTV 2
+rtmp://76.73.108.33/livepkgr playpath=sportv2 swfUrl=http://livestreamtv.biz/swfs/player.swf pageUrl=http://livestreamtv.biz/33.php?file=sportv2&width=480&height=380 token=8afdbb2c24e3fefb
+
+#EXTINF:-1 tvg-id="itpvbrasil - SporTV 3" tvg-logo="sportv3.jpg" tvg-logo="http://douglasduffor.com.br/sportv3.jpg" group-title="ESPORTES", SporTV 3
+rtmp://r.livecast.cc/rl/ playpath=bob50sd swfurl=http://livecast.cc/live/player.swf live=1 pageUrl=http://livecast.cc/live/stream6.php
+
+#EXTINF:-1 tvg-id="itpvbrasil - SporTV 3" tvg-logo="sportv3.jpg" tvg-logo="http://douglasduffor.com.br/sportv3.jpg" group-title="ESPORTES", SporTV 3
+rtmp://76.73.108.33/livepkgr playpath=sportv3 swfUrl=http://livestreamtv.biz/swfs/player.swf pageUrl=http://livestreamtv.biz/33.php?file=sportv3&width=480&height=380 token=8afdbb2c24e3fefb
+
+#EXTINF:-1 tvg-logo="smais.jpg" tvg-logo="http://douglasduffor.com.br/smais.jpg" group-title="ESPORTES", SPORTS+
+rtmp://149.255.37.18:80/pub playpath=VerftJau45UDaXhtE7SM swfUrl=http://www.castto.me/_.swf pageUrl=http://static.castto.me/embed.php?channel=278445099&vw=468&vh=360 token=#ed%h0#w@1
+
+#EXTINF:-1 tvg-logo="smais.jpg" tvg-logo="http://douglasduffor.com.br/smais.jpg" group-title="ESPORTES", SPORTS+
+rtmp://r.livecast.cc/rl/ playpath=flash59sd swfUrl=http://www.livecast.cc/live/player.swf live=1 pageUrl=http://www.livecast.cc/live/stream1.php 
+
+#EXTINF:-1 tvg-logo="smais.jpg" tvg-logo="http://douglasduffor.com.br/smais.jpg" group-title="ESPORTES", SPORTS+
+rtmp://r.livecast.cc/rp/ playpath=esportesmais-GNXDbdN swfUrl=http://putlive.in/player59.swf live=1 pageUrl=http://putlive.in/e/esportesmais-GNXDbdN token=8afdbb2c24e3fefb
+
+#EXTINF:-1 tvg-id="itpvbrasil - SyFy" tvg-logo="sy.jpg" tvg-logo="http://douglasduffor.com.br/sy.jpg" group-title="VARIEDADES", Syfy
+rtmp://109.200.202.124/live playpath=syfy swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://tv-msn.com/syfy.html token=8afdbb2c24e3fefb
+
+#EXTINF:-1 tvg-id="itpvbrasil - Telecine Action" tvg-logo="acao.jpg" tvg-logo="http://douglasduffor.com.br/acao.jpg" group-title="REDE TELECINE", Telecine Action
+rtmp://31.204.151.253/live playpath=master17 swfUrl=http://www.brshare.info/goto/player-protegido.swf pageUrl=http://www.brshare.info/url/dedicado.php?itc=master17&lar=660&alt=380 token=8afdbb2c24e3fefb
+
+#EXTINF:-1 tvg-id="itpvbrasil - Telecine Cult" tvg-logo="cult.jpg" tvg-logo="http://douglasduffor.com.br/cult.jpg" group-title="REDE TELECINE", Telecine Cult
+rtmp://109.200.202.124/live playpath=tccult swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://tv-msn.com/tccult.html token=8afdbb2c24e3fefb
+
+#EXTINF:-1 tvg-id="itpvbrasil - Telecine HD" tvg-logo="fun.jpg" tvg-logo="http://douglasduffor.com.br/fun.jpg" group-title="REDE TELECINE", Telecine Fun
+rtmp://109.200.202.124/live playpath=44_1 swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://tv-msn.com/fun.html token=8afdbb2c24e3fefb
+
+#EXTINF:-1 tvg-id="itpvbrasil - Telecine HD" tvg-logo="fun.jpg" tvg-logo="http://douglasduffor.com.br/fun.jpg" group-title="REDE TELECINE", Telecine Fun
+rtmp://76.73.108.36/livepkgr playpath=tcfun swfUrl=http://www.livestreamtv.biz/swfs/player.swf pageUrl=http://www.livestreamtv.biz/embedPlayer.php?file=tcfun&width=480&height=380
+
+#EXTINF:-1 tvg-id="itpvbrasil - Telecine Touch" tvg-logo="touch.jpg" tvg-logo="http://douglasduffor.com.br/touch.jpg" group-title="REDE TELECINE", Telecine Touch
+rtmp://109.200.202.124/live playpath=36_1 swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://tv-msn.com/touch.html token=8afdbb2c24e3fefb
+
+#EXTINF:-1 tvg-id="itpvbrasil - Telecine Pipoca" tvg-logo="pipoca.jpg" tvg-logo="http://douglasduffor.com.br/pipoca.jpg" group-title="REDE TELECINE", Telecine Pipoca
+rtmp://31.204.151.253/live playpath=master18 swfUrl=http://www.brshare.info/goto/player-protegido.swf pageUrl=http://www.brshare.info/url/dedicado.php?itc=master18&lar=660&alt=380 token=8afdbb2c24e3fefb
+
+#EXTINF:-1 tvg-id="itpvbrasil - Telecine Premium" tvg-logo="tele.jpg" tvg-logo="http://douglasduffor.com.br/tele.jpg" group-title="REDE TELECINE",Telecine Premium
+rtmp://31.204.151.253/live playpath=master19 swfUrl=http://www.brshare.info/goto/player-protegido.swf pageUrl=http://www.brshare.info/url/dedicado.php?itc=master19&lar=660&alt=380s token=8afdbb2c24e3fefb
+
+#EXTINF:-1 tvg-id="itpvbrasil - Telecine Premium" tvg-logo="tele.jpg" tvg-logo="http://douglasduffor.com.br/tele.jpg" group-title="REDE TELECINE",Telecine Premium
+rtmp://r.livecast.cc/rl/ playpath=flash24sd swfurl=http://livecast.cc/live/player.swf live=1 pageUrl=http://livecast.cc/live/stream20.php
+
+#EXTINF:-1 tvg-id="itpvbrasil - TCM" tvg-logo="TCM.jpg" tvg-logo="http://douglasduffor.com.br/TCM.jpg" group-title="FILMES", TCM
+rtmp://109.200.202.124/live playpath=tcm swfUrl=http://www.tv-msn.com/player5.swf&jonasiptv live=1 pageUrl=http://tv-msn.com/tcm.html token=8afdbb2c24e3fefb
+
+#EXTINF:-1 tvg-id="itpvbrasil - TLC" tvg-logo="tlc.jpg" tvg-logo="http://douglasduffor.com.br/tlc.jpg" group-title="DOCUMENTARIOS", TLC (OFF)
+rtmp://178.162.194.26:443/loadbalance?wmsAuthSign=c2VydmVyX3RpbWU9Ni8xMS8yMDE1IDk6MTc6NTYgUE0maGFzaF92YWx1ZT1YSWtkcy8zYW1KSjEvTGcrL3ZOQkNBPT0mdmFsaWRtaW51dGVzPTg=/ playpath=74467548338119297125 swfUrl=http://pxstream.tv/jwplayer.flash.swf pageUrl=http://pxstream.tv/embedrouter.php?file=aleluiatlc&width=468&height=360 token=#ed%h0#w@1
+
+#EXTINF:-1 tvg-id="itpvbrasil - TNT" tvg-logo="TNT.jpg" tvg-logo="http://douglasduffor.com.br/TNT.jpg" group-title="FILMES", TNT
+rtmp://31.204.151.253/live playpath=master77_1 swfUrl=http://www.brshare.info/goto/player-protegido.swf pageUrl=http://www.brshare.info/url/dedicado.php?itc=master77_1&lar=660&alt=380 token=8afdbb2c24e3fefb
+
+#EXTINF:-1 tvg-id="itpvbrasil - Tooncast" tvg-logo="toon.jpg" tvg-logo="http://douglasduffor.com.br/toon.jpg" group-title="INFANTIS", Tooncast
+rtmp://109.200.202.124/live playpath=tooncast swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://tv-msn.com/tooncast.html token=8afdbb2c24e3fefb
+
+#EXTINF:-1 tvg-id="itpvbrasil - TruTV" tvg-logo="tru.jpg" tvg-logo="http://douglasduffor.com.br/tru.jpg" group-title="VARIEDADES", TruTV
+rtmp://199.59.88.39/cam4-cr107 playpath=112_2 swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://www.cdnbr.biz/mastertv/truTV.html token=8afdbb2c24e3fefb
+ 
+#EXTINF:-1 tvg-id="itpvbrasil - TV Rá Tim Bum" tvg-logo="TVRAA.jpg" tvg-logo="http://douglasduffor.com.br/TVRAA.jpg" group-title="INFANTIS", TV Ratimbum
+rtmp://109.200.202.124/live playpath=sonyspin swfUrl=http://www.tv-msn.com/player/player.swf pageUrl=http://tv-msn.com/ratimbum.html token=8afdbb2c24e3fefb
+
+#EXTINF:-1 tvg-id="itpvbrasil - TV Brasil" tvg-logo="tvb.jpg" tvg-logo="http://douglasduffor.com.br/tvb.jpg" group-title="TV ABERTA", TV Brasil
+rtmp://r.livecast.cc/rl/ playpath=flash51 swfurl=http://livecast.cc/live/player.swf live=1 pageUrl=http://livecast.cc/live/stream19.php
+
+#EXTINF:-1 tvg-id="itpvbrasil - TV Brasil" tvg-logo="tvb.jpg" tvg-logo="http://douglasduffor.com.br/tvb.jpg" group-title="TV ABERTA", TV Brasil HD
+rtmp://ebcremuxlivefs.fplive.net/ebcremuxlive-ebctvbrasil/ playpath=stream1 swfUrl=http://www.assistirtvgratisonline.org/canais/player/universal.swf pageUrl=http://www.assistirtvgratisonline.org/canais/tvbrasil.php
+
+#EXTINF:-1 tvg-id="" tvg-logo="tvebahia.jpg" tvg-logo="http://douglasduffor.com.br/tvebahia.jpg" group-title="TV ABERTA", TVE
+rtmp://stream2.ba.gov.br/livepkgr/ playpath=pgm-2?adbe-live-event=irdeb swfUrl=http://vjs.zencdn.net/4.11/video-js.swf pageUrl=http://www.irdeb.ba.gov.br/tveonline
+
+#EXTINF:-1 tvg-id="itpvbrasil - Universal" tvg-logo="chanel.jpg" tvg-logo="http://douglasduffor.com.br/chanel.jpg" group-title="FILMES", Universal Channel
+rtmp://31.204.151.253/live playpath=master20 swfUrl=http://www.brshare.info/goto/player-protegido.swf pageUrl=http://www.brshare.info/url/dedicado.php?itc=master20&lar=660&alt=380 token=8afdbb2c24e3fefb
+
+#EXTINF:-1 tvg-id="itpvbrasil - Warner" tvg-logo="warner.jpg" tvg-logo="http://douglasduffor.com.br/warner.jpg" group-title="FILMES", Warner
+rtmp://31.204.151.253/live playpath=master22 swfUrl=http://www.brshare.info/goto/player-protegido.swf pageUrl=http://www.brshare.info/url/dedicado.php?itc=master22&lar=660&alt=380 token=8afdbb2c24e3fefb
+
+#EXTINF:-1 tvg-id="itpvbrasil - ZooMoo" tvg-logo="ZOOMoo.jpg" tvg-logo="http://douglasduffor.com.br/ZOOMoo.jpg" group-title="INFANTIS", ZooMoo
+http://wowza1.videos.movile.com:1935/live/infantil_1.smil/livestream.m3u8
+
