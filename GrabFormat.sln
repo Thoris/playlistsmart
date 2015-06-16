@@ -26,6 +26,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Samples", "Samples", "{36BE
 		Samples\EPG IPTVBrasil.xml = Samples\EPG IPTVBrasil.xml
 		..\..\..\Users\Thoris\Downloads\IPTVBrasilCine.m3u = ..\..\..\Users\Thoris\Downloads\IPTVBrasilCine.m3u
 		Samples\IPTVBrasilCine.m3u = Samples\IPTVBrasilCine.m3u
+		Samples\LGtvlist_Spanish.m3u = Samples\LGtvlist_Spanish.m3u
 		Samples\list.m3u = Samples\list.m3u
 		Samples\lista completa canais do mundo.m3u8 = Samples\lista completa canais do mundo.m3u8
 		Samples\Lista de canais - 01.01.2015.m3u = Samples\Lista de canais - 01.01.2015.m3u
