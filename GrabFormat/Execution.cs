@@ -113,8 +113,8 @@ namespace GrabFormat
 
 
 
-                    if (newEntries[l].IsValid() && newEntries[l].IsGroupValid() && newEntries[l].IsAliasValid() 
-                        && newEntries[l].IsAliasStartWithValid() && newEntries[l].IsLinkValid())
+                    //if (newEntries[l].IsValid() && newEntries[l].IsGroupValid() && newEntries[l].IsAliasValid() 
+                    //    && newEntries[l].IsAliasStartWithValid() && newEntries[l].IsLinkValid())
                     {
                         int posEntry = IsExists(entries, newEntries[l]);
 
@@ -256,6 +256,9 @@ namespace GrabFormat
         }
         public string RequestUrl(string url, string login, string password, string domain, int port)
         {
+            if (string.IsNullOrEmpty(url))
+                return "";
+
             string html = "";
 
             HttpWebRequest wRequest = (HttpWebRequest)WebRequest.Create(url);
@@ -722,7 +725,7 @@ namespace GrabFormat
             public bool IsLinkValid()
             {
                 string[] linkNotValid = new[]{
-                    ".flv",
+                    ".flv", "rtmp://",
 
                 };
 

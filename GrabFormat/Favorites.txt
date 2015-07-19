@@ -96,3 +96,371 @@ http://213.13.26.7:1936/live/saopedro.stream/livestream.m3u8
 #EXTINF:-1 tvg-name="PRAIA SUPER TUBOS - WEBCAM" tvg-logo="logo.png" group-title="WebCam" , logo.png
 http://213.13.26.7:1936/live/supertubos.stream/livestream.m3u8
 
+
+
+
+#EXTINF:-1 tvg-name="NOTц█CIAS-Record News(ESPц█RITO SANTO)" tvg-logo="recordnews.png" group-title="NOTц█CIAS" , recordnews.png
+http://flash.midiaip.com.br:1935/recordnewses/recordnewses/live.m3u8?BRASILIPTV
+#EXTINF:-1 tvg-name="NOTц█CIAS-CNN" tvg-logo="CNN.png" group-title="NOTц█CIAS" , CNN.png
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/cnn/ls_satlink/b_828.m3u8?BRASILIPTV
+#EXTINF:-1 tvg-name="NOTц█CIAS-Record News / TV GUARц│ (MARANHц┐O)" tvg-logo="recordnews.png" group-title="NOTц█CIAS" , recordnews.png
+http://v1.fabricahost.com.br:1935/tvguara/tvguara/live.m3u8?BRASILIPTV
+#EXTINF:-1 tvg-name="NOTц█CIAS-Sky News" tvg-logo="skynews.png" group-title="NOTц█CIAS" , skynews.png
+http://wpc.C1A9.edgecastcdn.net/hls-live/20C1A9/skynews/ls_satlink/b_,264,528,828,.m3u8?BRASILIPTV
+#EXTINF:-1 tvg-name="NOTц█CIAS-Terra Notц╜cias" tvg-logo="terranoticias.png" group-title="NOTц█CIAS" , terranoticias.png
+http://wowza1.videos.movile.com:1935/live/noticias_1.smil/livestream.m3u8?BRASILIPTV
+#EXTINF:-1 tvg-name="ENTRETENIMENTO-Comedy Central" tvg-logo="comedycentral.png" group-title="ENTRETENIMENTO" , comedycentral.png
+http://62.210.89.38:1935/liverepeat/comedy913/comedy913/live.m3u8?BRASILIPTV
+#EXTINF:-1 tvg-name="DOCUMENTц│RIOS-Discovery Civilization" tvg-logo="discovery-civilization.png" group-title="DOCUMENTц│RIOS" , discovery-civilization.png
+http://62.210.89.38:1935/liverepeat/discivil377/discivil377/live.m3u8?BRASILIPTV
+#EXTINF:-1 tvg-name="ESPORTES INTERNACIONAIS-Amц╘rica Sports" tvg-logo="americasports.png" group-title="ESPORTES INTERNACIONAIS" , americasports.png
+http://iphone-streaming.ustream.tv/uhls/11602466/streams/live/iphone/playlist.m3u8?BRASILIPTV
+#EXTINF:-1 tvg-name="ESPORTES INTERNACIONAIS-CDN SPORT MAX" tvg-logo="cdnsportsmax.png" group-title="ESPORTES INTERNACIONAIS" , cdnsportsmax.png
+http://108.168.206.90:1935/cdnsm/cdnsm/playlist.m3u8?BRASILIPTV
+#EXTINF:-1 tvg-name="ESPORTES INTERNACIONAIS-COMBAT CHANNEL (RUS)" tvg-logo="combatchannel.png" group-title="ESPORTES INTERNACIONAIS" , combatchannel.png
+http://87.248.160.8/edge/smil:boet/playlist.m3u8?BRASILIPTV
+#EXTINF:-1 tvg-name="PFC EM DIA DE JOGOS-PREMIERE 12 (PFC EM DIAS DE JOGOS)" tvg-logo="pfc.png" group-title="PFC EM DIA DE JOGOS" , pfc.png
+http://62.210.89.38:1935/liverepeat/fut12/live.m3u8?BRASILIPTV
+#EXTINF:-1 tvg-name="ESPORTES-Band Sports HD" tvg-logo="bandsports2.png" group-title="ESPORTES" , bandsports2.png
+http://evp.mm.uol.com.br:1935/geob_terraviva/operadoras/live.m3u8?BRASILIPTV
+#EXTINF:-1 tvg-name="ESPORTES-Esporte Interativo Nordeste HD" tvg-logo="einordeste.png" group-title="ESPORTES" , einordeste.png
+http://eiplus-lh.akamaihd.net/i/eiplus_1@147097/master.m3u8?BRASILIPTV
+#EXTINF:-1 tvg-name="USA HD-ABC News HD" tvg-logo="ABC_News.jpg" group-title="USA HD" , ABC_News.jpg
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?jonasiptv
+#EXTINF:-1 tvg-name="USA HD-C-MORE" tvg-logo="cmoresporthd.jpg" group-title="USA HD" , cmoresporthd.jpg
+http://188.138.9.228:8024
+#EXTINF:-1 tvg-name="USA HD-HBO" tvg-logo="HBO.jpg" group-title="USA HD" , HBO.jpg
+http://113.160.49.34/lives/origin03/hbohd.isml/hbohd-2096k.m3u8
+#EXTINF:-1 tvg-name="USA HD-PAC 12 Los. Angeles" tvg-logo="ArizonaPac.jpg" group-title="USA HD" , ArizonaPac.jpg
+http://xrxs.net/video/live-p12losa-4728.m3u8?iptvjonas
+#EXTINF:-1 tvg-name="Musicas-MTV Rocks" tvg-logo="MTVr.jpg" group-title="Musicas" , MTVr.jpg
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVROCKS/variant.m3u8?jonasiptv
+#EXTINF:-1 tvg-name="Musicas-NOW MUSIC" tvg-logo="nowmusic.jpg" group-title="Musicas" , nowmusic.jpg
+http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&protocol=http&output=playlist.m3u8
+#EXTINF:-1 tvg-name="Musicas-Play Max" tvg-logo="playmax.jpg" group-title="Musicas" , playmax.jpg
+http://cdn.ebound.tv:1935/tv/playtv/playlist.m3u8?iptvjonas
+#EXTINF:-1 tvg-name="Musicas-Vevo 1 HD" tvg-logo="vevo.jpg" group-title="Musicas" , vevo.jpg
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+#EXTINF:-1 tvg-name="Musicas-Vevo 2 HD" tvg-logo="vevo.jpg" group-title="Musicas" , vevo.jpg
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+#EXTINF:-1 tvg-name="Musicas-Vevo 3 HD" tvg-logo="vevo.jpg" group-title="Musicas" , vevo.jpg
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+#EXTINF:-1 tvg-name="Filmes e Sц╘ries-Omelete Cinema HD" tvg-logo="omeletelogo.jpg" group-title="Filmes e Sц╘ries" , omeletelogo.jpg
+http://wowza1.videos.movile.com:8080/live/smil:cinema_1.smil/playlist.m3u8?iptvjonas
+#EXTINF:-1 tvg-name="Esportes-Band Sports HD" tvg-logo="Band%20Sport.jpg" group-title="Esportes" , Band%20Sport.jpg
+http://evp.mm.uol.com.br:1935/geob_terraviva/operadoras/live.m3u8
+#EXTINF:-1 tvg-name="Esportes-TVU Ei" tvg-logo="Esporte%20Interativo.jpg" group-title="Esportes" , Esporte%20Interativo.jpg
+http://srv6.zoeweb.tv:1935/z433-live/stream/livestream.m3u8
+#EXTINF:-1 tvg-name="TV Aberta-Globo SP" tvg-logo="Globo.jpg" group-title="TV Aberta" , Globo.jpg
+http://62.210.83.180:1935/liverepeat/101010/live.m3u8
+#EXTINF:-1 tvg-name="Recem adicionados-NBA 24 Horas HD" tvg-logo="nba.jpg" group-title="Recem adicionados" , nba.jpg
+http://46.61.226.18/hls/CH_NTVPLUSBASKETBOL/bw1500000/variant.m3u8?iptvjonas
+#EXTINF:-1 tvg-name="Esportes-Esporte Interativo" tvg-logo="Esporte Interativo.png" group-title="Esportes" , Esporte Interativo.png
+http://eipluselemental.s3-website-sa-east-1.amazonaws.com/eiplus10-1200.m3u8
+#EXTINF:-1 tvg-name="Esportes-Esporte Interativo" tvg-logo="Esporte Interativo.png" group-title="Esportes" , Esporte Interativo.png
+http://d2zu5yenjkshw.cloudfront.net/eiplus10-2500.m3u8
+#EXTINF:-1 tvg-name="ABC News" tvg-logo="logo.png" group-title="GRUPO" , ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+#EXTINF:-1 tvg-name="BBC News" tvg-logo="logo.png" group-title="GRUPO" , BBC News
+http://wpc.c1a9.edgecastcdn.net/hls-live/20C1A9/bbc_world/ls_satlink/b_828.m3u8
+#EXTINF:-1 tvg-name="CDN" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+http://108.168.206.90:1935/cdn/cdn/playlist.m3u8
+#EXTINF:-1 tvg-name="SBT Interior" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+http://srv3.zoeweb.tv:1935/z133-live/stream/playlist.m3u8
+#EXTINF:-1 tvg-name="Travel + Adventure HD" tvg-logo="logo.png" group-title="GRUPO" , Travel + Adventure HD
+http://212.164.138.19:1234/udp/233.7.70.156:5000
+#EXTINF:-1 tvg-name="VARIEDADES-MTV Dance" tvg-logo="mtv" group-title="VARIEDADES" , mtv
+http://92.50.181.6/tv/1280/index.m3u8
+#EXTINF:-1 tvg-name="VARIEDADES-MTV Hits" tvg-logo="mtv" group-title="VARIEDADES" , mtv
+http://92.50.181.6/tv/1278/index.m3u8
+#EXTINF:-1 tvg-name="VARIEDADES-MTV Rocks" tvg-logo="mtv" group-title="VARIEDADES" , mtv
+http://92.50.181.6/tv/1279/index.m3u8
+#EXTINF:-1 tvg-name="VARIEDADES-Vevo 2 HD" tvg-logo="vevo" group-title="VARIEDADES" , vevo
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+#EXTINF:-1 tvg-name="VARIEDADES-Vevo 3 HD" tvg-logo="vevo" group-title="VARIEDADES" , vevo
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
+#EXTINF:-1 tvg-name="VARIEDADES-Vevo HD" tvg-logo="vevo" group-title="VARIEDADES" , vevo
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+#EXTINF:-1 tvg-name="VARIEDADES-Vhr 1 classic" tvg-logo="mtv" group-title="VARIEDADES" , mtv
+http://92.50.181.6/tv/1282/index.m3u8
+#EXTINF:-1 tvg-name="Amazon Sat" tvg-logo="logo.png" group-title="GRUPO" , Amazon Sat
+http://livela.sambatech.com.br:80/hls-live/livepkgr/amazonsat3_3e9c859611a5e7fbedc785bd33c418b5/liveevent/livestream.m3u8
+#EXTINF:-1 tvg-name="Comedy Central" tvg-logo="logo.png" group-title="GRUPO" , Comedy Central
+http://62.210.89.38:1935/liverepeat/comedy913/comedy913/live.m3u8
+#EXTINF:-1 tvg-name="CINE BRASIL TV" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+http://62.210.89.38:1935/liverepeat/cinebrasil180/cinebrasil180/live.m3u8
+#EXTINF:-1 tvg-name="CLARO ADULTO" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+http://wowza1.videos.movile.com:1935/live/adulto_1.smil/livestream.m3u8
+#EXTINF:-1 tvg-name="DISCOVERY CIVILIZATION" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+http://62.210.89.38:1935/liverepeat/discivil377/discivil377/live.m3u8
+#EXTINF:-1 tvg-name="EMAIS TV" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+http://142.4.219.208:1935/emaistv/emaistv/live.m3u8
+#EXTINF:-1 tvg-name="LEц┤A DA PALMEIRA - WEBCAM" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+http://213.13.26.7:1936/live/leca.stream/livestream.m3u8
+#EXTINF:-1 tvg-name="LIGA MOCHE SURFE - WEBCAM" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+http://213.13.26.7:1936/live/surfstream.stream/livestream.m3u8
+#EXTINF:-1 tvg-name="MADEIRA JARDIM DO MAR HD" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+http://213.13.26.7:1936/live/jardim.stream/livestream.m3u8
+#EXTINF:-1 tvg-name="OMELETE CINEMA" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+http://wowza1.videos.movile.com:1935/live/cinema_1.smil/livestream.m3u8
+#EXTINF:-1 tvg-name="OMELETE CINEMA" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+http://wowza1.videos.movile.com:8080/live/cinema_1.smil/livestream.m3u8
+#EXTINF:-1 tvg-name="PRAIA CARCAVELOS - WEBCAM" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+http://213.13.26.7:1936/live/carcavelos.stream/livestream.m3u8
+#EXTINF:-1 tvg-name="PRAIA COSTA DA CAPARICA" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+http://213.13.26.7:1936/live/costa.stream/livestream.m3u8
+#EXTINF:-1 tvg-name="PRAIA DA ERICEIRA - WEBCAM" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+http://213.13.26.7:1936/live/ericeira.stream/livestream.m3u8
+#EXTINF:-1 tvg-name="PRAIA DA LUZ - WEBCAM" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+http://213.13.26.7:1936/live/luz.stream/livestream.m3u8
+#EXTINF:-1 tvg-name="PRAIA DE AVEIRO - WEBCAM" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+http://213.13.26.7:1936/live/aveiro.stream/livestream.m3u8
+#EXTINF:-1 tvg-name="PRAIA DE ESPINHO - WEBCAM" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+http://213.13.26.7:1936/live/espinho.stream/livestream.m3u8
+#EXTINF:-1 tvg-name="PRAIA DE PENICHE - WEBCAM" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+http://213.13.26.7:1936/live/peniche.stream/livestream.m3u8
+#EXTINF:-1 tvg-name="PRAIA DE Sц┐O TORPES - WEBCAM" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+http://213.13.26.7:1936/live/saotorpes.stream/livestream.m3u8
+#EXTINF:-1 tvg-name="PRAIA DO GUINCHO - WEBCAM" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+http://213.13.26.7:1936/live/guincho.stream/livestream.m3u8
+#EXTINF:-1 tvg-name="PRAIA DO NORTE - WEBCAM" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+http://213.13.26.7:1936/live/norte.stream/livestream.m3u8
+#EXTINF:-1 tvg-name="PRAIA GRANDE - WEBCAM" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+http://213.13.26.7:1936/live/grande.stream/livestream.m3u8
+#EXTINF:-1 tvg-name="PRAIA MATOSINHOS - WEBCAM" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+http://213.13.26.7:1936/live/matosinhos.stream/livestream.m3u8
+#EXTINF:-1 tvg-name="PRAIA Sц┐O PEDRO E BAFUREIRA" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+http://213.13.26.7:1936/live/saopedro.stream/livestream.m3u8
+#EXTINF:-1 tvg-name="PRAIA SUPER TUBOS - WEBCAM" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+http://213.13.26.7:1936/live/supertubos.stream/livestream.m3u8
+#EXTINF:-1 tvg-name="PREMIERE 9" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+http://62.210.89.38:1935/liverepeat/fut12/live.m3u8
+#EXTINF:-1 tvg-name="SANTA CRUZ - WEBCAM" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+http://213.13.26.7:1936/live/santacruz.stream/livestream.m3u8
+#EXTINF:-1 tvg-name="SBT" tvg-logo="logo.png" group-title="GRUPO" , SBT
+http://iphone-streaming.ustream.tv/uhls/13654224/streams/live/iphone/playlist.m3u8
+#EXTINF:-1 tvg-name="TERRA ESPORTES" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+http://wowza1.videos.movile.com:1935/live/esportes_1.smil/livestream.m3u8
+#EXTINF:-1 tvg-name="TCV" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+http://213.13.26.7:1936/live/rtc_teste/livestream.m3u8
+#EXTINF:-1 tvg-name="TERRA NOTÍCIAS" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+http://wowza1.videos.movile.com:1935/live/noticias_1.smil/livestream.m3u8
+#EXTINF:-1 tvg-name="TERRA VIVA" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+http://evp.mm.uol.com.br:1935/terraviva/terraviva/live.m3u8
+#EXTINF:-1 tvg-name="TV ABERTA SP" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+http://tvaberta.inaclive.tv.br:1935/tvabertalive/aovivo/live.m3u8
+#EXTINF:-1 tvg-name="Eska Party" tvg-logo="logo.png" group-title="GRUPO" , Eska Party
+http://stream.smcloud.net/live2/eska_party/eska_party_360p/playlist.m3u8
+#EXTINF:-1 tvg-name="Eska TV" tvg-logo="logo.png" group-title="GRUPO" , Eska TV
+http://stream.smcloud.net/live/eskatv/playlist.m3u8
+#EXTINF:-1 tvg-name="For Music TV" tvg-logo="logo.png" group-title="GRUPO" , For Music TV
+http://wowza1.top-ix.org/quartaretetv1/formusicweb/playlist.m3u8
+#EXTINF:-1 tvg-name="HD Media 3D" tvg-logo="logo.png" group-title="GRUPO" , HD Media 3D
+http://hdmedia3d.vintera.tv:1935/hdmedia3d/hdmedia3d.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="MUSICBOX" tvg-logo="logo.png" group-title="GRUPO" , MUSICBOX
+http://213.81.153.221:8080/nasa
+#EXTINF:-1 tvg-name="FUT - 03" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+http://62.210.88.208:1935/liverepeat/fut12/playlist.m3u8
+#EXTINF:-1 tvg-name="Sportv 2" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+http://62.210.83.180:1935/liverepeat/201020/live.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1, SPORTTV 1
+acestream://e6047d5c7c8b646aeb9b6a1d731341d4e50ec3a4
+
+#EXTINF:-1, SPORTTV 2
+acestream://066cc9199840226c92e245e0c8ef6315470984f9
+
+#EXTINF:-1, SPORTTV 3
+acestream://545605498d0756aa15d0e07ed78411c4c8598e45
+
+#EXTINF:-1, SPORTTV 4
+acestream://7cd48454495cca95771929f3004bcfc766574def
+
+#EXTINF:-1, SPORTTV 5
+acestream://492795001e8c1d5951af2e4ad5dacf3615d12bfa
+
+
+
+#EXTM3U
+#EXTINF:-1 tvg-name="Musicas-MTV Rocks" tvg-logo="MTVr.jpg" group-title="Musicas" , MTVr.jpg
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVROCKS/variant.m3u8?jonasiptv
+#EXTINF:-1 tvg-name="Musicas-Vevo 1 HD" tvg-logo="vevo.jpg" group-title="Musicas" , vevo.jpg
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/02/prog_index.m3u8?jonasiptv
+#EXTINF:-1 tvg-name="Musicas-Vevo 1 HD" tvg-logo="vevo.jpg" group-title="Musicas" , vevo.jpg
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/06/prog_index.m3u8
+#EXTINF:-1 tvg-name="Musicas-Vevo 2 HD" tvg-logo="vevo.jpg" group-title="Musicas" , vevo.jpg
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/06/prog_index.m3u8
+#EXTINF:-1 tvg-name="Musicas-Vevo 3 HD" tvg-logo="vevo.jpg" group-title="Musicas" , vevo.jpg
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/06/prog_index.m3u8
+#EXTINF:-1 tvg-name="Fox Sports" tvg-logo="http://logos.iptvglobal.com.br/Fox%20Sport.jpg" group-title="Esportes Brasileiros" , Fox Sports
+http://192.241.161.223/_vision_/globoam/chunks.m3u8
+#EXTINF:-1 tvg-name="SPORTV" tvg-logo="http://logos.iptvglobal.com.br/SporTV.jpg" group-title="Esportes Brasileiros" , http://logos.iptvglobal.com.br/SporTV.jpg
+http://62.210.89.38:1935/liverepeat/201020/live.m3u8
+#EXTINF:-1 tvg-name="BAND SPORTS" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+http://evp.mm.uol.com.br:1935/geob_terraviva//operadoras/playlist.m3u8?Grupo_UP_e_DOWN
+#EXTINF:-1 tvg-name="BRASIL:VEVO HD" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/appleman.m3u8
+#EXTINF:-1 tvg-name="CANAL DE TV 1" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+http://62.210.89.38:1935/liverepeat/ctv0001/live.m3u8
+#EXTINF:-1 tvg-name="CANAL DE TV 2" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+http://62.210.89.38:1935/liverepeat/ctv0002/live.m3u8
+#EXTINF:-1 tvg-name="CANAL DE TV 4" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+http://62.210.89.38:1935/liverepeat/ctv0009/live.m3u8
+#EXTINF:-1 tvg-name="CANAL DE TV 5" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+http://62.210.89.38:1935/liverepeat/ctv0010/live.m3u8
+#EXTINF:-1 tvg-name="FUT - 01" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+http://62.210.88.208:1935/liverepeat/fut01/playlist.m3u8
+#EXTINF:-1 tvg-name="FUT - 02" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+http://62.210.88.208:1935/liverepeat/fut02/playlist.m3u8
+#EXTINF:-1 tvg-name="FUT - 03" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+http://62.210.88.208:1935/liverepeat/fut12/playlist.m3u8
+#EXTINF:-1 tvg-name="FUT - 04" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+http://62.210.88.208:1935/liverepeat/fut1022842/playlist.m3u8
+#EXTINF:-1 tvg-name="FUT - 05" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+http://62.210.83.152:1935/liverepeat/201020/playlist.m3u8
+#EXTINF:-1 tvg-name="FUT - 06" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+http://62.210.88.208:1935/liverepeat/fut06/playlist.m3u8
+#EXTINF:-1 tvg-name="FUT - 07" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+http://62.210.88.208:1935/liverepeat/fut07/playlist.m3u8
+#EXTINF:-1 tvg-name="FUT - 08" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+http://62.210.88.208:1935/liverepeat/fut09/playlist.m3u8
+#EXTINF:-1 tvg-name="MTV Dance" tvg-logo="MUSIC/MTV_DANCE.png" group-title="GRUPO" , MTV Dance
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVDANCE/variant.m3u8?b?b*t$
+#EXTINF:-1 tvg-name="MTV Hits" tvg-logo="MUSIC/MTV_Hits.png" group-title="GRUPO" , MTV Hits
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_MTVHITS/variant.m3u8?b?b*t$
+#EXTINF:-1 tvg-name="MUSICBOX" tvg-logo="logo.png" group-title="GRUPO" , MUSICBOX
+http://hls.novotelecom.ru/streaming/musboxtv/tvrec/playlist.m3u8
+#EXTINF:-1 tvg-name="PFC 3 (PFC EM DIAS DE JOGOS)" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+http://62.210.89.38:1935/liverepeat/fut05/live.m3u8
+#EXTINF:-1 tvg-name="PFC 5 (PFC EM DIAS DE JOGOS)" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+http://62.210.89.38:1935/liverepeat/fut07/live.m3u8
+#EXTINF:-1 tvg-name="PFC 6 (PFC EM DIAS DE JOGOS)" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+http://62.210.89.38:1935/liverepeat/fut09/live.m3u8
+#EXTINF:-1 tvg-name="PFC 7 (PFC EM DIAS DE JOGOS)" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+http://62.210.89.38:1935/liverepeat/fut1022842/live.m3u8
+#EXTINF:-1 tvg-name="PFC 8 (PFC EM DIAS DE JOGOS)" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+http://62.210.89.38:1935/liverepeat/fut1123402/live.m3u8
+#EXTINF:-1 tvg-name="PFC 9 (PFC EM DIAS DE JOGOS)" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+http://62.210.89.38:1935/liverepeat/fut12/live.m3u8
+#EXTINF:-1 tvg-name="PRAIA CARCAVELOS - WEBCAM" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+http://213.13.26.7:1936/live/carcavelos.stream/livestream.m3u8
+#EXTINF:-1 tvg-name="PRAIA COSTA DA CAPARICA" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+http://213.13.26.7:1936/live/costa.stream/livestream.m3u8
+#EXTINF:-1 tvg-name="PRAIA DA ERICEIRA - WEBCAM" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+http://213.13.26.7:1936/live/ericeira.stream/livestream.m3u8
+#EXTINF:-1 tvg-name="PRAIA DA LUZ - WEBCAM" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+http://213.13.26.7:1936/live/luz.stream/livestream.m3u8
+#EXTINF:-1 tvg-name="PRAIA DE AVEIRO - WEBCAM" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+http://213.13.26.7:1936/live/aveiro.stream/livestream.m3u8
+#EXTINF:-1 tvg-name="PRAIA DE ESPINHO - WEBCAM" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+http://213.13.26.7:1936/live/espinho.stream/livestream.m3u8
+#EXTINF:-1 tvg-name="PRAIA DE PENICHE - WEBCAM" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+http://213.13.26.7:1936/live/peniche.stream/livestream.m3u8
+#EXTINF:-1 tvg-name="PRAIA DE Sц┐O TORPES - WEBCAM" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+http://213.13.26.7:1936/live/saotorpes.stream/livestream.m3u8
+#EXTINF:-1 tvg-name="PRAIA DO NORTE - WEBCAM" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+http://213.13.26.7:1936/live/norte.stream/livestream.m3u8
+#EXTINF:-1 tvg-name="PRAIA GRANDE - WEBCAM" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+http://213.13.26.7:1936/live/grande.stream/livestream.m3u8
+#EXTINF:-1 tvg-name="PRAIA MATOSINHOS - WEBCAM" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+http://213.13.26.7:1936/live/matosinhos.stream/livestream.m3u8
+#EXTINF:-1 tvg-name="PRAIA Sц┐O PEDRO E BAFUREIRA" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+http://213.13.26.7:1936/live/saopedro.stream/livestream.m3u8
+#EXTINF:-1 tvg-name="PRAIA SUPER TUBOS - WEBCAM" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+http://213.13.26.7:1936/live/supertubos.stream/livestream.m3u8
+#EXTINF:-1 tvg-name="Sportv 2" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+http://62.210.83.180:1935/liverepeat/201020/live.m3u8
+#EXTINF:-1 tvg-name="ARENA SPORT (IND)" tvg-logo="arena_ind.png" group-title="GRUPO" , arena_ind.png
+http://118.97.167.19/jhos/arena//Playlist.m3u8
+#EXTINF:-1 tvg-name="Comedy Central" tvg-logo="logo.png" group-title="GRUPO" , Comedy Central
+http://62.210.89.38:1935/liverepeat/comedy913/comedy913/live.m3u8
+#EXTINF:-1 tvg-name="ESPORTES-Band Sports HD" tvg-logo="bands.jpg" group-title="ESPORTES" , bands.jpg
+http://evp.mm.uol.com.br:1935/geob_terraviva/operadoras/live.m3u8
+#EXTINF:-1 tvg-name="ESPORTES-Fox Sports HD" tvg-logo="foxsports.jpg" group-title="ESPORTES" , foxsports.jpg
+http://192.241.161.223/_vision_/globoam/chunks.m3u8
+#EXTINF:-1 tvg-name="ESPORTES-Esporte Interativo HD" tvg-logo="esporteinterativo.jpg" group-title="ESPORTES" , esporteinterativo.jpg
+http://wpc.16654.sigmacdn.net/hls-live/2016654/Evento1/EITV/eitv720.m3u8
+#EXTINF:-1 tvg-name="DOCUMENTARIOS-VIASAT NAT HIS HD" tvg-logo="VSNHHD.jpg" group-title="DOCUMENTARIOS" , VSNHHD.jpg
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_C03_VIASATNATUREHISTORYHD/variant.m3u8?version=2
+#EXTINF:-1 tvg-name="DOCUMENTARIOS-VIASAT HISTORY" tvg-logo="VIASATh.jpg" group-title="DOCUMENTARIOS" , VIASATh.jpg
+http://hlsstr02.svc.iptv.rt.ru/hls/CH_VIASATHISTORY/variant.m3u8?version=2
+#EXTINF:-1 tvg-name="VARIEDADES-MTV Dance" tvg-logo="mtv.jpg" group-title="VARIEDADES" , mtv.jpg
+http://92.50.181.6/tv/1280/index.m3u8
+#EXTINF:-1 tvg-name="VARIEDADES-MTV Hits" tvg-logo="mtv.jpg" group-title="VARIEDADES" , mtv.jpg
+http://92.50.181.6/tv/1278/index.m3u8
+#EXTINF:-1 tvg-name="VARIEDADES-MTV Rocks" tvg-logo="mtv.jpg" group-title="VARIEDADES" , mtv.jpg
+http://92.50.181.6/tv/1279/index.m3u8
+#EXTINF:-1 tvg-name="VARIEDADES-Vevo 2 HD" tvg-logo="vevo.jpg" group-title="VARIEDADES" , vevo.jpg
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8
+#EXTINF:-1 tvg-name="VARIEDADES-Vevo 3 HD" tvg-logo="vevo.jpg" group-title="VARIEDADES" , vevo.jpg
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch3/05/prog_index.m3u8
+#EXTINF:-1 tvg-name="VARIEDADES-Vevo HD" tvg-logo="vevo.jpg" group-title="VARIEDADES" , vevo.jpg
+http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch1/05/prog_index.m3u8
+#EXTINF:-1 tvg-name="VARIEDADES-Vhr 1 classic" tvg-logo="mtv.jpg" group-title="VARIEDADES" , mtv.jpg
+http://92.50.181.6/tv/1282/index.m3u8
+#EXTINF:-1 tvg-name="ClubLand HD" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8
+#EXTINF:-1 tvg-name="GAZETA WEB" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+http://shflash.directradios.com:1935/gazeta3/stream/PAZ_Chega_de_Guerras.m3u8
+#EXTINF:-1 tvg-name="Lobas TV" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+http://149.11.34.6:1935/live/lobas.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="MiMusica HD" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+http://uneapple-i.akamaihd.net/hls/live/206731/grupoune_st20@206731/st20_index.m3u8
+#EXTINF:-1 tvg-name="Now Music" tvg-logo="logo.png" group-title="GRUPO" , Now Music
+http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&protocol=http&output=playlist.m3u8
+#EXTINF:-1 tvg-name="Antena 3 Sports 720 HD" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+http://antena3-aos1-apple-live.adaptive.level3.net/apple/antena3/channel01/antena_3_hd_1548K_1280x720_main.m3u8?husham.com
+#EXTINF:-1 tvg-name="Bein Sports 1 -Backup link" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+http://185.56.30.123:8082/TV4001
+#EXTINF:-1 tvg-name="Bein Sports 2 -Backup link" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+http://185.56.30.123:8082/TV4002
+#EXTINF:-1 tvg-name="Bein Sports 3 -Backup link" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+http://185.56.30.123:8082/TV4003
+#EXTINF:-1 tvg-name="Bein Sports 4 -Backup link" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+http://185.56.30.123:8082/TV4004
+#EXTINF:-1 tvg-name="Bein Sports 5 -Backup link" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+http://185.56.30.123:8082/TV4005
+#EXTINF:-1 tvg-name="Bein Sports 6 -Backup link" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+http://185.56.30.123:8082/TV4006
+#EXTINF:-1 tvg-name="Bein Sports 7 -Backup link" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+http://185.56.30.123:8082/TV4007
+#EXTINF:-1 tvg-name="Bein Sports 8 -Backup link" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+http://185.56.30.123:8082/TV4008
+#EXTINF:-1 tvg-name="Bein Sports 9 -Backup link" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+http://185.56.30.123:8082/TV4009
+#EXTINF:-1 tvg-name="Big Ten Network HD (720)" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
+#EXTINF:-1 tvg-name="BMW CHANNEL Italia mms" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+mms://100automoto.tv/bmw
+#EXTINF:-1 tvg-name="ENG-Classic Goals (Low Quality)" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+rtsp://46.249.213.93/broadcast/classicgoals-tablet.3gp
+#EXTINF:-1 tvg-name="ENG-Climb On (Low Quality)" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+rtsp://46.249.213.93/broadcast/climbon-tablet.3gp
+#EXTINF:-1 tvg-name="ENG-Drift 4 Ever(Low Quality)" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+rtsp://46.249.213.93/broadcast/drift4ever-tablet.3gp
+#EXTINF:-1 tvg-name="PAC 12 Bay Area (HD)" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+http://www.xrxs.net/video/live-p12baya-4728.m3u8
+#EXTINF:-1 tvg-name="Rai Sport 1" tvg-logo="logo.png" group-title="GRUPO" , Rai Sport 1
+mmsh://212.162.68.163:80/raisport+
+#EXTINF:-1 tvg-name="Rai Sport 2" tvg-logo="logo.png" group-title="GRUPO" , Rai Sport 2
+mmsh://212.162.68.163:80/raisport2
+#EXTINF:-1 tvg-name="Sports TV" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+http://stream.sportstv.com.tr/sportstv/SportsTV3/playlist.m3u8?husham.com
+#EXTINF:-1 tvg-name="HD SPORTS-PAC-12 Net. (Bay Area)" tvg-logo="Pac12.png" group-title="HD SPORTS" , Pac12.png
+http://xrxs.net/video/live-p12baya-4728.m3u8
+#EXTINF:-1 tvg-name="VARIEDADES-Comedy Central" tvg-logo="comedy.jpg" group-title="VARIEDADES" , comedy.jpg
+http://62.210.89.38:1935/liverepeat/comedy913/comedy913/live.m3u8
+#EXTINF:-1 tvg-name="ESPORTES-Ei Nordeste HD" tvg-logo="esporteinterativoN.jpg" group-title="ESPORTES" , esporteinterativoN.jpg
+http://wpc.16654.sigmacdn.net/hls-live/2016654/Evento1/EITV/eine720.m3u8
+#EXTINF:-1 tvg-name="ABC News" tvg-logo="logo.png" group-title="GRUPO" , ABC News
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?jonasiptv
+#EXTINF:-1 tvg-name="ANIMATED FILMS" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+mms://72.13.93.186/animatedfilms
+#EXTINF:-1 tvg-name="CARTOON CLASSICS" tvg-logo="logo.png" group-title="GRUPO" , logo.png
+mms://72.13.93.186/cartoonclassics?.wma
